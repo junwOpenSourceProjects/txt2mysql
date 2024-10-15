@@ -1,0 +1,16 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2021	42	42
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	USNEWS世界大学排名	2021	121	121
+沙特国王大学	King Saud University	沙特, 亚洲	USNEWS世界大学排名	2021	312	312
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	USNEWS世界大学排名	2021	536	536
+哈里发大学	Khalifa University	沙特, 亚洲	USNEWS世界大学排名	2021	672	672
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	USNEWS世界大学排名	2021	763	763
+沙特·本·阿卜杜勒阿齐兹国王健康科学大学	King Saud Bin Abdulaziz University For Health Sciences	沙特, 亚洲	USNEWS世界大学排名	2021	1156	1,156
+泰巴大学	Taibah University	沙特, 亚洲	USNEWS世界大学排名	2021	1221	1,221
+哈立德国王大学	King Khalid University	沙特, 亚洲	USNEWS世界大学排名	2021	1285	1,285
+伊玛目阿卜杜勒拉曼·本·费萨尔大学	Imam Abdulrahman Bin Faisal University	沙特, 亚洲	USNEWS世界大学排名	2021	1396	1,396
+塔伊夫大学	Taif University	沙特, 亚洲	USNEWS世界大学排名	2021	1476	1,476
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	USNEWS世界大学排名	2021	1491	1,491
+阿尔法萨尔大学	Alfaisal University	沙特, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+沙迦大学	University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2021	9999	Unranked

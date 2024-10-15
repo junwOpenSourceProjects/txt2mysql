@@ -1,0 +1,67 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2020	43	43
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2020	56	56
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2020	77	77
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2020	91	91
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2020	108	108
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2020	122	122
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2020	145	145
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2020	158	158
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2020	160	160
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2020	168	168
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2020	179	179
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2020	181	181
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2020	182	182
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2020	204	204
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2020	208	208
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2020	213	213
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2020	240	240
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2020	245	245
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2020	262	262
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2020	276	276
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2020	298	298
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2020	307	307
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2020	325	325
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2020	353	353
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2020	355	355
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2020	358	358
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2020	366	366
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2020	383	383
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2020	385	385
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2020	423	423
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2020	459	459
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2020	459	459
+德国伍珀塔尔大学	Bergische Universitt Wuppertal	德国, 欧洲	USNEWS世界大学排名	2020	468	468
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2020	472	472
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2020	477	477
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2020	495	495
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2020	497	497
+锡根大学	Universität Siegen	德国, 欧洲	USNEWS世界大学排名	2020	509	509
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2020	509	509
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2020	532	532
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2020	539	539
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2020	547	547
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2020	611	611
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2020	618	618
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2020	624	624
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2020	630	630
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2020	638	638
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2020	685	685
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2020	692	692
+勃兰登堡理工大学	Brandenburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2020	733	733
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2020	743	743
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2020	763	763
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2020	769	769
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2020	872	872
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2020	898	898
+帕德博恩大学	University of Paderborn	德国, 欧洲	USNEWS世界大学排名	2020	902	902
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2020	951	951
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2020	987	987
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2020	998	998
+特里尔大学	University of Trier	德国, 欧洲	USNEWS世界大学排名	2020	1009	1009
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2020	1091	1091
+奥斯纳布吕克大学	University of Osnabrück	德国, 欧洲	USNEWS世界大学排名	2020	1091	1091
+格赖夫斯瓦尔德医学院	Greifswald Medical School	德国, 欧洲	USNEWS世界大学排名	2020	1104	1104
+伊尔梅瑙工业大学	Ilmenau University of Technology	德国, 欧洲	USNEWS世界大学排名	2020	1139	1139
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2020	1189	1189
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2020	1367	1367

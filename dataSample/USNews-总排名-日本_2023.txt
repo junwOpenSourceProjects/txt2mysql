@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2023	81	81
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2023	140	140
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2023	286	286
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2023	286	286
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2023	333	333
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2023	349	349
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2023	360	360
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2023	432	432
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2023	432	432
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2023	517	517
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2023	579	579
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2023	583	583
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2023	667	667
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2023	750	750
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2023	757	757
+冲绳科学技术大学	Okinawa Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2023	807	807
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2023	826	826
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2023	835	835
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2023	835	835
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2023	884	884
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2023	984	984
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2023	1049	1,049
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2023	1060	1,060
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2023	1066	1,066
+大阪公立大学	Osaka Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2023	1085	1,085
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2023	1095	1,095
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2023	1136	1,136
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2023	1163	1,163
+日本职业与环境卫生大学	University of Occupational And Environmental Health, Japan	日本, 亚洲	USNEWS世界大学排名	2023	1172	1,172
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1180	1,180
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2023	1184	1,184
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2023	1233	1,233
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2023	1233	1,233
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	USNEWS世界大学排名	2023	1309	1,309
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2023	1346	1,346
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2023	1350	1,350
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2023	1357	1,357
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2023	1357	1,357
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2023	1381	1,381
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2023	1381	1,381
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1425	1,425
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2023	1431	1,431
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2023	1431	1,431
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2023	1431	1,431
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2023	1438	1,438
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2023	1478	1,478
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2023	1489	1,489
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2023	1494	1,494
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2023	1494	1,494
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2023	1522	1,522
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2023	1526	1,526
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2023	1526	1,526
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2023	1535	1,535
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2023	1549	1,549
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2023	1567	1,567
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2023	1570	1,570
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2023	1581	1,581
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2023	1581	1,581
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2023	1589	1,589
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2023	1589	1,589
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2023	1609	1,609
+鸟取大学	Tottori University	日本, 亚洲	USNEWS世界大学排名	2023	1617	1,617
+东京海洋大学	Tokyo University of Marine Science And Technology	日本, 亚洲	USNEWS世界大学排名	2023	1621	1,621
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2023	1627	1,627
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2023	1636	1,636
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2023	1647	1,647
+长冈技术科学大学	Nagaoka University of Technology	日本, 亚洲	USNEWS世界大学排名	2023	1653	1,653
+佐贺大学	Saga University	日本, 亚洲	USNEWS世界大学排名	2023	1653	1,653
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2023	1658	1,658
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2023	1675	1,675
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2023	1677	1,677
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2023	1686	1,686
+国际医疗福祉大学	International University of Health And Welfare	日本, 亚洲	USNEWS世界大学排名	2023	1705	1,705
+和歌山医科大学	Wakayama Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1705	1,705
+岛根大学	Shimane University	日本, 亚洲	USNEWS世界大学排名	2023	1712	1,712
+浜松医科大学	Hamamatsu University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2023	1718	1,718
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2023	1718	1,718
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1723	1,723
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2023	1741	1,741
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2023	1767	1,767
+关西医科大学	Kansai Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1771	1,771
+明治大学	Meiji University	日本, 亚洲	USNEWS世界大学排名	2023	1774	1,774
+中央大学，日本	Chuo University	日本, 亚洲	USNEWS世界大学排名	2023	1788	1,788
+福岛医科大学	Fukushima Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1798	1,798
+大分大学	Oita University	日本, 亚洲	USNEWS世界大学排名	2023	1798	1,798
+关西学院大学	Kwansei Gakuin University	日本, 亚洲	USNEWS世界大学排名	2023	1803	1,803
+埼玉医科大学	Saitama Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1812	1,812
+庆林大学	Kyorin University	日本, 亚洲	USNEWS世界大学排名	2023	1813	1,813
+奈良县立医科大学	Nara Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1857	1,857
+姬路工业大学	Himeji Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2023	1857	1,857
+滋贺医科大学	Shiga University of Medical Science	日本, 亚洲	USNEWS世界大学排名	2023	1861	1,861
+岩手大学	Iwate University	日本, 亚洲	USNEWS世界大学排名	2023	1871	1,871
+同志社大学	Doshisha University	日本, 亚洲	USNEWS世界大学排名	2023	1873	1,873
+秋田大学	Akita University	日本, 亚洲	USNEWS世界大学排名	2023	1879	1,879
+茨城大学	Ibaraki University	日本, 亚洲	USNEWS世界大学排名	2023	1883	1,883
+圣玛丽安娜大学医学院	St Marianna University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2023	1884	1,884
+兵库医学院	Hyogo College of Medicine	日本, 亚洲	USNEWS世界大学排名	2023	1891	1,891
+福井大学	University of Fukui	日本, 亚洲	USNEWS世界大学排名	2023	1899	1,899
+大阪医科大学	Osaka Medical College	日本, 亚洲	USNEWS世界大学排名	2023	1911	1,911
+岩手医科大学	Iwate Medical University	日本, 亚洲	USNEWS世界大学排名	2023	1919	1,919

@@ -1,0 +1,4 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2018	13	13
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	计算机科学	2018	103	103
+沙特国王大学	King Saud University	沙特, 亚洲	计算机科学	2018	126	126

@@ -1,0 +1,14 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2017	319	319
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2017	364	364
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2017	593	593
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	USNEWS世界大学排名	2017	617	617
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2017	733	733
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2017	797	797
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2017	831	831
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2017	911	911
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2017	917	917
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2017	921	921
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2017	921	921
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2017	944	944
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2017	1000	1000

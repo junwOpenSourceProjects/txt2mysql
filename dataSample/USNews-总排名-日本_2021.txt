@@ -1,0 +1,86 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2021	73	73
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2021	125	125
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2021	252	252
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2021	269	269
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2021	310	310
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2021	316	316
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2021	329	329
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2021	395	395
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2021	437	437
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2021	467	467
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2021	529	529
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2021	538	538
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2021	580	580
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2021	639	639
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2021	639	639
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2021	774	774
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2021	779	779
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2021	792	792
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2021	864	864
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2021	904	904
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2021	936	936
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2021	965	965
+日本职业与环境卫生大学	University of Occupational And Environmental Health, Japan	日本, 亚洲	USNEWS世界大学排名	2021	984	984
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2021	990	990
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2021	1016	1,016
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2021	1022	1,022
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2021	1031	1,031
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2021	1044	1,044
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2021	1106	1,106
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2021	1117	1,117
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2021	1125	1,125
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2021	1134	1,134
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2021	1148	1,148
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2021	1163	1,163
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2021	1174	1,174
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2021	1187	1,187
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2021	1215	1,215
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2021	1234	1,234
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2021	1234	1,234
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2021	1238	1,238
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2021	1266	1,266
+冲绳科学技术大学	Okinawa Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2021	1271	1,271
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2021	1281	1,281
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2021	1315	1,315
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2021	1321	1,321
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2021	1333	1,333
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2021	1335	1,335
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2021	1348	1,348
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2021	1352	1,352
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2021	1360	1,360
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2021	1381	1,381
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2021	1381	1,381
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2021	1390	1,390
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2021	1390	1,390
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2021	1405	1,405
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2021	1409	1,409
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2021	1413	1,413
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2021	1413	1,413
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2021	1423	1,423
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2021	1429	1,429
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2021	1432	1,432
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2021	1452	1,452
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2021	1459	1,459
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2021	1496	1,496
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2021	1496	1,496
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+浜松医科大学	Hamamatsu University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+广岛工学院	Hiroshima Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+兵库医学院	Hyogo College of Medicine	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+岩手大学	Iwate University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+金泽医科大学	Kanazawa Medical University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+川崎医学院	Kawasaki Medical School	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+京都教育大学	Kyoto University of Education	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+长崎综合科学大学	Nagasaki Institute of Applied Science	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+奈良县立医科大学	Nara Medical University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+御茶水女子大学	Ochanomizu University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+大阪医科大学	Osaka Medical College	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+立教大学	Rikkyo University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+埼玉医科大学	Saitama Medical University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+滋贺医科大学	Shiga University of Medical Science	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked
+和歌山医科大学	Wakayama Medical University	日本, 亚洲	USNEWS世界大学排名	2021	9999	Unranked

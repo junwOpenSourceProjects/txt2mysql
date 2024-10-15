@@ -1,0 +1,11 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2021	94	94
+京都大学	Kyoto University	日本, 亚洲	计算机科学	2021	200	200
+大阪大学	Osaka University	日本, 亚洲	计算机科学	2021	211	211
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	计算机科学	2021	243	243
+东北大学，仙台	Tohoku University	日本, 亚洲	计算机科学	2021	273	273
+九州大学	Kyushu University	日本, 亚洲	计算机科学	2021	289	289
+早稻田大学	Waseda University	日本, 亚洲	计算机科学	2021	321	321
+名古屋大学	Nagoya University	日本, 亚洲	计算机科学	2021	368	368
+筑波大学	University of Tsukuba	日本, 亚洲	计算机科学	2021	485	485
+电气通信大学	The University of Electro-communications	日本, 亚洲	计算机科学	2021	498	498

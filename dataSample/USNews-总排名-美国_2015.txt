@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+哈佛大学	Harvard University	美国, 北美洲	USNEWS世界大学排名	2015	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	USNEWS世界大学排名	2015	2	2
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	USNEWS世界大学排名	2015	3	3
+斯坦福大学	Stanford University	美国, 北美洲	USNEWS世界大学排名	2015	4	4
+加州理工学院	California Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2015	7	7
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	USNEWS世界大学排名	2015	8	8
+芝加哥大学	University of Chicago	美国, 北美洲	USNEWS世界大学排名	2015	9	9
+哥伦比亚大学	Columbia University	美国, 北美洲	USNEWS世界大学排名	2015	10	10
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	USNEWS世界大学排名	2015	11	11
+普林斯顿大学	Princeton University	美国, 北美洲	USNEWS世界大学排名	2015	13	13
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	USNEWS世界大学排名	2015	14	14
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	USNEWS世界大学排名	2015	14	14
+耶鲁大学	Yale University	美国, 北美洲	USNEWS世界大学排名	2015	17	17
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	USNEWS世界大学排名	2015	18	18
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	USNEWS世界大学排名	2015	19	19
+杜克大学	Duke University	美国, 北美洲	USNEWS世界大学排名	2015	20	20
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	USNEWS世界大学排名	2015	22	22
+康奈尔大学	Cornell University	美国, 北美洲	USNEWS世界大学排名	2015	23	23
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	USNEWS世界大学排名	2015	25	25
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	USNEWS世界大学排名	2015	27	27
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	USNEWS世界大学排名	2015	28	28
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	USNEWS世界大学排名	2015	29	29
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	USNEWS世界大学排名	2015	30	30
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	USNEWS世界大学排名	2015	32	32
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	USNEWS世界大学排名	2015	34	34
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	USNEWS世界大学排名	2015	35	35
+纽约大学	New York University	美国, 北美洲	USNEWS世界大学排名	2015	36	36
+波士顿大学	Boston University	美国, 北美洲	USNEWS世界大学排名	2015	37	37
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	USNEWS世界大学排名	2015	37	37
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	USNEWS世界大学排名	2015	41	41
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	USNEWS世界大学排名	2015	42	42
+南加州大学	University of Southern California	美国, 北美洲	USNEWS世界大学排名	2015	50	50
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	USNEWS世界大学排名	2015	51	51
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	USNEWS世界大学排名	2015	52	52
+佛罗里达大学	University of Florida	美国, 北美洲	USNEWS世界大学排名	2015	53	53
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	USNEWS世界大学排名	2015	55	55
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	USNEWS世界大学排名	2015	58	58
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2015	61	61
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	USNEWS世界大学排名	2015	63	63
+亚利桑那大学	University of Arizona	美国, 北美洲	USNEWS世界大学排名	2015	64	64
+加州大学-欧文	University of California, Irvine	美国, 北美洲	USNEWS世界大学排名	2015	66	66
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	USNEWS世界大学排名	2015	69	69
+洛克菲勒大学	Rockefeller University	美国, 北美洲	USNEWS世界大学排名	2015	71	71
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	USNEWS世界大学排名	2015	74	74
+密歇根州立大学	Michigan State University	美国, 北美洲	USNEWS世界大学排名	2015	75	75
+埃莫里大学	Emory University	美国, 北美洲	USNEWS世界大学排名	2015	84	84
+德州农工大学	Texas A&m University	美国, 北美洲	USNEWS世界大学排名	2015	86	86
+莱斯大学	Rice University	美国, 北美洲	USNEWS世界大学排名	2015	89	89
+范德堡大学	Vanderbilt University	美国, 北美洲	USNEWS世界大学排名	2015	89	89
+塔夫茨大学	Tufts University	美国, 北美洲	USNEWS世界大学排名	2015	91	91
+梅奥临床医学院	Mayo Clinic Alix School of Medicine	美国, 北美洲	USNEWS世界大学排名	2015	101	101
+弗吉尼亚大学	University of Virginia	美国, 北美洲	USNEWS世界大学排名	2015	102	102
+布朗大学	Brown University	美国, 北美洲	USNEWS世界大学排名	2015	106	106
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	USNEWS世界大学排名	2015	114	114
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	USNEWS世界大学排名	2015	115	115
+罗切斯特大学	University of Rochester	美国, 北美洲	USNEWS世界大学排名	2015	120	120
+爱荷华大学	University of Iowa	美国, 北美洲	USNEWS世界大学排名	2015	121	121
+加州大学-河滨	University of California, Riverside	美国, 北美洲	USNEWS世界大学排名	2015	127	127
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	USNEWS世界大学排名	2015	131	131
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	USNEWS世界大学排名	2015	137	137
+亚利桑那州立大学	Arizona State University	美国, 北美洲	USNEWS世界大学排名	2015	143	143
+犹他大学	University of Utah	美国, 北美洲	USNEWS世界大学排名	2015	143	143
+爱荷华州立大学	Iowa State University	美国, 北美洲	USNEWS世界大学排名	2015	155	155
+马里兰大学-巴尔的摩	University of Maryland, Baltimore	美国, 北美洲	USNEWS世界大学排名	2015	158	158
+贝勒医学院	Baylor College of Medicine	美国, 北美洲	USNEWS世界大学排名	2015	160	160
+西奈山医学院	Icahn School of Medicine At Mount Sinai	美国, 北美洲	USNEWS世界大学排名	2015	160	160
+德克萨斯大学西南医学中心	The University of Texas Southwestern Medical Center At Dallas	美国, 北美洲	USNEWS世界大学排名	2015	166	166
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	USNEWS世界大学排名	2015	168	168
+迈阿密大学	University of Miami	美国, 北美洲	USNEWS世界大学排名	2015	169	169
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	USNEWS世界大学排名	2015	171	171
+佛罗里达州立大学	Florida State University	美国, 北美洲	USNEWS世界大学排名	2015	172	172
+阿拉巴马大学-伯明翰	University of Alabama At Birmingham	美国, 北美洲	USNEWS世界大学排名	2015	182	182
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	USNEWS世界大学排名	2015	184	184
+辛辛那提大学	University of Cincinnati	美国, 北美洲	USNEWS世界大学排名	2015	200	200
+德克萨斯大学卫生科学中心-休斯顿	The University of Texas Health Science Center At Houston	美国, 北美洲	USNEWS世界大学排名	2015	201	201
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	USNEWS世界大学排名	2015	204	204
+佐治亚大学	University of Georgia	美国, 北美洲	USNEWS世界大学排名	2015	205	205
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	USNEWS世界大学排名	2015	208	208
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	USNEWS世界大学排名	2015	213	213
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	USNEWS世界大学排名	2015	218	218
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	USNEWS世界大学排名	2015	224	224
+叶史瓦大学	Yeshiva University	美国, 北美洲	USNEWS世界大学排名	2015	230	230
+科罗拉多州立大学	Colorado State University	美国, 北美洲	USNEWS世界大学排名	2015	241	241
+达特茅斯学院	Dartmouth College	美国, 北美洲	USNEWS世界大学排名	2015	242	242
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	USNEWS世界大学排名	2015	248	248
+俄勒冈州立大学	Oregon State University	美国, 北美洲	USNEWS世界大学排名	2015	250	250
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	USNEWS世界大学排名	2015	253	253
+乔治城大学	Georgetown University	美国, 北美洲	USNEWS世界大学排名	2015	258	258
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	USNEWS世界大学排名	2015	262	262
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	USNEWS世界大学排名	2015	265	265
+俄勒冈卫生科学大学	Oregon Health And Science University	美国, 北美洲	USNEWS世界大学排名	2015	267	267
+肯塔基大学	University of Kentucky	美国, 北美洲	USNEWS世界大学排名	2015	268	268
+俄勒冈大学	University of Oregon	美国, 北美洲	USNEWS世界大学排名	2015	268	268
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	USNEWS世界大学排名	2015	272	272
+韦恩州立大学	Wayne State University	美国, 北美洲	USNEWS世界大学排名	2015	276	276
+乔治华盛顿大学	The George Washington University	美国, 北美洲	USNEWS世界大学排名	2015	281	281
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	USNEWS世界大学排名	2015	284	284
+马萨诸塞大学医学院	University of Massachusetts Medical School, Worcester	美国, 北美洲	USNEWS世界大学排名	2015	286	286
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	USNEWS世界大学排名	2015	288	288
+托马斯杰斐逊大学	Thomas Jefferson University	美国, 北美洲	USNEWS世界大学排名	2015	290	290

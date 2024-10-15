@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+哈佛大学	Harvard University	美国, 北美洲	USNEWS世界大学排名	2020	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	USNEWS世界大学排名	2020	2	2
+斯坦福大学	Stanford University	美国, 北美洲	USNEWS世界大学排名	2020	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	USNEWS世界大学排名	2020	4	4
+加州理工学院	California Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2020	6	6
+哥伦比亚大学	Columbia University	美国, 北美洲	USNEWS世界大学排名	2020	7	7
+普林斯顿大学	Princeton University	美国, 北美洲	USNEWS世界大学排名	2020	8	8
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	USNEWS世界大学排名	2020	10	10
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	USNEWS世界大学排名	2020	11	11
+耶鲁大学	Yale University	美国, 北美洲	USNEWS世界大学排名	2020	12	12
+芝加哥大学	University of Chicago	美国, 北美洲	USNEWS世界大学排名	2020	13	13
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	USNEWS世界大学排名	2020	14	14
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	USNEWS世界大学排名	2020	15	15
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	USNEWS世界大学排名	2020	16	16
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	USNEWS世界大学排名	2020	17	17
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	USNEWS世界大学排名	2020	19	19
+杜克大学	Duke University	美国, 北美洲	USNEWS世界大学排名	2020	22	22
+康奈尔大学	Cornell University	美国, 北美洲	USNEWS世界大学排名	2020	23	23
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	USNEWS世界大学排名	2020	24	24
+纽约大学	New York University	美国, 北美洲	USNEWS世界大学排名	2020	28	28
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	USNEWS世界大学排名	2020	31	31
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	USNEWS世界大学排名	2020	33	33
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	USNEWS世界大学排名	2020	34	34
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	USNEWS世界大学排名	2020	37	37
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	USNEWS世界大学排名	2020	41	41
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	USNEWS世界大学排名	2020	45	45
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	USNEWS世界大学排名	2020	47	47
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	USNEWS世界大学排名	2020	47	47
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	USNEWS世界大学排名	2020	50	50
+波士顿大学	Boston University	美国, 北美洲	USNEWS世界大学排名	2020	51	51
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	USNEWS世界大学排名	2020	51	51
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	USNEWS世界大学排名	2020	59	59
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2020	62	62
+洛克菲勒大学	Rockefeller University	美国, 北美洲	USNEWS世界大学排名	2020	62	62
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	USNEWS世界大学排名	2020	64	64
+西奈山医学院	Icahn School of Medicine At Mount Sinai	美国, 北美洲	USNEWS世界大学排名	2020	67	67
+南加州大学	University of Southern California	美国, 北美洲	USNEWS世界大学排名	2020	69	69
+埃莫里大学	Emory University	美国, 北美洲	USNEWS世界大学排名	2020	71	71
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	USNEWS世界大学排名	2020	72	72
+范德堡大学	Vanderbilt University	美国, 北美洲	USNEWS世界大学排名	2020	72	72
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	USNEWS世界大学排名	2020	76	76
+加州大学-欧文	University of California, Irvine	美国, 北美洲	USNEWS世界大学排名	2020	78	78
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	USNEWS世界大学排名	2020	82	82
+亚利桑那大学	University of Arizona	美国, 北美洲	USNEWS世界大学排名	2020	85	85
+密歇根州立大学	Michigan State University	美国, 北美洲	USNEWS世界大学排名	2020	101	101
+布朗大学	Brown University	美国, 北美洲	USNEWS世界大学排名	2020	102	102
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	USNEWS世界大学排名	2020	105	105
+佛罗里达大学	University of Florida	美国, 北美洲	USNEWS世界大学排名	2020	105	105
+弗吉尼亚大学	University of Virginia	美国, 北美洲	USNEWS世界大学排名	2020	107	107
+莱斯大学	Rice University	美国, 北美洲	USNEWS世界大学排名	2020	108	108
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	USNEWS世界大学排名	2020	114	114
+罗切斯特大学	University of Rochester	美国, 北美洲	USNEWS世界大学排名	2020	125	125
+贝勒医学院	Baylor College of Medicine	美国, 北美洲	USNEWS世界大学排名	2020	132	132
+德州农工大学	Texas A&m University	美国, 北美洲	USNEWS世界大学排名	2020	134	134
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	USNEWS世界大学排名	2020	136	136
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	USNEWS世界大学排名	2020	136	136
+犹他大学	University of Utah	美国, 北美洲	USNEWS世界大学排名	2020	139	139
+亚利桑那州立大学	Arizona State University	美国, 北美洲	USNEWS世界大学排名	2020	146	146
+德克萨斯大学西南医学中心	The University of Texas Southwestern Medical Center At Dallas	美国, 北美洲	USNEWS世界大学排名	2020	146	146
+加州大学-河滨	University of California, Riverside	美国, 北美洲	USNEWS世界大学排名	2020	149	149
+俄勒冈卫生科学大学	Oregon Health And Science University	美国, 北美洲	USNEWS世界大学排名	2020	152	152
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	USNEWS世界大学排名	2020	155	155
+爱荷华大学	University of Iowa	美国, 北美洲	USNEWS世界大学排名	2020	161	161
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	USNEWS世界大学排名	2020	171	171
+阿拉巴马大学-伯明翰	University of Alabama At Birmingham	美国, 北美洲	USNEWS世界大学排名	2020	175	175
+佛罗里达州立大学	Florida State University	美国, 北美洲	USNEWS世界大学排名	2020	190	190
+塔夫茨大学	Tufts University	美国, 北美洲	USNEWS世界大学排名	2020	190	190
+辛辛那提大学	University of Cincinnati	美国, 北美洲	USNEWS世界大学排名	2020	196	196
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	USNEWS世界大学排名	2020	200	200
+达特茅斯学院	Dartmouth College	美国, 北美洲	USNEWS世界大学排名	2020	214	214
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	USNEWS世界大学排名	2020	217	217
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	USNEWS世界大学排名	2020	217	217
+爱荷华州立大学	Iowa State University	美国, 北美洲	USNEWS世界大学排名	2020	220	220
+俄勒冈大学	University of Oregon	美国, 北美洲	USNEWS世界大学排名	2020	220	220
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	USNEWS世界大学排名	2020	223	223
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	USNEWS世界大学排名	2020	232	232
+迈阿密大学	University of Miami	美国, 北美洲	USNEWS世界大学排名	2020	235	235
+布兰迪斯大学	Brandeis University	美国, 北美洲	USNEWS世界大学排名	2020	250	250
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	USNEWS世界大学排名	2020	253	253
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	USNEWS世界大学排名	2020	253	253
+乔治华盛顿大学	The George Washington University	美国, 北美洲	USNEWS世界大学排名	2020	255	255
+马里兰大学-巴尔的摩	University of Maryland, Baltimore	美国, 北美洲	USNEWS世界大学排名	2020	257	257
+叶史瓦大学	Yeshiva University	美国, 北美洲	USNEWS世界大学排名	2020	262	262
+科罗拉多州立大学	Colorado State University	美国, 北美洲	USNEWS世界大学排名	2020	266	266
+俄勒冈州立大学	Oregon State University	美国, 北美洲	USNEWS世界大学排名	2020	266	266
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	USNEWS世界大学排名	2020	266	266
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	USNEWS世界大学排名	2020	273	273
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	USNEWS世界大学排名	2020	279	279
+佐治亚大学	University of Georgia	美国, 北美洲	USNEWS世界大学排名	2020	290	290
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	USNEWS世界大学排名	2020	290	290
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	USNEWS世界大学排名	2020	290	290
+乔治城大学	Georgetown University	美国, 北美洲	USNEWS世界大学排名	2020	298	298
+纽约州立大学-奥尔巴尼	University At Albany, State University of New York	美国, 北美洲	USNEWS世界大学排名	2020	298	298
+韦恩州立大学	Wayne State University	美国, 北美洲	USNEWS世界大学排名	2020	309	309
+南佛罗里达大学	University of South Florida	美国, 北美洲	USNEWS世界大学排名	2020	310	310
+特拉华大学	University of Delaware	美国, 北美洲	USNEWS世界大学排名	2020	311	311
+印第安纳大学-印第安纳波利斯	Indiana University-purdue University, Indianapolis	美国, 北美洲	USNEWS世界大学排名	2020	315	315
+坦普尔大学	Temple University	美国, 北美洲	USNEWS世界大学排名	2020	319	319
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	USNEWS世界大学排名	2020	325	325
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	USNEWS世界大学排名	2020	338	338

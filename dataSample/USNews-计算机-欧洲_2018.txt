@@ -1,0 +1,63 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2018	11	11
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2018	23	23
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2018	27	27
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2018	29	29
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2018	30	30
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2018	35	35
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2018	38	38
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2018	43	43
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2018	44	44
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2018	45	45
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2018	47	47
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2018	48	48
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2018	52	52
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	计算机科学	2018	54	54
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2018	63	63
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2018	66	66
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2018	70	70
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2018	71	71
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2018	72	72
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2018	74	74
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2018	78	78
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2018	81	81
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2018	86	86
+萨里大学	University of Surrey	英国, 欧洲	计算机科学	2018	86	86
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2018	92	92
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	计算机科学	2018	93	93
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2018	95	95
+林雪平大学	Linkoping University	瑞典, 欧洲	计算机科学	2018	99	99
+特文特大学	University of Twente	荷兰, 欧洲	计算机科学	2018	100	100
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	计算机科学	2018	110	110
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2018	112	112
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2018	112	112
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2018	117	117
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2018	123	123
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2018	123	123
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2018	127	127
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2018	128	128
+雅典国家技术大学	National Technical University of Athens	希腊, 欧洲	计算机科学	2018	129	129
+瓦伦西亚理工大学	Polytechnic University of Valencia	西班牙, 欧洲	计算机科学	2018	129	129
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2018	131	131
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2018	133	133
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2018	135	135
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2018	137	137
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2018	139	139
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2018	143	143
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2018	144	144
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2018	150	150
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	计算机科学	2018	156	156
+布鲁内尔大学	Brunel University	英国, 欧洲	计算机科学	2018	157	157
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2018	158	158
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2018	163	163
+帕多瓦大学	University of Padua	意大利, 欧洲	计算机科学	2018	166	166
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2018	169	169
+卢森堡大学	University of Luxembourg	卢森堡, 欧洲	计算机科学	2018	172	172
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2018	173	173
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	计算机科学	2018	174	174
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2018	177	177
+卑尔根大学	University of Bergen	挪威, 欧洲	计算机科学	2018	179	179
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2018	183	183
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	计算机科学	2018	187	187
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2018	191	191
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2018	195	195

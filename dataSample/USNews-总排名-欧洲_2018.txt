@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	USNEWS世界大学排名	2018	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	USNEWS世界大学排名	2018	7	7
+帝国理工学院	Imperial College London	英国, 欧洲	USNEWS世界大学排名	2018	17	17
+伦敦大学学院	University College London	英国, 欧洲	USNEWS世界大学排名	2018	22	22
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	USNEWS世界大学排名	2018	25	25
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	USNEWS世界大学排名	2018	30	30
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2018	36	36
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	USNEWS世界大学排名	2018	37	37
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	USNEWS世界大学排名	2018	38	38
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2018	40	40
+伦敦国王学院	King's College London	英国, 欧洲	USNEWS世界大学排名	2018	41	41
+卡罗林斯卡学院	Karolinska Institute	瑞典, 欧洲	USNEWS世界大学排名	2018	52	52
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2018	55	55
+乌得勒支大学	Utrecht University	荷兰, 欧洲	USNEWS世界大学排名	2018	57	57
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2018	59	59
+曼彻斯特大学	The University of Manchester	英国, 欧洲	USNEWS世界大学排名	2018	59	59
+苏黎世大学	University of Zurich	瑞士, 欧洲	USNEWS世界大学排名	2018	59	59
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	USNEWS世界大学排名	2018	63	63
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	USNEWS世界大学排名	2018	73	73
+布里斯托尔大学	University of Bristol	英国, 欧洲	USNEWS世界大学排名	2018	73	73
+伦敦大学卫生和热带医学学院	London School of Hygiene & Tropical Medicine	英国, 欧洲	USNEWS世界大学排名	2018	75	75
+莱顿大学	Leiden University	荷兰, 欧洲	USNEWS世界大学排名	2018	79	79
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2018	80	80
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2018	81	81
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2018	81	81
+隆德大学	Lund University	瑞典, 欧洲	USNEWS世界大学排名	2018	85	85
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2018	85	85
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2018	87	87
+根特大学	Ghent University	比利时, 欧洲	USNEWS世界大学排名	2018	88	88
+日内瓦大学	University of Geneva	瑞士, 欧洲	USNEWS世界大学排名	2018	88	88
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	USNEWS世界大学排名	2018	88	88
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	USNEWS世界大学排名	2018	93	93
+格罗宁根大学	University of Groningen	荷兰, 欧洲	USNEWS世界大学排名	2018	94	94
+奥胡斯大学	Aarhus University	丹麦, 欧洲	USNEWS世界大学排名	2018	95	95
+南安普敦大学	University of Southampton	英国, 欧洲	USNEWS世界大学排名	2018	97	97
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	USNEWS世界大学排名	2018	99	99
+巴黎第七大学	University Paris Diderot, Paris 7	法国, 欧洲	USNEWS世界大学排名	2018	100	100
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	USNEWS世界大学排名	2018	101	101
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	USNEWS世界大学排名	2018	102	102
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2018	104	104
+奥斯陆大学	University of Oslo	挪威, 欧洲	USNEWS世界大学排名	2018	104	104
+伯明翰大学	University of Birmingham	英国, 欧洲	USNEWS世界大学排名	2018	107	107
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2018	112	112
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	USNEWS世界大学排名	2018	116	116
+伯尔尼大学	University of Bern	瑞士, 欧洲	USNEWS世界大学排名	2018	116	116
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	USNEWS世界大学排名	2018	119	119
+巴塞尔大学	University of Basel	瑞士, 欧洲	USNEWS世界大学排名	2018	120	120
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	USNEWS世界大学排名	2018	124	124
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	USNEWS世界大学排名	2018	124	124
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	USNEWS世界大学排名	2018	129	129
+利物浦大学	University of Liverpool	英国, 欧洲	USNEWS世界大学排名	2018	129	129
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2018	134	134
+利兹大学	University of Leeds	英国, 欧洲	USNEWS世界大学排名	2018	134	134
+博洛尼亚大学	University of Bologna	意大利, 欧洲	USNEWS世界大学排名	2018	138	138
+帕多瓦大学	University of Padua	意大利, 欧洲	USNEWS世界大学排名	2018	140	140
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2018	142	142
+诺丁汉大学	University of Nottingham	英国, 欧洲	USNEWS世界大学排名	2018	143	143
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	USNEWS世界大学排名	2018	143	143
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	USNEWS世界大学排名	2018	146	146
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2018	148	148
+华威大学	The University of Warwick	英国, 欧洲	USNEWS世界大学排名	2018	148	148
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2018	155	155
+米兰大学	University of Milan	意大利, 欧洲	USNEWS世界大学排名	2018	158	158
+卡迪夫大学	Cardiff University	英国, 欧洲	USNEWS世界大学排名	2018	159	159
+艾克斯-马赛大学	Aix Marseille University	法国, 欧洲	USNEWS世界大学排名	2018	159	159
+埃克塞特大学	University of Exeter	英国, 欧洲	USNEWS世界大学排名	2018	163	163
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2018	164	164
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	USNEWS世界大学排名	2018	164	164
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	USNEWS世界大学排名	2018	167	167
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+杜伦大学	Durham University	英国, 欧洲	USNEWS世界大学排名	2018	173	173
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2018	176	176
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	USNEWS世界大学排名	2018	176	176
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	USNEWS世界大学排名	2018	176	176
+洛桑大学	University of Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2018	179	179
+卑尔根大学	University of Bergen	挪威, 欧洲	USNEWS世界大学排名	2018	180	180
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2018	183	183
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	USNEWS世界大学排名	2018	187	187
+斯特拉斯堡大学	University of Strasbourg	法国, 欧洲	USNEWS世界大学排名	2018	187	187
+维也纳大学	University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2018	187	187
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	USNEWS世界大学排名	2018	190	190
+巴黎第五大学	University of Paris Descartes, Paris 5	法国, 欧洲	USNEWS世界大学排名	2018	194	194
+布拉格查尔斯大学	Charles University In Prague	捷克, 欧洲	USNEWS世界大学排名	2018	196	196
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2018	196	196
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2018	204	204
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	USNEWS世界大学排名	2018	204	204
+维也纳医科大学	Medical University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2018	208	208
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	USNEWS世界大学排名	2018	210	210
+蒙彼利埃大学	University of Montpellier	法国, 欧洲	USNEWS世界大学排名	2018	210	210
+苏赛克斯大学	University of Sussex	英国, 欧洲	USNEWS世界大学排名	2018	210	210
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	USNEWS世界大学排名	2018	213	213
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2018	213	213
+安特卫普大学	University of Antwerp	比利时, 欧洲	USNEWS世界大学排名	2018	215	215
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2018	217	217
+佛罗伦萨大学	University of Florence	意大利, 欧洲	USNEWS世界大学排名	2018	217	217
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	USNEWS世界大学排名	2018	217	217
+约克大学，约克	University of York	英国, 欧洲	USNEWS世界大学排名	2018	217	217
+的里雅斯特大学	University of Trieste	意大利, 欧洲	USNEWS世界大学排名	2018	222	222

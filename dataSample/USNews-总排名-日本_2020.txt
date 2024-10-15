@@ -1,0 +1,83 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2020	74	74
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2020	124	124
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2020	242	242
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2020	255	255
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2020	290	290
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2020	305	305
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2020	325	325
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2020	395	395
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2020	412	412
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2020	427	427
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2020	516	516
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2020	522	522
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2020	541	541
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2020	577	577
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2020	591	591
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2020	722	722
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2020	737	737
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2020	739	739
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2020	879	879
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2020	898	898
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2020	898	898
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2020	914	914
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2020	931	931
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2020	945	945
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2020	948	948
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2020	959	959
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2020	1009	1009
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2020	1009	1009
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2020	1022	1022
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2020	1022	1022
+日本职业与环境卫生大学	University of Occupational And Environmental Health, Japan	日本, 亚洲	USNEWS世界大学排名	2020	1029	1029
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2020	1053	1053
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2020	1068	1068
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2020	1068	1068
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2020	1082	1082
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2020	1093	1093
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2020	1104	1104
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2020	1139	1139
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2020	1148	1148
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2020	1164	1164
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2020	1166	1166
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2020	1186	1186
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2020	1189	1189
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2020	1218	1218
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2020	1221	1221
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2020	1223	1223
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2020	1228	1228
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2020	1228	1228
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2020	1233	1233
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2020	1241	1241
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2020	1245	1245
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2020	1255	1255
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2020	1255	1255
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2020	1275	1275
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2020	1287	1287
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2020	1294	1294
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2020	1303	1303
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2020	1323	1323
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2020	1326	1326
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2020	1363	1363
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2020	1367	1367
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2020	1367	1367
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2020	1371	1371
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2020	1378	1378
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2020	1387	1387
+鸟取大学	Tottori University	日本, 亚洲	USNEWS世界大学排名	2020	1387	1387
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2020	1397	1397
+兵库医学院	Hyogo College of Medicine	日本, 亚洲	USNEWS世界大学排名	2020	1399	1399
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2020	1406	1406
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2020	1416	1416
+岛根大学	Shimane University	日本, 亚洲	USNEWS世界大学排名	2020	1420	1420
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2020	1424	1424
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2020	1427	1427
+秋田大学	Akita University	日本, 亚洲	USNEWS世界大学排名	2020	1430	1430
+佐贺大学	Saga University	日本, 亚洲	USNEWS世界大学排名	2020	1436	1436
+埼玉医科大学	Saitama Medical University	日本, 亚洲	USNEWS世界大学排名	2020	1436	1436
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2020	1440	1440
+同志社大学	Doshisha University	日本, 亚洲	USNEWS世界大学排名	2020	1444	1444
+福岛医科大学	Fukushima Medical University	日本, 亚洲	USNEWS世界大学排名	2020	1480	1480
+大分大学	Oita University	日本, 亚洲	USNEWS世界大学排名	2020	1480	1480
+滋贺医科大学	Shiga University of Medical Science	日本, 亚洲	USNEWS世界大学排名	2020	1486	1486
+独协大学	Dokkyo University	日本, 亚洲	USNEWS世界大学排名	2020	1489	1489

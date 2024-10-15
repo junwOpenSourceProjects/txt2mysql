@@ -1,0 +1,28 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2023	65	65
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	USNEWS世界大学排名	2023	95	95
+沙特国王大学	King Saud University	沙特, 亚洲	USNEWS世界大学排名	2023	213	213
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	USNEWS世界大学排名	2023	400	400
+沙迦大学	University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2023	564	564
+哈里发大学	Khalifa University	沙特, 亚洲	USNEWS世界大学排名	2023	662	662
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	USNEWS世界大学排名	2023	679	679
+哈立德国王大学	King Khalid University	沙特, 亚洲	USNEWS世界大学排名	2023	943	943
+泰巴大学	Taibah University	沙特, 亚洲	USNEWS世界大学排名	2023	943	943
+伊玛目阿卜杜勒拉曼·本·费萨尔大学	Imam Abdulrahman Bin Faisal University	沙特, 亚洲	USNEWS世界大学排名	2023	959	959
+费萨尔国王大学	King Faisal University	沙特, 亚洲	USNEWS世界大学排名	2023	1037	1,037
+沙特·本·阿卜杜勒阿齐兹国王健康科学大学	King Saud Bin Abdulaziz University For Health Sciences	沙特, 亚洲	USNEWS世界大学排名	2023	1042	1,042
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	USNEWS世界大学排名	2023	1095	1,095
+塔布克大学	University of Tabuk	沙特, 亚洲	USNEWS世界大学排名	2023	1103	1,103
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	USNEWS世界大学排名	2023	1167	1,167
+萨塔姆·本·阿卜杜勒阿齐兹王子大学	Prince Sattam Bin Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2023	1266	1,266
+塔伊夫大学	Taif University	沙特, 亚洲	USNEWS世界大学排名	2023	1275	1,275
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2023	1381	1,381
+吉赞大学	Jazan University	沙特, 亚洲	USNEWS世界大学排名	2023	1455	1,455
+玛吉玛大学	Majmaah University	沙特, 亚洲	USNEWS世界大学排名	2023	1535	1,535
+约夫大学	Jouf University	沙特, 亚洲	USNEWS世界大学排名	2023	1615	1,615
+吉达大学	University of Jeddah	沙特, 亚洲	USNEWS世界大学排名	2023	1658	1,658
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	USNEWS世界大学排名	2023	1675	1,675
+卡西姆大学	Qassim University	沙特, 亚洲	USNEWS世界大学排名	2023	1726	1,726
+阿尔法萨尔大学	Alfaisal University	沙特, 亚洲	USNEWS世界大学排名	2023	9999	Unranked
+穆罕默德·本·法赫德亲王大学	Prince Mohammad Bin Fahd University	沙特, 亚洲	USNEWS世界大学排名	2023	9999	Unranked
+苏丹王子大学	Prince Sultan University (PSU)	沙特, 亚洲	USNEWS世界大学排名	2023	9999	Unranked

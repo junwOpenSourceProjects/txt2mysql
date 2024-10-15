@@ -1,0 +1,6 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2022	16	16
+沙特国王大学	King Saud University	沙特, 亚洲	计算机科学	2022	73	73
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	计算机科学	2022	78	78
+哈里发大学	Khalifa University	沙特, 亚洲	计算机科学	2022	291	291
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	计算机科学	2022	326	326

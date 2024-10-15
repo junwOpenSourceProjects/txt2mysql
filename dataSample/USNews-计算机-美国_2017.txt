@@ -1,0 +1,54 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2017	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2017	3	3
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2017	5	5
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2017	6	6
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2017	7	7
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2017	10	10
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2017	13	13
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2017	16	16
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2017	17	17
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2017	24	24
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2017	26	26
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2017	36	36
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2017	38	38
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2017	44	44
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2017	46	46
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2017	47	47
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2017	50	50
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2017	51	51
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2017	55	55
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2017	56	56
+纽约大学	New York University	美国, 北美洲	计算机科学	2017	58	58
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2017	64	64
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2017	70	70
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2017	72	72
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2017	75	75
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2017	76	76
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2017	89	89
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2017	94	94
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2017	96	96
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2017	98	98
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2017	100	100
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2017	105	105
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	计算机科学	2017	107	107
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2017	113	113
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2017	114	114
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2017	116	116
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2017	118	118
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	计算机科学	2017	123	123
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2017	126	126
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2017	133	133
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2017	141	141
+杜克大学	Duke University	美国, 北美洲	计算机科学	2017	145	145
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2017	148	148
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2017	151	151
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2017	160	160
+犹他大学	University of Utah	美国, 北美洲	计算机科学	2017	160	160
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2017	168	168
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2017	181	181
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	计算机科学	2017	182	182
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2017	186	186
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2017	191	191
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2017	196	196
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2017	200	200

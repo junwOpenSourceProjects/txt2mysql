@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2015	1	1
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2015	2	2
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2015	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2015	4	4
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2015	5	5
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2015	6	6
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2015	7	7
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2015	8	8
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2015	9	9
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2015	10	10
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2015	11	11
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2015	12	12
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2015	13	13
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2015	13	13
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2015	15	15
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2015	16	16
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2015	17	17
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2015	18	18
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2015	19	19
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2015	20	20
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2015	21	21
+台湾成功大学	National Cheng Kung University	中国台湾, 亚洲	计算机科学	2015	22	22
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2015	23	23
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2015	24	24
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2015	25	25
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2015	26	26
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2015	27	27
+台湾大学	National Taiwan University	中国台湾, 亚洲	计算机科学	2015	28	28
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2015	29	29
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2015	29	29
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2015	31	31
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2015	32	32
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2015	33	33
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2015	34	34
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2015	34	34
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2015	36	36
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2015	37	37
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2015	38	38
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2015	39	39
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	计算机科学	2015	40	40
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2015	41	41
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2015	41	41
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2015	43	43
+以色列理工学院	Technion-israel Institute of Technology	以色列, 亚洲	计算机科学	2015	44	44
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2015	44	44
+华中科技大学	Huazhong University of Science And Technology	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2015	46	46
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2015	47	47
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2015	48	48
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2015	49	49
+东南大学	Southeast University	中国, 亚洲, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2015	50	50
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2015	51	51
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2015	52	52
+阿尔伯塔大学	University of Alberta	加拿大, 北美洲	计算机科学	2015	53	53
+特拉维夫大学	Tel Aviv University	以色列, 亚洲	计算机科学	2015	54	54
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2015	55	55
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2015	56	56
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2015	57	57
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2015	57	57
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2015	59	59
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2015	60	60
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2015	61	61
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2015	62	62
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2015	63	63
+纽约大学	New York University	美国, 北美洲	计算机科学	2015	64	64
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2015	65	65
+台湾清华大学	National Tsing Hua University	中国台湾, 亚洲	计算机科学	2015	66	66
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2015	67	67
+台湾交通大学	National Chiao Tung University	中国台湾, 亚洲	计算机科学	2015	68	68
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2015	69	69
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	计算机科学	2015	69	69
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2015	71	71
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2015	72	72
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2015	72	72
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2015	74	74
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2015	75	75
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2015	76	76
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2015	77	77
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2015	77	77
+北京邮电大学	Beijing University of Posts And Telecommunications	中国, 亚洲, 211, 北京, 理工类, 公立	计算机科学	2015	79	79
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2015	80	80
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2015	80	80
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2015	82	82
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2015	83	83
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2015	84	84
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2015	85	85
+西蒙弗雷泽大学	Simon Fraser University	加拿大, 北美洲	计算机科学	2015	85	85
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2015	85	85
+高丽大学	Korea University	韩国, 亚洲	计算机科学	2015	88	88
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2015	88	88
+阿米尔卡比尔理工大学	Amirkabir University of Technology	伊朗, 亚洲	计算机科学	2015	90	90
+哈尔滨工业大学	Harbin Institute of Technology	中国, 亚洲, C9, 双一流, 985, 211, 黑龙江, 理工类, 公立	计算机科学	2015	91	91
+麦吉尔大学	Mcgill University	加拿大, 北美洲	计算机科学	2015	91	91
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2015	93	93
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2015	93	93
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2015	95	95
+电子科技大学	University of Electronic Science And Technology of China	中国, 亚洲, 双一流, 985, 211, 四川, 理工类, 公立	计算机科学	2015	95	95
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2015	97	97
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2015	98	98
+西安交通大学	Xian Jiaotong University	中国, 亚洲, C9, 双一流, 985, 211, 陕西, 综合类, 公立	计算机科学	2015	99	99
+延世大学	Yonsei University	韩国, 亚洲	计算机科学	2015	100	100

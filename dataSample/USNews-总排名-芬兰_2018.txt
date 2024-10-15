@@ -1,0 +1,11 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2018	81	81
+阿尔托大学	Aalto University	芬兰, 欧洲	USNEWS世界大学排名	2018	255	255
+图尔库大学	University of Turku	芬兰, 欧洲	USNEWS世界大学排名	2018	296	296
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	USNEWS世界大学排名	2018	357	357
+奥卢大学	University of Oulu	芬兰, 欧洲	USNEWS世界大学排名	2018	395	395
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	USNEWS世界大学排名	2018	457	457
+坦佩雷大学	University of Tampere	芬兰, 欧洲	USNEWS世界大学排名	2018	471	471
+拉普兰塔理工大学	Lappeenranta University of Technology	芬兰, 欧洲	USNEWS世界大学排名	2018	570	570
+坦佩雷理工大学	Tampere University of Technology	芬兰, 欧洲	USNEWS世界大学排名	2018	638	638
+埃博学术大学	Bo Akademi University	芬兰, 欧洲	USNEWS世界大学排名	2018	840	840

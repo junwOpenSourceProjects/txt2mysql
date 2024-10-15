@@ -1,0 +1,24 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2019	294	294
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2019	376	376
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2019	587	587
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	USNEWS世界大学排名	2019	612	612
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2019	778	778
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2019	788	788
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2019	898	898
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2019	970	970
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2019	976	976
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2019	976	976
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2019	995	995
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2019	1001	1001
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2019	1004	1004
+弗罗茨瓦夫医科大学	Wroclaw Medical University	波兰, 欧洲	USNEWS世界大学排名	2019	1010	1010
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	USNEWS世界大学排名	2019	1080	1080
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	USNEWS世界大学排名	2019	1093	1093
+罗兹医科大学	Medical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2019	1107	1107
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2019	1124	1124
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	USNEWS世界大学排名	2019	1143	1143
+波兹南医科大学	Poznan University of Medical Sciences	波兰, 欧洲	USNEWS世界大学排名	2019	1203	1203
+玛丽亚•斯克沃多夫斯卡-居里大学	Maria Curie-skłodowska University	波兰, 欧洲	USNEWS世界大学排名	2019	1214	1214
+波美拉尼亚医科大学	Pomeranian Medical University In Szczecin	波兰, 欧洲	USNEWS世界大学排名	2019	1226	1226
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	USNEWS世界大学排名	2019	1245	1245

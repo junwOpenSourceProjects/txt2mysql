@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2021	6	6
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2021	12	12
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2021	17	17
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2021	25	25
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2021	28	28
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2021	29	29
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2021	35	35
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2021	51	51
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2021	53	53
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2021	55	55
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2021	56	56
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2021	76	76
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2021	78	78
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2021	79	79
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2021	82	82
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2021	90	90
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2021	92	92
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2021	93	93
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2021	98	98
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2021	100	100
+苏黎世大学	University of Zurich	瑞士, 欧洲	计算机科学	2021	104	104
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2021	108	108
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2021	108	108
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2021	117	117
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2021	119	119
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2021	121	121
+萨里大学	University of Surrey	英国, 欧洲	计算机科学	2021	121	121
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2021	127	127
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2021	127	127
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2021	131	131
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2021	133	133
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2021	133	133
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2021	137	137
+诺丁汉大学	University of Nottingham	英国, 欧洲	计算机科学	2021	138	138
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	计算机科学	2021	141	141
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2021	143	143
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2021	144	144
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2021	147	147
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2021	152	152
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	计算机科学	2021	153	153
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	计算机科学	2021	153	153
+特文特大学	University of Twente	荷兰, 欧洲	计算机科学	2021	155	155
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	计算机科学	2021	156	156
+卢森堡大学	University of Luxembourg	卢森堡, 欧洲	计算机科学	2021	158	158
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2021	159	159
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2021	161	161
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2021	161	161
+瓦伦西亚理工大学	Polytechnic University of Valencia	西班牙, 欧洲	计算机科学	2021	164	164
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2021	164	164
+帕多瓦大学	University of Padua	意大利, 欧洲	计算机科学	2021	167	167
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2021	169	169
+奥胡斯大学	Aarhus University	丹麦, 欧洲	计算机科学	2021	172	172
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2021	176	176
+格勒诺布尔国立综合理工学院	Grenoble Institute of Technology	法国, 欧洲	计算机科学	2021	177	177
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	计算机科学	2021	179	179
+格拉茨技术大学	Graz University of Technology	奥地利, 欧洲	计算机科学	2021	180	180
+林雪平大学	Linkoping University	瑞典, 欧洲	计算机科学	2021	180	180
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2021	182	182
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	计算机科学	2021	182	182
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2021	186	186
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2021	191	191
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2021	199	199
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	计算机科学	2021	200	200
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2021	200	200
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2021	204	204
+那不勒斯菲里德里克第二大学	University of Naples Federico II	意大利, 欧洲	计算机科学	2021	206	206
+波鸿大学	University of Bochum	德国, 欧洲	计算机科学	2021	207	207
+巴黎大学	Université De Paris	法国, 欧洲	计算机科学	2021	211	211
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2021	215	215
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	计算机科学	2021	215	215
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2021	220	220
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2021	221	221
+坦佩雷大学	University of Tampere	芬兰, 欧洲	计算机科学	2021	223	223
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2021	226	226
+莱顿大学	Leiden University	荷兰, 欧洲	计算机科学	2021	233	233
+利物浦大学	University of Liverpool	英国, 欧洲	计算机科学	2021	233	233
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2021	236	236
+乌得勒支大学	Utrecht University	荷兰, 欧洲	计算机科学	2021	236	236
+萨勒诺大学	University of Salerno	意大利, 欧洲	计算机科学	2021	240	240
+国立里昂应用科学学院	Institut National Des Sciences Appliquées De Lyon，insa Lyon	法国, 欧洲	计算机科学	2021	242	242
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	计算机科学	2021	243	243
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2021	248	248
+布拉格捷克理工大学	Czech Technical University In Prague	捷克, 欧洲	计算机科学	2021	252	252
+巴黎高等电信学院	Telecom Paris	法国, 欧洲	计算机科学	2021	258	258
+卢布尔雅那大学	University of Ljubljana	斯洛文尼亚, 欧洲	计算机科学	2021	258	258
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	计算机科学	2021	261	261
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2021	265	265
+布鲁内尔大学	Brunel University	英国, 欧洲	计算机科学	2021	268	268
+隆德大学	Lund University	瑞典, 欧洲	计算机科学	2021	268	268
+波尔多大学	University of Bordeaux	法国, 欧洲	计算机科学	2021	268	268
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	计算机科学	2021	271	271
+波尔图大学	University of Porto	葡萄牙, 欧洲	计算机科学	2021	272	272
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	计算机科学	2021	273	273
+华沙大学	University of Warsaw	波兰, 欧洲	计算机科学	2021	277	277
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	计算机科学	2021	278	278
+瑞士意大利语大学	Università Della Svizzera Italiana	瑞士, 欧洲	计算机科学	2021	278	278
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	计算机科学	2021	282	282
+维也纳大学	University of Vienna	奥地利, 欧洲	计算机科学	2021	283	283
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	计算机科学	2021	285	285
+图卢兹第三大学	Paul Sabatier University, Toulouse 3	法国, 欧洲	计算机科学	2021	286	286

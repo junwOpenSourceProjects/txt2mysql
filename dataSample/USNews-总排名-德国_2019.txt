@@ -1,0 +1,63 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2019	46	46
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2019	54	54
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2019	80	80
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2019	90	90
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2019	109	109
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2019	116	116
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2019	138	138
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2019	148	148
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2019	159	159
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2019	163	163
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2019	179	179
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2019	183	183
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2019	185	185
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2019	189	189
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2019	197	197
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2019	200	200
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2019	204	204
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2019	228	228
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2019	244	244
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2019	253	253
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2019	286	286
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2019	289	289
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2019	310	310
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2019	330	330
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2019	339	339
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2019	350	350
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2019	356	356
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2019	361	361
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2019	376	376
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2019	419	419
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2019	423	423
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2019	423	423
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2019	435	435
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2019	448	448
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2019	477	477
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2019	480	480
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2019	509	509
+德国伍珀塔尔大学	Bergische Universitt Wuppertal	德国, 欧洲	USNEWS世界大学排名	2019	511	511
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2019	513	513
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2019	526	526
+锡根大学	Universität Siegen	德国, 欧洲	USNEWS世界大学排名	2019	530	530
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2019	545	545
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2019	560	560
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2019	575	575
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2019	583	583
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2019	619	619
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2019	637	637
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2019	648	648
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2019	669	669
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2019	680	680
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2019	692	692
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2019	723	723
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2019	802	802
+帕德博恩大学	University of Paderborn	德国, 欧洲	USNEWS世界大学排名	2019	837	837
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2019	858	858
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2019	863	863
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2019	876	876
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2019	894	894
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2019	964	964
+奥斯纳布吕克大学	University of Osnabrück	德国, 欧洲	USNEWS世界大学排名	2019	1040	1040
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2019	1070	1070
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2019	1240	1240

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+哈佛大学	Harvard University	美国, 北美洲	USNEWS世界大学排名	2025	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	USNEWS世界大学排名	2025	2	2
+斯坦福大学	Stanford University	美国, 北美洲	USNEWS世界大学排名	2025	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	USNEWS世界大学排名	2025	5	5
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	USNEWS世界大学排名	2025	7	7
+哥伦比亚大学	Columbia University	美国, 北美洲	USNEWS世界大学排名	2025	9	9
+耶鲁大学	Yale University	美国, 北美洲	USNEWS世界大学排名	2025	10	10
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	USNEWS世界大学排名	2025	11	11
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	USNEWS世界大学排名	2025	13	13
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	USNEWS世界大学排名	2025	14	14
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	USNEWS世界大学排名	2025	15	15
+普林斯顿大学	Princeton University	美国, 北美洲	USNEWS世界大学排名	2025	18	18
+康奈尔大学	Cornell University	美国, 北美洲	USNEWS世界大学排名	2025	19	19
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	USNEWS世界大学排名	2025	19	19
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	USNEWS世界大学排名	2025	21	21
+加州理工学院	California Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2025	23	23
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	USNEWS世界大学排名	2025	24	24
+芝加哥大学	University of Chicago	美国, 北美洲	USNEWS世界大学排名	2025	25	25
+杜克大学	Duke University	美国, 北美洲	USNEWS世界大学排名	2025	26	26
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	USNEWS世界大学排名	2025	30	30
+纽约大学	New York University	美国, 北美洲	USNEWS世界大学排名	2025	32	32
+西奈山医学院	Icahn School of Medicine At Mount Sinai	美国, 北美洲	USNEWS世界大学排名	2025	40	40
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	USNEWS世界大学排名	2025	47	47
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	USNEWS世界大学排名	2025	50	50
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	USNEWS世界大学排名	2025	56	56
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	USNEWS世界大学排名	2025	61	61
+埃莫里大学	Emory University	美国, 北美洲	USNEWS世界大学排名	2025	63	63
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	USNEWS世界大学排名	2025	63	63
+范德堡大学	Vanderbilt University	美国, 北美洲	USNEWS世界大学排名	2025	63	63
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2025	70	70
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	USNEWS世界大学排名	2025	72	72
+波士顿大学	Boston University	美国, 北美洲	USNEWS世界大学排名	2025	73	73
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	USNEWS世界大学排名	2025	74	74
+南加州大学	University of Southern California	美国, 北美洲	USNEWS世界大学排名	2025	79	79
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	USNEWS世界大学排名	2025	89	89
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	USNEWS世界大学排名	2025	89	89
+洛克菲勒大学	Rockefeller University	美国, 北美洲	USNEWS世界大学排名	2025	94	94
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	USNEWS世界大学排名	2025	96	96
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	USNEWS世界大学排名	2025	98	98
+加州大学-欧文	University of California, Irvine	美国, 北美洲	USNEWS世界大学排名	2025	100	100
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	USNEWS世界大学排名	2025	100	100
+佛罗里达大学	University of Florida	美国, 北美洲	USNEWS世界大学排名	2025	106	106
+德克萨斯大学西南医学中心	The University of Texas Southwestern Medical Center At Dallas	美国, 北美洲	USNEWS世界大学排名	2025	109	109
+亚利桑那大学	University of Arizona	美国, 北美洲	USNEWS世界大学排名	2025	115	115
+密歇根州立大学	Michigan State University	美国, 北美洲	USNEWS世界大学排名	2025	123	123
+弗吉尼亚大学	University of Virginia	美国, 北美洲	USNEWS世界大学排名	2025	125	125
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	USNEWS世界大学排名	2025	129	129
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	USNEWS世界大学排名	2025	134	134
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	USNEWS世界大学排名	2025	135	135
+贝勒医学院	Baylor College of Medicine	美国, 北美洲	USNEWS世界大学排名	2025	137	137
+科罗拉多大学安舒兹医学院校区	University of Colorado Anschutz Medical Campus	美国, 北美洲	USNEWS世界大学排名	2025	142	142
+俄勒冈卫生科学大学	Oregon Health And Science University	美国, 北美洲	USNEWS世界大学排名	2025	148	148
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	USNEWS世界大学排名	2025	148	148
+犹他大学	University of Utah	美国, 北美洲	USNEWS世界大学排名	2025	150	150
+布朗大学	Brown University	美国, 北美洲	USNEWS世界大学排名	2025	153	153
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	USNEWS世界大学排名	2025	160	160
+阿拉巴马大学-伯明翰	University of Alabama At Birmingham	美国, 北美洲	USNEWS世界大学排名	2025	164	164
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	USNEWS世界大学排名	2025	167	167
+德州农工大学	Texas A&m University	美国, 北美洲	USNEWS世界大学排名	2025	171	171
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	USNEWS世界大学排名	2025	175	175
+亚利桑那州立大学	Arizona State University	美国, 北美洲	USNEWS世界大学排名	2025	179	179
+罗切斯特大学	University of Rochester	美国, 北美洲	USNEWS世界大学排名	2025	199	199
+辛辛那提大学	University of Cincinnati	美国, 北美洲	USNEWS世界大学排名	2025	210	210
+莱斯大学	Rice University	美国, 北美洲	USNEWS世界大学排名	2025	223	223
+加州大学-河滨	University of California, Riverside	美国, 北美洲	USNEWS世界大学排名	2025	223	223
+爱荷华大学	University of Iowa	美国, 北美洲	USNEWS世界大学排名	2025	225	225
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	USNEWS世界大学排名	2025	227	227
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	USNEWS世界大学排名	2025	227	227
+迈阿密大学	University of Miami	美国, 北美洲	USNEWS世界大学排名	2025	241	241
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	USNEWS世界大学排名	2025	245	245
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	USNEWS世界大学排名	2025	262	262
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	USNEWS世界大学排名	2025	267	267
+德克萨斯大学卫生科学中心-圣安东尼奥	The University of Texas Health Science Center At San Antonio	美国, 北美洲	USNEWS世界大学排名	2025	269	269
+乔治华盛顿大学	The George Washington University	美国, 北美洲	USNEWS世界大学排名	2025	271	271
+塔夫茨大学	Tufts University	美国, 北美洲	USNEWS世界大学排名	2025	271	271
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	USNEWS世界大学排名	2025	278	278
+叶史瓦大学	Yeshiva University	美国, 北美洲	USNEWS世界大学排名	2025	285	285
+马里兰大学-巴尔的摩	University of Maryland, Baltimore	美国, 北美洲	USNEWS世界大学排名	2025	289	289
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	USNEWS世界大学排名	2025	296	296
+德克萨斯大学卫生科学中心-休斯顿	The University of Texas Health Science Center At Houston	美国, 北美洲	USNEWS世界大学排名	2025	300	300
+佛罗里达州立大学	Florida State University	美国, 北美洲	USNEWS世界大学排名	2025	305	305
+乔治城大学	Georgetown University	美国, 北美洲	USNEWS世界大学排名	2025	310	310
+科罗拉多州立大学	Colorado State University	美国, 北美洲	USNEWS世界大学排名	2025	311	311
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	USNEWS世界大学排名	2025	315	315
+达特茅斯学院	Dartmouth College	美国, 北美洲	USNEWS世界大学排名	2025	320	320
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	USNEWS世界大学排名	2025	327	327
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	USNEWS世界大学排名	2025	332	332
+南佛罗里达大学	University of South Florida	美国, 北美洲	USNEWS世界大学排名	2025	332	332
+坦普尔大学	Temple University	美国, 北美洲	USNEWS世界大学排名	2025	335	335
+爱荷华州立大学	Iowa State University	美国, 北美洲	USNEWS世界大学排名	2025	344	344
+佐治亚大学	University of Georgia	美国, 北美洲	USNEWS世界大学排名	2025	349	349
+俄勒冈州立大学	Oregon State University	美国, 北美洲	USNEWS世界大学排名	2025	365	365
+肯塔基大学	University of Kentucky	美国, 北美洲	USNEWS世界大学排名	2025	369	369
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	USNEWS世界大学排名	2025	378	378
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	USNEWS世界大学排名	2025	391	391
+俄勒冈大学	University of Oregon	美国, 北美洲	USNEWS世界大学排名	2025	394	394
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	USNEWS世界大学排名	2025	397	397
+弗吉尼亚联邦，州立大学	Virginia Commonwealth University	美国, 北美洲	USNEWS世界大学排名	2025	401	401
+杜兰大学	Tulane University	美国, 北美洲	USNEWS世界大学排名	2025	408	408
+休斯顿大学	University of Houston	美国, 北美洲	USNEWS世界大学排名	2025	421	421

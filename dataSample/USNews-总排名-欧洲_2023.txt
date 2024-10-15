@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	USNEWS世界大学排名	2023	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	USNEWS世界大学排名	2023	8	8
+伦敦大学学院	University College London	英国, 欧洲	USNEWS世界大学排名	2023	12	12
+帝国理工学院	Imperial College London	英国, 欧洲	USNEWS世界大学排名	2023	13	13
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	USNEWS世界大学排名	2023	29	29
+伦敦国王学院	King's College London	英国, 欧洲	USNEWS世界大学排名	2023	33	33
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	USNEWS世界大学排名	2023	34	34
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2023	39	39
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	USNEWS世界大学排名	2023	42	42
+乌得勒支大学	Utrecht University	荷兰, 欧洲	USNEWS世界大学排名	2023	44	44
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2023	47	47
+索邦大学	Sorbonne University	法国, 欧洲	USNEWS世界大学排名	2023	48	48
+巴黎大学	Université De Paris	法国, 欧洲	USNEWS世界大学排名	2023	48	48
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	USNEWS世界大学排名	2023	50	50
+卡罗林斯卡学院	Karolinska Institute	瑞典, 欧洲	USNEWS世界大学排名	2023	51	51
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2023	57	57
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	USNEWS世界大学排名	2023	60	60
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2023	61	61
+曼彻斯特大学	The University of Manchester	英国, 欧洲	USNEWS世界大学排名	2023	63	63
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	USNEWS世界大学排名	2023	65	65
+苏黎世大学	University of Zurich	瑞士, 欧洲	USNEWS世界大学排名	2023	67	67
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	USNEWS世界大学排名	2023	69	69
+莱顿大学	Leiden University	荷兰, 欧洲	USNEWS世界大学排名	2023	74	74
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	USNEWS世界大学排名	2023	74	74
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2023	79	79
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2023	82	82
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2023	86	86
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2023	87	87
+格罗宁根大学	University of Groningen	荷兰, 欧洲	USNEWS世界大学排名	2023	88	88
+伯明翰大学	University of Birmingham	英国, 欧洲	USNEWS世界大学排名	2023	89	89
+奥斯陆大学	University of Oslo	挪威, 欧洲	USNEWS世界大学排名	2023	89	89
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	USNEWS世界大学排名	2023	89	89
+布里斯托尔大学	University of Bristol	英国, 欧洲	USNEWS世界大学排名	2023	93	93
+根特大学	Ghent University	比利时, 欧洲	USNEWS世界大学排名	2023	95	95
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2023	99	99
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	USNEWS世界大学排名	2023	100	100
+南安普敦大学	University of Southampton	英国, 欧洲	USNEWS世界大学排名	2023	104	104
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	USNEWS世界大学排名	2023	106	106
+伯尔尼大学	University of Bern	瑞士, 欧洲	USNEWS世界大学排名	2023	107	107
+奥胡斯大学	Aarhus University	丹麦, 欧洲	USNEWS世界大学排名	2023	109	109
+日内瓦大学	University of Geneva	瑞士, 欧洲	USNEWS世界大学排名	2023	109	109
+隆德大学	Lund University	瑞典, 欧洲	USNEWS世界大学排名	2023	112	112
+帕多瓦大学	University of Padua	意大利, 欧洲	USNEWS世界大学排名	2023	115	115
+博洛尼亚大学	University of Bologna	意大利, 欧洲	USNEWS世界大学排名	2023	122	122
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	USNEWS世界大学排名	2023	125	125
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	USNEWS世界大学排名	2023	127	127
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	USNEWS世界大学排名	2023	127	127
+伦敦大学卫生和热带医学学院	London School of Hygiene & Tropical Medicine	英国, 欧洲	USNEWS世界大学排名	2023	129	129
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	USNEWS世界大学排名	2023	134	134
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2023	138	138
+利兹大学	University of Leeds	英国, 欧洲	USNEWS世界大学排名	2023	140	140
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2023	143	143
+诺丁汉大学	University of Nottingham	英国, 欧洲	USNEWS世界大学排名	2023	145	145
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	USNEWS世界大学排名	2023	146	146
+利物浦大学	University of Liverpool	英国, 欧洲	USNEWS世界大学排名	2023	146	146
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2023	149	149
+巴塞尔大学	University of Basel	瑞士, 欧洲	USNEWS世界大学排名	2023	150	150
+卡迪夫大学	Cardiff University	英国, 欧洲	USNEWS世界大学排名	2023	152	152
+埃克塞特大学	University of Exeter	英国, 欧洲	USNEWS世界大学排名	2023	152	152
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	USNEWS世界大学排名	2023	156	156
+米兰大学	University of Milan	意大利, 欧洲	USNEWS世界大学排名	2023	156	156
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2023	163	163
+华威大学	The University of Warwick	英国, 欧洲	USNEWS世界大学排名	2023	163	163
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	USNEWS世界大学排名	2023	165	165
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	USNEWS世界大学排名	2023	169	169
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	USNEWS世界大学排名	2023	171	171
+苏赛克斯大学	University of Sussex	英国, 欧洲	USNEWS世界大学排名	2023	175	175
+艾克斯-马赛大学	Aix Marseille University	法国, 欧洲	USNEWS世界大学排名	2023	178	178
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2023	178	178
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2023	182	182
+兰卡斯特大学	Lancaster University	英国, 欧洲	USNEWS世界大学排名	2023	182	182
+洛桑大学	University of Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2023	182	182
+那不勒斯菲里德里克第二大学	University of Naples Federico II	意大利, 欧洲	USNEWS世界大学排名	2023	185	185
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	USNEWS世界大学排名	2023	186	186
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	186	186
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	USNEWS世界大学排名	2023	186	186
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2023	192	192
+蒙彼利埃大学	University of Montpellier	法国, 欧洲	USNEWS世界大学排名	2023	194	194
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	USNEWS世界大学排名	2023	196	196
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2023	199	199
+卑尔根大学	University of Bergen	挪威, 欧洲	USNEWS世界大学排名	2023	199	199
+新里斯本大学	New University of Lisbon	葡萄牙, 欧洲	USNEWS世界大学排名	2023	202	202
+维也纳医科大学	Medical University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2023	206	206
+维也纳大学	University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2023	208	208
+都灵大学	University of Turin	意大利, 欧洲	USNEWS世界大学排名	2023	209	209
+巴伦西亚大学	University of Valencia	西班牙, 欧洲	USNEWS世界大学排名	2023	212	212
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	USNEWS世界大学排名	2023	215	215
+莱斯特大学	University of Leicester	英国, 欧洲	USNEWS世界大学排名	2023	217	217
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2023	219	219
+比萨大学	University of Pisa	意大利, 欧洲	USNEWS世界大学排名	2023	219	219
+安特卫普大学	University of Antwerp	比利时, 欧洲	USNEWS世界大学排名	2023	223	223
+布拉格查尔斯大学	Charles University In Prague	捷克, 欧洲	USNEWS世界大学排名	2023	226	226
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2023	226	226
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	USNEWS世界大学排名	2023	226	226
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	USNEWS世界大学排名	2023	231	231
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2023	236	236
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	USNEWS世界大学排名	2023	236	236
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	USNEWS世界大学排名	2023	236	236
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	USNEWS世界大学排名	2023	240	240
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2023	241	241

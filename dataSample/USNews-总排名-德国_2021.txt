@@ -1,0 +1,72 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2021	46	46
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2021	54	54
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2021	76	76
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2021	82	82
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2021	111	111
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2021	114	114
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2021	155	155
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2021	158	158
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2021	168	168
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2021	180	180
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2021	184	184
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2021	186	186
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2021	186	186
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2021	197	197
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2021	214	214
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2021	222	222
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2021	232	232
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2021	236	236
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2021	238	238
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2021	274	274
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2021	285	285
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2021	316	316
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2021	338	338
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2021	342	342
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2021	372	372
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2021	383	383
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2021	395	395
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2021	419	419
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2021	427	427
+德国伍珀塔尔大学	Bergische Universitt Wuppertal	德国, 欧洲	USNEWS世界大学排名	2021	467	467
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2021	475	475
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2021	483	483
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2021	486	486
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2021	490	490
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2021	499	499
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2021	511	511
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2021	520	520
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2021	543	543
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2021	547	547
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2021	564	564
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2021	604	604
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2021	623	623
+勃兰登堡理工大学	Brandenburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2021	660	660
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2021	660	660
+锡根大学	Universität Siegen	德国, 欧洲	USNEWS世界大学排名	2021	684	684
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2021	697	697
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2021	706	706
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2021	706	706
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2021	729	729
+吕讷堡大学	Leuphana University Luneburg	德国, 欧洲	USNEWS世界大学排名	2021	741	741
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2021	756	756
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2021	791	791
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2021	814	814
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2021	898	898
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2021	908	908
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2021	978	978
+帕德博恩大学	University of Paderborn	德国, 欧洲	USNEWS世界大学排名	2021	1006	1,006
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2021	1044	1,044
+特里尔大学	University of Trier	德国, 欧洲	USNEWS世界大学排名	2021	1074	1,074
+奥斯纳布吕克大学	University of Osnabrück	德国, 欧洲	USNEWS世界大学排名	2021	1100	1,100
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2021	1113	1,113
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2021	1156	1,156
+格赖夫斯瓦尔德医学院	Greifswald Medical School	德国, 欧洲	USNEWS世界大学排名	2021	1161	1,161
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2021	1262	1,262
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2021	1298	1,298
+伊尔梅瑙工业大学	Ilmenau University of Technology	德国, 欧洲	USNEWS世界大学排名	2021	1356	1,356
+汉诺威兽医大学	University of Veterinary Medicine Hanover	德国, 欧洲	USNEWS世界大学排名	2021	1364	1,364
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2021	1405	1,405
+德国科隆德国体育学院	German Sport University Cologne	德国, 欧洲	USNEWS世界大学排名	2021	9999	Unranked
+德国巴特克罗青根大学	Universitats Herzzentrum Freiburg	德国, 欧洲	USNEWS世界大学排名	2021	9999	Unranked
+科布伦茨-朗道大学	University of Koblenz-landau	德国, 欧洲	USNEWS世界大学排名	2021	9999	Unranked

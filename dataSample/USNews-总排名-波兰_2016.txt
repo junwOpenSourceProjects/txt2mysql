@@ -1,0 +1,5 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2016	301	301
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2016	340	340
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2016	635	635
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2016	682	682

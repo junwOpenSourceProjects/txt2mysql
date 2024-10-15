@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+哈佛大学	Harvard University	美国, 北美洲	USNEWS世界大学排名	2016	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	USNEWS世界大学排名	2016	2	2
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	USNEWS世界大学排名	2016	3	3
+斯坦福大学	Stanford University	美国, 北美洲	USNEWS世界大学排名	2016	4	4
+加州理工学院	California Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2016	7	7
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	USNEWS世界大学排名	2016	8	8
+哥伦比亚大学	Columbia University	美国, 北美洲	USNEWS世界大学排名	2016	9	9
+芝加哥大学	University of Chicago	美国, 北美洲	USNEWS世界大学排名	2016	10	10
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	USNEWS世界大学排名	2016	11	11
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	USNEWS世界大学排名	2016	12	12
+普林斯顿大学	Princeton University	美国, 北美洲	USNEWS世界大学排名	2016	13	13
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	USNEWS世界大学排名	2016	14	14
+耶鲁大学	Yale University	美国, 北美洲	USNEWS世界大学排名	2016	14	14
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	USNEWS世界大学排名	2016	17	17
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	USNEWS世界大学排名	2016	19	19
+杜克大学	Duke University	美国, 北美洲	USNEWS世界大学排名	2016	20	20
+康奈尔大学	Cornell University	美国, 北美洲	USNEWS世界大学排名	2016	21	21
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	USNEWS世界大学排名	2016	23	23
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	USNEWS世界大学排名	2016	24	24
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	USNEWS世界大学排名	2016	25	25
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	USNEWS世界大学排名	2016	26	26
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	USNEWS世界大学排名	2016	27	27
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	USNEWS世界大学排名	2016	29	29
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	USNEWS世界大学排名	2016	30	30
+波士顿大学	Boston University	美国, 北美洲	USNEWS世界大学排名	2016	32	32
+纽约大学	New York University	美国, 北美洲	USNEWS世界大学排名	2016	34	34
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	USNEWS世界大学排名	2016	34	34
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	USNEWS世界大学排名	2016	34	34
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	USNEWS世界大学排名	2016	39	39
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	USNEWS世界大学排名	2016	41	41
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	USNEWS世界大学排名	2016	43	43
+南加州大学	University of Southern California	美国, 北美洲	USNEWS世界大学排名	2016	44	44
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	USNEWS世界大学排名	2016	46	46
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	USNEWS世界大学排名	2016	47	47
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	USNEWS世界大学排名	2016	48	48
+佛罗里达大学	University of Florida	美国, 北美洲	USNEWS世界大学排名	2016	53	53
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	USNEWS世界大学排名	2016	57	57
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	USNEWS世界大学排名	2016	60	60
+加州大学-欧文	University of California, Irvine	美国, 北美洲	USNEWS世界大学排名	2016	61	61
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2016	64	64
+亚利桑那大学	University of Arizona	美国, 北美洲	USNEWS世界大学排名	2016	67	67
+埃莫里大学	Emory University	美国, 北美洲	USNEWS世界大学排名	2016	70	70
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	USNEWS世界大学排名	2016	71	71
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	USNEWS世界大学排名	2016	72	72
+范德堡大学	Vanderbilt University	美国, 北美洲	USNEWS世界大学排名	2016	74	74
+密歇根州立大学	Michigan State University	美国, 北美洲	USNEWS世界大学排名	2016	82	82
+莱斯大学	Rice University	美国, 北美洲	USNEWS世界大学排名	2016	84	84
+洛克菲勒大学	Rockefeller University	美国, 北美洲	USNEWS世界大学排名	2016	87	87
+德州农工大学	Texas A&m University	美国, 北美洲	USNEWS世界大学排名	2016	88	88
+塔夫茨大学	Tufts University	美国, 北美洲	USNEWS世界大学排名	2016	90	90
+梅奥临床医学院	Mayo Clinic Alix School of Medicine	美国, 北美洲	USNEWS世界大学排名	2016	94	94
+弗吉尼亚大学	University of Virginia	美国, 北美洲	USNEWS世界大学排名	2016	94	94
+布朗大学	Brown University	美国, 北美洲	USNEWS世界大学排名	2016	99	99
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	USNEWS世界大学排名	2016	106	106
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	USNEWS世界大学排名	2016	109	109
+加州大学-河滨	University of California, Riverside	美国, 北美洲	USNEWS世界大学排名	2016	112	112
+罗切斯特大学	University of Rochester	美国, 北美洲	USNEWS世界大学排名	2016	122	122
+爱荷华大学	University of Iowa	美国, 北美洲	USNEWS世界大学排名	2016	128	128
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	USNEWS世界大学排名	2016	133	133
+犹他大学	University of Utah	美国, 北美洲	USNEWS世界大学排名	2016	140	140
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	USNEWS世界大学排名	2016	142	142
+亚利桑那州立大学	Arizona State University	美国, 北美洲	USNEWS世界大学排名	2016	148	148
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	USNEWS世界大学排名	2016	152	152
+迈阿密大学	University of Miami	美国, 北美洲	USNEWS世界大学排名	2016	155	155
+西奈山医学院	Icahn School of Medicine At Mount Sinai	美国, 北美洲	USNEWS世界大学排名	2016	159	159
+爱荷华州立大学	Iowa State University	美国, 北美洲	USNEWS世界大学排名	2016	165	165
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	USNEWS世界大学排名	2016	173	173
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	USNEWS世界大学排名	2016	174	174
+佛罗里达州立大学	Florida State University	美国, 北美洲	USNEWS世界大学排名	2016	178	178
+贝勒医学院	Baylor College of Medicine	美国, 北美洲	USNEWS世界大学排名	2016	189	189
+马里兰大学-巴尔的摩	University of Maryland, Baltimore	美国, 北美洲	USNEWS世界大学排名	2016	192	192
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	USNEWS世界大学排名	2016	192	192
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	USNEWS世界大学排名	2016	194	194
+阿拉巴马大学-伯明翰	University of Alabama At Birmingham	美国, 北美洲	USNEWS世界大学排名	2016	200	200
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	USNEWS世界大学排名	2016	204	204
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	USNEWS世界大学排名	2016	204	204
+辛辛那提大学	University of Cincinnati	美国, 北美洲	USNEWS世界大学排名	2016	207	207
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	USNEWS世界大学排名	2016	212	212
+佐治亚大学	University of Georgia	美国, 北美洲	USNEWS世界大学排名	2016	221	221
+叶史瓦大学	Yeshiva University	美国, 北美洲	USNEWS世界大学排名	2016	222	222
+俄勒冈大学	University of Oregon	美国, 北美洲	USNEWS世界大学排名	2016	227	227
+达特茅斯学院	Dartmouth College	美国, 北美洲	USNEWS世界大学排名	2016	231	231
+科罗拉多州立大学	Colorado State University	美国, 北美洲	USNEWS世界大学排名	2016	236	236
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	USNEWS世界大学排名	2016	242	242
+俄勒冈州立大学	Oregon State University	美国, 北美洲	USNEWS世界大学排名	2016	244	244
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	USNEWS世界大学排名	2016	244	244
+乔治城大学	Georgetown University	美国, 北美洲	USNEWS世界大学排名	2016	248	248
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	USNEWS世界大学排名	2016	251	251
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	USNEWS世界大学排名	2016	253	253
+韦恩州立大学	Wayne State University	美国, 北美洲	USNEWS世界大学排名	2016	253	253
+肯塔基大学	University of Kentucky	美国, 北美洲	USNEWS世界大学排名	2016	259	259
+印第安纳大学-印第安纳波利斯	Indiana University-purdue University, Indianapolis	美国, 北美洲	USNEWS世界大学排名	2016	260	260
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	USNEWS世界大学排名	2016	263	263
+乔治华盛顿大学	The George Washington University	美国, 北美洲	USNEWS世界大学排名	2016	268	268
+俄勒冈卫生科学大学	Oregon Health And Science University	美国, 北美洲	USNEWS世界大学排名	2016	270	270
+南佛罗里达大学	University of South Florida	美国, 北美洲	USNEWS世界大学排名	2016	275	275
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	USNEWS世界大学排名	2016	278	278
+特拉华大学	University of Delaware	美国, 北美洲	USNEWS世界大学排名	2016	282	282
+布兰迪斯大学	Brandeis University	美国, 北美洲	USNEWS世界大学排名	2016	298	298
+马萨诸塞大学医学院	University of Massachusetts Medical School, Worcester	美国, 北美洲	USNEWS世界大学排名	2016	298	298

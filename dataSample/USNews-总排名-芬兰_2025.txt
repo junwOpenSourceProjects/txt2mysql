@@ -1,0 +1,12 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2025	113	113
+阿尔托大学	Aalto University	芬兰, 欧洲	USNEWS世界大学排名	2025	296	296
+图尔库大学	University of Turku	芬兰, 欧洲	USNEWS世界大学排名	2025	355	355
+奥卢大学	University of Oulu	芬兰, 欧洲	USNEWS世界大学排名	2025	421	421
+坦佩雷大学	University of Tampere	芬兰, 欧洲	USNEWS世界大学排名	2025	471	471
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	USNEWS世界大学排名	2025	549	549
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	USNEWS世界大学排名	2025	601	601
+拉普兰塔理工大学	Lappeenranta University of Technology	芬兰, 欧洲	USNEWS世界大学排名	2025	663	663
+埃博学术大学	Bo Akademi University	芬兰, 欧洲	USNEWS世界大学排名	2025	1106	1,106
+汉垦经济学院	Hanken School of Economics	芬兰, 欧洲	USNEWS世界大学排名	2025	9999	Unranked
+瓦萨大学	University of Vaasa	芬兰, 欧洲	USNEWS世界大学排名	2025	9999	Unranked

@@ -1,0 +1,68 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2019	62	62
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2019	119	119
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2019	215	215
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2019	227	227
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2019	272	272
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2019	289	289
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2019	327	327
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2019	379	379
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2019	380	380
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2019	388	388
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2019	489	489
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2019	503	503
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2019	533	533
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2019	533	533
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2019	552	552
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2019	663	663
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2019	667	667
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2019	708	708
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2019	822	822
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2019	826	826
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2019	837	837
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2019	880	880
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2019	890	890
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2019	894	894
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2019	914	914
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2019	927	927
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2019	950	950
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2019	950	950
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2019	953	953
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2019	961	961
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2019	973	973
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2019	976	976
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2019	985	985
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2019	1005	1005
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2019	1010	1010
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2019	1037	1037
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2019	1045	1045
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2019	1045	1045
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2019	1052	1052
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2019	1055	1055
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2019	1070	1070
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2019	1077	1077
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2019	1093	1093
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2019	1100	1100
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2019	1127	1127
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2019	1131	1131
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2019	1136	1136
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2019	1138	1138
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2019	1140	1140
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2019	1142	1142
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2019	1150	1150
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2019	1150	1150
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2019	1157	1157
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2019	1170	1170
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2019	1170	1170
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2019	1177	1177
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2019	1182	1182
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2019	1195	1195
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2019	1196	1196
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2019	1203	1203
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2019	1208	1208
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2019	1219	1219
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2019	1222	1222
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2019	1230	1230
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2019	1231	1231
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2019	1233	1233
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2019	1233	1233

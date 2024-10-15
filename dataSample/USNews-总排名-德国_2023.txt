@@ -1,0 +1,75 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2023	47	47
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2023	57	57
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2023	61	61
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2023	79	79
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2023	87	87
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2023	138	138
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2023	149	149
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2023	163	163
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2023	178	178
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2023	182	182
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	186	186
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2023	192	192
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2023	199	199
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2023	219	219
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2023	226	226
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2023	236	236
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2023	241	241
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2023	244	244
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2023	256	256
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2023	280	280
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2023	300	300
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2023	304	304
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2023	322	322
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2023	346	346
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2023	346	346
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2023	379	379
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2023	405	405
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2023	439	439
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2023	452	452
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2023	475	475
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2023	487	487
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2023	487	487
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2023	510	510
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2023	520	520
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2023	531	531
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2023	547	547
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2023	558	558
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2023	605	605
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2023	615	615
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2023	615	615
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2023	629	629
+德国伍珀塔尔大学	Bergische Universitt Wuppertal	德国, 欧洲	USNEWS世界大学排名	2023	633	633
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2023	653	653
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2023	750	750
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2023	776	776
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2023	779	779
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2023	801	801
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2023	856	856
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2023	920	920
+吕讷堡大学	Leuphana University Luneburg	德国, 欧洲	USNEWS世界大学排名	2023	926	926
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2023	930	930
+锡根大学	Universität Siegen	德国, 欧洲	USNEWS世界大学排名	2023	984	984
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2023	1013	1,013
+勃兰登堡理工大学	Brandenburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	1037	1,037
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2023	1049	1,049
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	1172	1,172
+特里尔大学	University of Trier	德国, 欧洲	USNEWS世界大学排名	2023	1184	1,184
+格赖夫斯瓦尔德医学院	Greifswald Medical School	德国, 欧洲	USNEWS世界大学排名	2023	1190	1,190
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2023	1190	1,190
+帕德博恩大学	University of Paderborn	德国, 欧洲	USNEWS世界大学排名	2023	1225	1,225
+奥斯纳布吕克大学	University of Osnabrück	德国, 欧洲	USNEWS世界大学排名	2023	1239	1,239
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2023	1266	1,266
+汉诺威兽医大学	University of Veterinary Medicine Hanover	德国, 欧洲	USNEWS世界大学排名	2023	1281	1,281
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2023	1290	1,290
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2023	1338	1,338
+科布伦茨-朗道大学	University of Koblenz-landau	德国, 欧洲	USNEWS世界大学排名	2023	1372	1,372
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	1489	1,489
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2023	1506	1,506
+伊尔梅瑙工业大学	Ilmenau University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	1589	1,589
+德国科隆德国体育学院	German Sport University Cologne	德国, 欧洲	USNEWS世界大学排名	2023	1745	1,745
+魏玛包豪斯大学	Bauhaus-universitat Weimar	德国, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+慕尼黑联邦国防军大学	Bundeswehr University Munich	德国, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+克劳斯塔尔科技大学	Clausthal University of Technology	德国, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+德国巴特克罗青根大学	Universitats Herzzentrum Freiburg	德国, 欧洲	USNEWS世界大学排名	2023	9999	Unranked

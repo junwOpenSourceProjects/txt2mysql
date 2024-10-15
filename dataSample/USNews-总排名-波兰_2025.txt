@@ -1,0 +1,49 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2025	391	391
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2025	479	479
+克拉科夫阿格大学	Agh University Krakow	波兰, 欧洲	USNEWS世界大学排名	2025	839	839
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2025	935	935
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	946	946
+弗罗茨瓦夫医科大学	Wroclaw Medical University	波兰, 欧洲	USNEWS世界大学排名	2025	953	953
+奥波莱大学	University of Opole	波兰, 欧洲	USNEWS世界大学排名	2025	996	996
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2025	1049	1,049
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1079	1,079
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2025	1114	1,114
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2025	1196	1,196
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2025	1228	1,228
+罗兹医科大学	Medical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2025	1252	1,252
+齐罗纳大学	University of Zielona Góra	波兰, 欧洲	USNEWS世界大学排名	2025	1264	1,264
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	USNEWS世界大学排名	2025	1311	1,311
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2025	1355	1,355
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1360	1,360
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1375	1,375
+比亚韦斯托克大学	University of Bialystok	波兰, 欧洲	USNEWS世界大学排名	2025	1396	1,396
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2025	1477	1,477
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1510	1,510
+波美拉尼亚医科大学	Pomeranian Medical University In Szczecin	波兰, 欧洲	USNEWS世界大学排名	2025	1517	1,517
+波兹南医科大学	Poznan University of Medical Sciences	波兰, 欧洲	USNEWS世界大学排名	2025	1517	1,517
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2025	1522	1,522
+奥尔什丁瓦尔米亚玛祖里大学	University of Warmia And Mazury In Olsztyn	波兰, 欧洲	USNEWS世界大学排名	2025	1590	1,590
+奥波莱科技大学	Opole University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1595	1,595
+波兹南生命科学大学	Poznań University of Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2025	1642	1,642
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2025	1659	1,659
+卢布林医科大学	Medical University of Lublin	波兰, 欧洲	USNEWS世界大学排名	2025	1667	1,667
+玛丽亚•斯克沃多夫斯卡-居里大学	Maria Curie-skłodowska University	波兰, 欧洲	USNEWS世界大学排名	2025	1703	1,703
+比亚韦斯托克医科大学	Medical University of Białystok	波兰, 欧洲	USNEWS世界大学排名	2025	1717	1,717
+克拉科夫农业大学	University of Agriculture In Krakow	波兰, 欧洲	USNEWS世界大学排名	2025	1739	1,739
+克拉科夫工业大学	Cracow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1790	1,790
+热舒夫大学	University of Rzeszów	波兰, 欧洲	USNEWS世界大学排名	2025	1790	1,790
+西里西亚医科大学	Medical University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2025	1837	1,837
+弗罗茨瓦夫环境与生命科学大学	Wrocław University of Environmental And Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2025	1845	1,845
+什切青西波美拉尼亚技术大学	West Pomeranian University of Technology, Szczecin	波兰, 欧洲	USNEWS世界大学排名	2025	1856	1,856
+卢布林工业大学	Lublin University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	1938	1,938
+什切青大学	University of Szczecin	波兰, 欧洲	USNEWS世界大学排名	2025	1947	1,947
+热舒夫工业大学	Rzeszow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	2005	2,005
+卢布林生命科学大学	University of Life Sciences In Lublin	波兰, 欧洲	USNEWS世界大学排名	2025	2037	2,037
+琴斯托霍瓦工业大学	Częstochowa University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	2055	2,055
+研究生医学教育中心	Centre of Postgraduate Medical Education	波兰, 欧洲	USNEWS世界大学排名	2025	2086	2,086
+扬科查诺夫斯基大学	Jan Kochanowski University	波兰, 欧洲	USNEWS世界大学排名	2025	2088	2,088
+华沙军事科技大学	Military University of Technology In Warsaw	波兰, 欧洲	USNEWS世界大学排名	2025	2118	2,118
+比亚韦斯托克理工大学	Bialystok University of Technology	波兰, 欧洲	USNEWS世界大学排名	2025	2123	2,123
+比得哥什科技大学	Bydgoszcz University of Science & Technology	波兰, 欧洲	USNEWS世界大学排名	2025	2219	2,219
+SWPS社会科学与人文大学	Swps University of Social Sciences And Humanities	波兰, 欧洲	USNEWS世界大学排名	2025	9999	Unranked

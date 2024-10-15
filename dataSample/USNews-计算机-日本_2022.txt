@@ -1,0 +1,10 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2022	87	87
+京都大学	Kyoto University	日本, 亚洲	计算机科学	2022	183	183
+大阪大学	Osaka University	日本, 亚洲	计算机科学	2022	229	229
+东北大学，仙台	Tohoku University	日本, 亚洲	计算机科学	2022	237	237
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	计算机科学	2022	280	280
+九州大学	Kyushu University	日本, 亚洲	计算机科学	2022	296	296
+早稻田大学	Waseda University	日本, 亚洲	计算机科学	2022	364	364
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	计算机科学	2022	439	439
+名古屋大学	Nagoya University	日本, 亚洲	计算机科学	2022	458	458

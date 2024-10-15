@@ -1,0 +1,6 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2022	68	68
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2022	170	170
+坦佩雷大学	University of Tampere	芬兰, 欧洲	计算机科学	2022	248	248
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2022	271	271
+图尔库大学	University of Turku	芬兰, 欧洲	计算机科学	2022	426	426

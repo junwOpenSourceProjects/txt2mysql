@@ -1,0 +1,46 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2018	2	2
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2018	4	4
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2018	6	6
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2018	7	7
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2018	8	8
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2018	16	16
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2018	18	18
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2018	19	19
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2018	22	22
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2018	24	24
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2018	34	34
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2018	40	40
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2018	42	42
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2018	46	46
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2018	56	56
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2018	58	58
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2018	59	59
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2018	60	60
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2018	62	62
+纽约大学	New York University	美国, 北美洲	计算机科学	2018	63	63
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2018	67	67
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2018	69	69
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2018	72	72
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2018	81	81
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2018	89	89
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2018	90	90
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2018	101	101
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2018	102	102
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2018	104	104
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2018	105	105
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2018	106	106
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2018	118	118
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2018	119	119
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2018	133	133
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2018	139	139
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2018	142	142
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2018	147	147
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2018	152	152
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2018	159	159
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2018	163	163
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2018	167	167
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2018	171	171
+杜克大学	Duke University	美国, 北美洲	计算机科学	2018	176	176
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2018	188	188
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2018	192	192

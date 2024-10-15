@@ -1,0 +1,19 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2022	44	44
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	USNEWS世界大学排名	2022	97	97
+沙特国王大学	King Saud University	沙特, 亚洲	USNEWS世界大学排名	2022	266	266
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	USNEWS世界大学排名	2022	445	445
+哈里发大学	Khalifa University	沙特, 亚洲	USNEWS世界大学排名	2022	657	657
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	USNEWS世界大学排名	2022	744	744
+沙迦大学	University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2022	790	790
+泰巴大学	Taibah University	沙特, 亚洲	USNEWS世界大学排名	2022	1110	1,110
+伊玛目阿卜杜勒拉曼·本·费萨尔大学	Imam Abdulrahman Bin Faisal University	沙特, 亚洲	USNEWS世界大学排名	2022	1132	1,132
+沙特·本·阿卜杜勒阿齐兹国王健康科学大学	King Saud Bin Abdulaziz University For Health Sciences	沙特, 亚洲	USNEWS世界大学排名	2022	1149	1,149
+哈立德国王大学	King Khalid University	沙特, 亚洲	USNEWS世界大学排名	2022	1172	1,172
+费萨尔国王大学	King Faisal University	沙特, 亚洲	USNEWS世界大学排名	2022	1314	1,314
+塔伊夫大学	Taif University	沙特, 亚洲	USNEWS世界大学排名	2022	1440	1,440
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	USNEWS世界大学排名	2022	1490	1,490
+萨塔姆·本·阿卜杜勒阿齐兹王子大学	Prince Sattam Bin Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2022	1587	1,587
+阿尔法萨尔大学	Alfaisal University	沙特, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+塔布克大学	University of Tabuk	沙特, 亚洲	USNEWS世界大学排名	2022	9999	Unranked

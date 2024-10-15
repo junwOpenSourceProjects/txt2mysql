@@ -1,0 +1,22 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2022	26	26
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2022	125	125
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2022	153	153
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2022	162	162
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2022	168	168
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2022	174	174
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2022	206	206
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2022	206	206
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2022	259	259
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2022	273	273
+波鸿大学	University of Bochum	德国, 欧洲	计算机科学	2022	295	295
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2022	303	303
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2022	304	304
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2022	307	307
+汉堡大学	University of Hamburg	德国, 欧洲	计算机科学	2022	337	337
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2022	339	339
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	计算机科学	2022	373	373
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	计算机科学	2022	408	408
+不来梅大学	University of Bremen	德国, 欧洲	计算机科学	2022	425	425
+哥廷根大学	University of Goettingen	德国, 欧洲	计算机科学	2022	433	433
+明斯特大学	University of Muenster	德国, 欧洲	计算机科学	2022	456	456

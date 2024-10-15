@@ -1,0 +1,12 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2023	99	99
+阿尔托大学	Aalto University	芬兰, 欧洲	USNEWS世界大学排名	2023	273	273
+图尔库大学	University of Turku	芬兰, 欧洲	USNEWS世界大学排名	2023	342	342
+坦佩雷大学	University of Tampere	芬兰, 欧洲	USNEWS世界大学排名	2023	400	400
+奥卢大学	University of Oulu	芬兰, 欧洲	USNEWS世界大学排名	2023	447	447
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	USNEWS世界大学排名	2023	487	487
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	USNEWS世界大学排名	2023	520	520
+拉普兰塔理工大学	Lappeenranta University of Technology	芬兰, 欧洲	USNEWS世界大学排名	2023	696	696
+埃博学术大学	Bo Akademi University	芬兰, 欧洲	USNEWS世界大学排名	2023	1037	1,037
+汉垦经济学院	Hanken School of Economics	芬兰, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+瓦萨大学	University of Vaasa	芬兰, 欧洲	USNEWS世界大学排名	2023	9999	Unranked

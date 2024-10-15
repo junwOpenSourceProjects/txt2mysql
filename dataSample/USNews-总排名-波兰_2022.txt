@@ -1,0 +1,43 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2022	320	320
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2022	344	344
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	668	668
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	USNEWS世界大学排名	2022	729	729
+齐罗纳大学	University of Zielona Góra	波兰, 欧洲	USNEWS世界大学排名	2022	795	795
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2022	817	817
+弗罗茨瓦夫医科大学	Wroclaw Medical University	波兰, 欧洲	USNEWS世界大学排名	2022	870	870
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2022	970	970
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2022	1106	1,106
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2022	1118	1,118
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2022	1118	1,118
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1211	1,211
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2022	1228	1,228
+罗兹医科大学	Medical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2022	1237	1,237
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2022	1262	1,262
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1270	1,270
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	USNEWS世界大学排名	2022	1314	1,314
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2022	1319	1,319
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2022	1326	1,326
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1333	1,333
+波兹南医科大学	Poznan University of Medical Sciences	波兰, 欧洲	USNEWS世界大学排名	2022	1423	1,423
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1514	1,514
+波美拉尼亚医科大学	Pomeranian Medical University In Szczecin	波兰, 欧洲	USNEWS世界大学排名	2022	1517	1,517
+奥尔什丁瓦尔米亚玛祖里大学	University of Warmia And Mazury In Olsztyn	波兰, 欧洲	USNEWS世界大学排名	2022	1527	1,527
+玛丽亚•斯克沃多夫斯卡-居里大学	Maria Curie-skłodowska University	波兰, 欧洲	USNEWS世界大学排名	2022	1558	1,558
+卢布林医科大学	Medical University of Lublin	波兰, 欧洲	USNEWS世界大学排名	2022	1565	1,565
+克拉科夫农业大学	University of Agriculture In Krakow	波兰, 欧洲	USNEWS世界大学排名	2022	1573	1,573
+热舒夫大学	University of Rzeszów	波兰, 欧洲	USNEWS世界大学排名	2022	1587	1,587
+克拉科夫工业大学	Cracow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1597	1,597
+弗罗茨瓦夫环境与生命科学大学	Wrocław University of Environmental And Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2022	1597	1,597
+波兹南生命科学大学	Poznań University of Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2022	1602	1,602
+西里西亚医科大学	Medical University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2022	1633	1,633
+什切青西波美拉尼亚技术大学	West Pomeranian University of Technology, Szczecin	波兰, 欧洲	USNEWS世界大学排名	2022	1685	1,685
+比亚韦斯托克医科大学	Medical University of Białystok	波兰, 欧洲	USNEWS世界大学排名	2022	1688	1,688
+琴斯托霍瓦工业大学	Częstochowa University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1698	1,698
+扬科查诺夫斯基大学	Jan Kochanowski University	波兰, 欧洲	USNEWS世界大学排名	2022	1706	1,706
+热舒夫工业大学	Rzeszow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	1733	1,733
+比亚韦斯托克理工大学	Bialystok University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	9999	Unranked
+研究生医学教育中心	Centre of Postgraduate Medical Education	波兰, 欧洲	USNEWS世界大学排名	2022	9999	Unranked
+卢布林工业大学	Lublin University of Technology	波兰, 欧洲	USNEWS世界大学排名	2022	9999	Unranked
+华沙军事科技大学	Military University of Technology In Warsaw	波兰, 欧洲	USNEWS世界大学排名	2022	9999	Unranked
+SWPS社会科学与人文大学	Swps University of Social Sciences And Humanities	波兰, 欧洲	USNEWS世界大学排名	2022	9999	Unranked

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2016	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2016	2	2
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2016	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2016	4	4
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2016	5	5
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2016	6	6
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2016	7	7
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2016	8	8
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2016	9	9
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2016	10	10
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2016	11	11
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2016	12	12
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2016	13	13
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2016	14	14
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2016	14	14
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2016	16	16
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2016	16	16
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2016	18	18
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2016	19	19
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2016	20	20
+华中科技大学	Huazhong University of Science And Technology	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2016	21	21
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2016	21	21
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2016	23	23
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2016	23	23
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2016	25	25
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2016	26	26
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2016	26	26
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2016	28	28
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2016	29	29
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2016	30	30
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2016	30	30
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2016	32	32
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2016	33	33
+东南大学	Southeast University	中国, 亚洲, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2016	34	34
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2016	35	35
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2016	35	35
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2016	35	35
+台湾大学	National Taiwan University	中国台湾, 亚洲	计算机科学	2016	35	35
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	计算机科学	2016	35	35
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2016	40	40
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2016	41	41
+台湾成功大学	National Cheng Kung University	中国台湾, 亚洲	计算机科学	2016	42	42
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2016	43	43
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2016	44	44
+以色列理工学院	Technion-israel Institute of Technology	以色列, 亚洲	计算机科学	2016	45	45
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2016	46	46
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2016	46	46
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2016	48	48
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2016	49	49
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2016	49	49
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2016	51	51
+哈尔滨工业大学	Harbin Institute of Technology	中国, 亚洲, C9, 双一流, 985, 211, 黑龙江, 理工类, 公立	计算机科学	2016	52	52
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2016	53	53
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2016	54	54
+阿尔伯塔大学	University of Alberta	加拿大, 北美洲	计算机科学	2016	55	55
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2016	56	56
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2016	56	56
+特拉维夫大学	Tel Aviv University	以色列, 亚洲	计算机科学	2016	58	58
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2016	58	58
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2016	60	60
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2016	61	61
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2016	62	62
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2016	63	63
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2016	63	63
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2016	65	65
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2016	65	65
+电子科技大学	University of Electronic Science And Technology of China	中国, 亚洲, 双一流, 985, 211, 四川, 理工类, 公立	计算机科学	2016	67	67
+台湾交通大学	National Chiao Tung University	中国台湾, 亚洲	计算机科学	2016	68	68
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2016	68	68
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2016	70	70
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2016	70	70
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2016	72	72
+纽约大学	New York University	美国, 北美洲	计算机科学	2016	73	73
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2016	73	73
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	计算机科学	2016	73	73
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2016	76	76
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2016	77	77
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2016	78	78
+阿米尔卡比尔理工大学	Amirkabir University of Technology	伊朗, 亚洲	计算机科学	2016	79	79
+台湾清华大学	National Tsing Hua University	中国台湾, 亚洲	计算机科学	2016	79	79
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2016	81	81
+西安电子科技大学	Xidian University	中国, 亚洲, 211, 陕西, 理工类, 公立	计算机科学	2016	81	81
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2016	83	83
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2016	83	83
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2016	85	85
+西安交通大学	Xian Jiaotong University	中国, 亚洲, C9, 双一流, 985, 211, 陕西, 综合类, 公立	计算机科学	2016	85	85
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2016	87	87
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2016	88	88
+北京航空航天大学	Beihang University	中国, 亚洲, 双一流, 985, 211, 北京, 理工类, 公立	计算机科学	2016	89	89
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2016	90	90
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	计算机科学	2016	90	90
+高丽大学	Korea University	韩国, 亚洲	计算机科学	2016	92	92
+中山大学	Sun Yat-sen University, Sysu	中国, 亚洲, 双一流, 985, 211, 广东, 综合类, 公立	计算机科学	2016	92	92
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2016	92	92
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2016	95	95
+南京大学	Nanjing University	中国, 亚洲, C9, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2016	95	95
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2016	97	97
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2016	98	98
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2016	99	99
+西蒙弗雷泽大学	Simon Fraser University	加拿大, 北美洲	计算机科学	2016	99	99

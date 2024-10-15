@@ -1,0 +1,77 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2018	57	57
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2018	114	114
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2018	194	194
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2018	204	204
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2018	247	247
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2018	281	281
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2018	316	316
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2018	357	357
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2018	363	363
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2018	370	370
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2018	466	466
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2018	479	479
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2018	491	491
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2018	535	535
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2018	548	548
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2018	627	627
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2018	630	630
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2018	698	698
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2018	742	742
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2018	800	800
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2018	818	818
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2018	829	829
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2018	849	849
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2018	855	855
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2018	857	857
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2018	901	901
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2018	914	914
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2018	925	925
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2018	938	938
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2018	950	950
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2018	950	950
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2018	971	971
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2018	973	973
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2018	977	977
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2018	980	980
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2018	983	983
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2018	994	994
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2018	999	999
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2018	999	999
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2018	1009	1009
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2018	1019	1019
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2018	1048	1048
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2018	1050	1050
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2018	1057	1057
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2018	1080	1080
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2018	1092	1092
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2018	1104	1104
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2018	1106	1106
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2018	1106	1106
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2018	1109	1109
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2018	1114	1114
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2018	1116	1116
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2018	1119	1119
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2018	1125	1125
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2018	1125	1125
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2018	1137	1137
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2018	1144	1144
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2018	1145	1145
+佐贺大学	Saga University	日本, 亚洲	USNEWS世界大学排名	2018	1146	1146
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2018	1146	1146
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2018	1152	1152
+茨城大学	Ibaraki University	日本, 亚洲	USNEWS世界大学排名	2018	1158	1158
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2018	1162	1162
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2018	1167	1167
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2018	1170	1170
+札幌医科大学	Sapporo Medical University	日本, 亚洲	USNEWS世界大学排名	2018	1172	1172
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2018	1186	1186
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2018	1193	1193
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2018	1196	1196
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2018	1199	1199
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2018	1201	1201
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2018	1217	1217
+姬路工业大学	Himeji Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2018	1225	1225
+岛根大学	Shimane University	日本, 亚洲	USNEWS世界大学排名	2018	1233	1233
+福井大学	University of Fukui	日本, 亚洲	USNEWS世界大学排名	2018	1237	1237
+兵库医学院	Hyogo College of Medicine	日本, 亚洲	USNEWS世界大学排名	2018	1238	1238

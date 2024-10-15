@@ -1,0 +1,78 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2020	12	12
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2020	32	32
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2020	33	33
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2020	36	36
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2020	38	38
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2020	43	43
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2020	45	45
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	计算机科学	2020	46	46
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2020	48	48
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2020	53	53
+林雪平大学	Linkoping University	瑞典, 欧洲	计算机科学	2020	60	60
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2020	61	61
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2020	65	65
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2020	66	66
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2020	69	69
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2020	70	70
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2020	71	71
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2020	71	71
+萨里大学	University of Surrey	英国, 欧洲	计算机科学	2020	77	77
+里昂大学	Universite De Lyon (comue)	法国, 欧洲	计算机科学	2020	81	81
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2020	84	84
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2020	88	88
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2020	89	89
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2020	91	91
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2020	100	100
+布鲁内尔大学	Brunel University	英国, 欧洲	计算机科学	2020	101	101
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2020	101	101
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2020	103	103
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2020	109	109
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2020	113	113
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2020	115	115
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2020	118	118
+帕多瓦大学	University of Padua	意大利, 欧洲	计算机科学	2020	121	121
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2020	122	122
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2020	122	122
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2020	125	125
+瓦伦西亚理工大学	Polytechnic University of Valencia	西班牙, 欧洲	计算机科学	2020	133	133
+卢森堡大学	University of Luxembourg	卢森堡, 欧洲	计算机科学	2020	134	134
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2020	141	141
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2020	142	142
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2020	146	146
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2020	148	148
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2020	150	150
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	计算机科学	2020	157	157
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	计算机科学	2020	159	159
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2020	161	161
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2020	165	165
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2020	169	169
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2020	172	172
+巴黎文理研究大学	Université Psl	法国, 欧洲	计算机科学	2020	172	172
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2020	174	174
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2020	178	178
+图卢兹联邦大学	Federal University of Toulouse Midi-pyrénées	法国, 欧洲	计算机科学	2020	179	179
+特文特大学	University of Twente	荷兰, 欧洲	计算机科学	2020	182	182
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	计算机科学	2020	183	183
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2020	189	189
+雅典国家技术大学	National Technical University of Athens	希腊, 欧洲	计算机科学	2020	193	193
+萨洛尼卡大学	Aristotle University of Thessaloniki	希腊, 欧洲	计算机科学	2020	196	196
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2020	196	196
+里尔-北法兰西大学	Universite Lille-nord-de-france (comue)	法国, 欧洲	计算机科学	2020	202	202
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	计算机科学	2020	203	203
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2020	205	205
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2020	206	206
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2020	207	207
+波尔图大学	University of Porto	葡萄牙, 欧洲	计算机科学	2020	211	211
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2020	216	216
+坦佩雷大学	University of Tampere	芬兰, 欧洲	计算机科学	2020	219	219
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2020	223	223
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2020	230	230
+索邦巴黎西岱大学	Universite Sorbonne Paris Cite-uspc (comue)	法国, 欧洲	计算机科学	2020	231	231
+巴斯克大学	University of The Basque Country	西班牙, 欧洲	计算机科学	2020	231	231
+阿基坦大学	Communaute D'universites Et Etablissements D'aquitaine (comue)	法国, 欧洲	计算机科学	2020	234	234
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2020	234	234
+萨勒诺大学	University of Salerno	意大利, 欧洲	计算机科学	2020	238	238
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	计算机科学	2020	246	246
+利物浦大学	University of Liverpool	英国, 欧洲	计算机科学	2020	248	248
+布拉格捷克理工大学	Czech Technical University In Prague	捷克, 欧洲	计算机科学	2020	249	249

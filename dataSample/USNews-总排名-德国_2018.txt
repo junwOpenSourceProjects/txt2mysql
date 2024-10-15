@@ -1,0 +1,59 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2018	40	40
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2018	59	59
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2018	80	80
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2018	87	87
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2018	104	104
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2018	112	112
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2018	134	134
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2018	142	142
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2018	148	148
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2018	155	155
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2018	167	167
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2018	176	176
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2018	183	183
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2018	196	196
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2018	204	204
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2018	213	213
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2018	217	217
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2018	243	243
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2018	257	257
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2018	285	285
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2018	289	289
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2018	296	296
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2018	329	329
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2018	344	344
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2018	349	349
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2018	354	354
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2018	359	359
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2018	366	366
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2018	410	410
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2018	418	418
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2018	418	418
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2018	422	422
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2018	429	429
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2018	441	441
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2018	443	443
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2018	477	477
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2018	479	479
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2018	529	529
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2018	555	555
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2018	562	562
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2018	565	565
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2018	576	576
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2018	597	597
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2018	627	627
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2018	630	630
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2018	649	649
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2018	651	651
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2018	681	681
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2018	704	704
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2018	740	740
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2018	772	772
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2018	859	859
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2018	901	901
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2018	903	903
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2018	1042	1042
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2018	1209	1209

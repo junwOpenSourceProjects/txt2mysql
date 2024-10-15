@@ -1,0 +1,47 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2023	339	339
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2023	345	345
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	732	732
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	USNEWS世界大学排名	2023	782	782
+齐罗纳大学	University of Zielona Góra	波兰, 欧洲	USNEWS世界大学排名	2023	801	801
+弗罗茨瓦夫医科大学	Wroclaw Medical University	波兰, 欧洲	USNEWS世界大学排名	2023	835	835
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2023	875	875
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2023	1022	1,022
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2023	1082	1,082
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2023	1106	1,106
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2023	1155	1,155
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1218	1,218
+奥波莱大学	University of Opole	波兰, 欧洲	USNEWS世界大学排名	2023	1233	1,233
+罗兹医科大学	Medical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2023	1291	1,291
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2023	1303	1,303
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1309	1,309
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	USNEWS世界大学排名	2023	1314	1,314
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2023	1317	1,317
+华氏大学	Fahrenheit Universities	波兰, 欧洲	USNEWS世界大学排名	2023	1327	1,327
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2023	1394	1,394
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2023	1407	1,407
+波兹南医科大学	Poznan University of Medical Sciences	波兰, 欧洲	USNEWS世界大学排名	2023	1431	1,431
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1443	1,443
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1446	1,446
+波美拉尼亚医科大学	Pomeranian Medical University In Szczecin	波兰, 欧洲	USNEWS世界大学排名	2023	1498	1,498
+奥尔什丁瓦尔米亚玛祖里大学	University of Warmia And Mazury In Olsztyn	波兰, 欧洲	USNEWS世界大学排名	2023	1526	1,526
+波兹南生命科学大学	Poznań University of Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2023	1542	1,542
+卢布林医科大学	Medical University of Lublin	波兰, 欧洲	USNEWS世界大学排名	2023	1589	1,589
+玛丽亚•斯克沃多夫斯卡-居里大学	Maria Curie-skłodowska University	波兰, 欧洲	USNEWS世界大学排名	2023	1600	1,600
+克拉科夫农业大学	University of Agriculture In Krakow	波兰, 欧洲	USNEWS世界大学排名	2023	1603	1,603
+热舒夫大学	University of Rzeszów	波兰, 欧洲	USNEWS世界大学排名	2023	1689	1,689
+克拉科夫工业大学	Cracow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1694	1,694
+弗罗茨瓦夫环境与生命科学大学	Wrocław University of Environmental And Life Sciences	波兰, 欧洲	USNEWS世界大学排名	2023	1704	1,704
+西里西亚医科大学	Medical University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2023	1705	1,705
+卢布林工业大学	Lublin University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1735	1,735
+什切青西波美拉尼亚技术大学	West Pomeranian University of Technology, Szczecin	波兰, 欧洲	USNEWS世界大学排名	2023	1746	1,746
+比亚韦斯托克医科大学	Medical University of Białystok	波兰, 欧洲	USNEWS世界大学排名	2023	1758	1,758
+琴斯托霍瓦工业大学	Częstochowa University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1792	1,792
+热舒夫工业大学	Rzeszow University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1857	1,857
+扬科查诺夫斯基大学	Jan Kochanowski University	波兰, 欧洲	USNEWS世界大学排名	2023	1865	1,865
+卢布林生命科学大学	University of Life Sciences In Lublin	波兰, 欧洲	USNEWS世界大学排名	2023	1912	1,912
+华沙军事科技大学	Military University of Technology In Warsaw	波兰, 欧洲	USNEWS世界大学排名	2023	1923	1,923
+比得哥什科技大学	Bydgoszcz University of Science & Technology	波兰, 欧洲	USNEWS世界大学排名	2023	1995	1,995
+研究生医学教育中心	Centre of Postgraduate Medical Education	波兰, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+奥波莱科技大学	Opole University of Technology	波兰, 欧洲	USNEWS世界大学排名	2023	9999	Unranked
+SWPS社会科学与人文大学	Swps University of Social Sciences And Humanities	波兰, 欧洲	USNEWS世界大学排名	2023	9999	Unranked

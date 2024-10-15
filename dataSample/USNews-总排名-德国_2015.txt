@@ -1,0 +1,43 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2015	48	48
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2015	59	59
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2015	77	77
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2015	81	81
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2015	93	93
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2015	94	94
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2015	135	135
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2015	139	139
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2015	154	154
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2015	160	160
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2015	173	173
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2015	177	177
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2015	177	177
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2015	179	179
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2015	191	191
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2015	197	197
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2015	210	210
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2015	213	213
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2015	216	216
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2015	224	224
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2015	236	236
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2015	260	260
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2015	270	270
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2015	294	294
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2015	306	306
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2015	314	314
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2015	332	332
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2015	334	334
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2015	335	335
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2015	335	335
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2015	335	335
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2015	350	350
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2015	363	363
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2015	386	386
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2015	409	409
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2015	409	409
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2015	431	431
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2015	437	437
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2015	438	438
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2015	446	446
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2015	460	460
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2015	479	479

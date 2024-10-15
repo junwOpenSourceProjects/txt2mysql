@@ -1,0 +1,51 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2016	37	37
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2016	53	53
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2016	64	64
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2016	68	68
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2016	80	80
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2016	99	99
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2016	122	122
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2016	134	134
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2016	134	134
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2016	136	136
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2016	136	136
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2016	146	146
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2016	157	157
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2016	158	158
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2016	162	162
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2016	168	168
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2016	181	181
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2016	183	183
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2016	203	203
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2016	212	212
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2016	231	231
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2016	263	263
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2016	268	268
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2016	274	274
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2016	284	284
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2016	288	288
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2016	307	307
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2016	322	322
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2016	344	344
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2016	350	350
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2016	357	357
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2016	370	370
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2016	370	370
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2016	381	381
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2016	405	405
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2016	407	407
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2016	422	422
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2016	426	426
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2016	440	440
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2016	450	450
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2016	473	473
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2016	511	511
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2016	515	515
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2016	545	545
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2016	588	588
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2016	602	602
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2016	606	606
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2016	616	616
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2016	640	640
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2016	689	689

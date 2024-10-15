@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2022	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2022	2	2
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2022	3	3
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2022	4	4
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2022	5	5
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2022	6	6
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2022	6	6
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2022	8	8
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2022	9	9
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2022	10	10
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2022	11	11
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2022	12	12
+悉尼科技大学	University of Technology Sydney	澳大利亚, 大洋洲	计算机科学	2022	13	13
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2022	14	14
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2022	15	15
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2022	16	16
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2022	17	17
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2022	18	18
+电子科技大学	University of Electronic Science And Technology of China	中国, 亚洲, 双一流, 985, 211, 四川, 理工类, 公立	计算机科学	2022	19	19
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2022	20	20
+武汉大学	Wuhan University	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2022	21	21
+哈尔滨工业大学	Harbin Institute of Technology	中国, 亚洲, C9, 双一流, 985, 211, 黑龙江, 理工类, 公立	计算机科学	2022	22	22
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2022	23	23
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2022	24	24
+华中科技大学	Huazhong University of Science And Technology	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2022	24	24
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	计算机科学	2022	26	26
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2022	26	26
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2022	28	28
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2022	29	29
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2022	30	30
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2022	31	31
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2022	32	32
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2022	33	33
+西安电子科技大学	Xidian University	中国, 亚洲, 211, 陕西, 理工类, 公立	计算机科学	2022	34	34
+阿德雷德大学	The University of Adelaide	澳大利亚, 大洋洲	计算机科学	2022	35	35
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2022	36	36
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2022	37	37
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	计算机科学	2022	38	38
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2022	39	39
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2022	40	40
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2022	41	41
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2022	42	42
+南京大学	Nanjing University	中国, 亚洲, C9, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2022	43	43
+北京航空航天大学	Beihang University	中国, 亚洲, 双一流, 985, 211, 北京, 理工类, 公立	计算机科学	2022	44	44
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2022	45	45
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2022	46	46
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2022	47	47
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2022	48	48
+东南大学	Southeast University	中国, 亚洲, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2022	49	49
+西北工业大学	Northwestern Polytechnical University	中国, 亚洲, 双一流, 985, 211, 陕西, 理工类, 公立	计算机科学	2022	50	50
+中山大学	Sun Yat-sen University, Sysu	中国, 亚洲, 双一流, 985, 211, 广东, 综合类, 公立	计算机科学	2022	50	50
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2022	52	52
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2022	53	53
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2022	54	54
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2022	55	55
+西安交通大学	Xian Jiaotong University	中国, 亚洲, C9, 双一流, 985, 211, 陕西, 综合类, 公立	计算机科学	2022	56	56
+纽约大学	New York University	美国, 北美洲	计算机科学	2022	57	57
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2022	58	58
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2022	59	59
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2022	60	60
+南京信息工程大学	Nanjing University of Information Science And Technology	中国, 亚洲, 江苏, 理工类, 公立	计算机科学	2022	60	60
+马来亚大学	University of Malaya	马来西亚, 亚洲	计算机科学	2022	62	62
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2022	63	63
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2022	63	63
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2022	65	65
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2022	66	66
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2022	66	66
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2022	68	68
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2022	69	69
+大连理工大学	Dalian University of Technology	中国, 亚洲, 双一流, 985, 211, 辽宁, 理工类, 公立	计算机科学	2022	70	70
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2022	71	71
+中南大学	Central South University	中国, 亚洲, 双一流, 985, 211, 湖南, 综合类, 公立	计算机科学	2022	72	72
+北京邮电大学	Beijing University of Posts And Telecommunications	中国, 亚洲, 211, 北京, 理工类, 公立	计算机科学	2022	73	73
+沙特国王大学	King Saud University	沙特, 亚洲	计算机科学	2022	73	73
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	计算机科学	2022	75	75
+中国科学院大学	University of Chinese Academy of Sciences	中国, 亚洲, 北京, 综合类, 公立	计算机科学	2022	76	76
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2022	77	77
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	计算机科学	2022	78	78
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2022	79	79
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2022	79	79
+北京理工大学	Beijing Institute of Technology	中国, 亚洲, 双一流, 985, 211, 北京, 理工类, 公立	计算机科学	2022	81	81
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2022	81	81
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2022	83	83
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2022	83	83
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2022	85	85
+莫纳什大学	Monash University	澳大利亚, 大洋洲	计算机科学	2022	86	86
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2022	87	87
+蒙特利尔大学	University of Montreal	加拿大, 北美洲	计算机科学	2022	88	88
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2022	89	89
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2022	89	89
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2022	91	91
+苏黎世大学	University of Zurich	瑞士, 欧洲	计算机科学	2022	92	92
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2022	93	93
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2022	94	94
+阿尔伯塔大学	University of Alberta	加拿大, 北美洲	计算机科学	2022	95	95
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2022	96	96
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2022	97	97
+中国人民解放军国防科技大学	National University of Defense Technology	中国, 亚洲, 双一流, 985, 211, 湖南, 军事类, 公立	计算机科学	2022	98	98
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2022	99	99
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2022	100	100

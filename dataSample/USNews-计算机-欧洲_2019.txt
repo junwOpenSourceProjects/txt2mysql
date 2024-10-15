@@ -1,0 +1,61 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2019	7	7
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2019	16	16
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2019	25	25
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2019	31	31
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2019	32	32
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2019	36	36
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2019	43	43
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2019	44	44
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2019	48	48
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2019	48	48
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2019	53	53
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2019	56	56
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2019	58	58
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2019	61	61
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2019	63	63
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2019	65	65
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2019	69	69
+林雪平大学	Linkoping University	瑞典, 欧洲	计算机科学	2019	74	74
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2019	75	75
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2019	80	80
+萨里大学	University of Surrey	英国, 欧洲	计算机科学	2019	85	85
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2019	90	90
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2019	90	90
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2019	97	97
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2019	101	101
+布鲁内尔大学	Brunel University	英国, 欧洲	计算机科学	2019	105	105
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2019	106	106
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2019	108	108
+里昂大学	Universite De Lyon (comue)	法国, 欧洲	计算机科学	2019	110	110
+特文特大学	University of Twente	荷兰, 欧洲	计算机科学	2019	116	116
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2019	121	121
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2019	124	124
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2019	126	126
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2019	128	128
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2019	130	130
+瓦伦西亚理工大学	Polytechnic University of Valencia	西班牙, 欧洲	计算机科学	2019	131	131
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	计算机科学	2019	132	132
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2019	134	134
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2019	135	135
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2019	137	137
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2019	138	138
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2019	138	138
+雅典国家技术大学	National Technical University of Athens	希腊, 欧洲	计算机科学	2019	143	143
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	计算机科学	2019	150	150
+帕多瓦大学	University of Padua	意大利, 欧洲	计算机科学	2019	152	152
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2019	153	153
+巴黎文理研究大学	Université Psl	法国, 欧洲	计算机科学	2019	159	159
+卢森堡大学	University of Luxembourg	卢森堡, 欧洲	计算机科学	2019	165	165
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2019	166	166
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2019	168	168
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2019	170	170
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2019	172	172
+萨洛尼卡大学	Aristotle University of Thessaloniki	希腊, 欧洲	计算机科学	2019	181	181
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	计算机科学	2019	181	181
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2019	186	186
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2019	190	190
+里尔-北法兰西大学	Universite Lille-nord-de-france (comue)	法国, 欧洲	计算机科学	2019	192	192
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2019	197	197
+科英布拉大学	University of Coimbra	葡萄牙, 欧洲	计算机科学	2019	199	199
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2019	200	200

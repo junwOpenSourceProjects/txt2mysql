@@ -1,0 +1,15 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2023	82	82
+京都大学	Kyoto University	日本, 亚洲	计算机科学	2023	168	168
+东北大学，仙台	Tohoku University	日本, 亚洲	计算机科学	2023	238	238
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	计算机科学	2023	241	241
+大阪大学	Osaka University	日本, 亚洲	计算机科学	2023	252	252
+九州大学	Kyushu University	日本, 亚洲	计算机科学	2023	303	303
+早稻田大学	Waseda University	日本, 亚洲	计算机科学	2023	389	389
+名古屋大学	Nagoya University	日本, 亚洲	计算机科学	2023	415	415
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	计算机科学	2023	415	415
+筑波大学	University of Tsukuba	日本, 亚洲	计算机科学	2023	490	490
+会津大学	The University of Aizu	日本, 亚洲	计算机科学	2023	502	502
+庆应义塾大学	Keio University	日本, 亚洲	计算机科学	2023	511	511
+电气通信大学	The University of Electro-communications	日本, 亚洲	计算机科学	2023	659	659
+北海道大学	Hokkaido University	日本, 亚洲	计算机科学	2023	704	704

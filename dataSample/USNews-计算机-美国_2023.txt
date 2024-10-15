@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2023	2	2
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2023	3	3
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2023	4	4
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2023	5	5
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2023	14	14
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2023	17	17
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2023	21	21
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2023	22	22
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2023	23	23
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2023	24	24
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2023	32	32
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2023	36	36
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2023	40	40
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2023	45	45
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2023	46	46
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2023	49	49
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2023	54	54
+纽约大学	New York University	美国, 北美洲	计算机科学	2023	55	55
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2023	58	58
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2023	68	68
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2023	69	69
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2023	73	73
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2023	78	78
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2023	79	79
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2023	79	79
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2023	85	85
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2023	87	87
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2023	90	90
+杜克大学	Duke University	美国, 北美洲	计算机科学	2023	94	94
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2023	95	95
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	计算机科学	2023	102	102
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2023	104	104
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2023	111	111
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2023	114	114
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2023	117	117
+德克萨斯大学-圣安东尼奥	The University of Texas At San Antonio	美国, 北美洲	计算机科学	2023	129	129
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	计算机科学	2023	134	134
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2023	135	135
+布朗大学	Brown University	美国, 北美洲	计算机科学	2023	136	136
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2023	137	137
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2023	140	140
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2023	146	146
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2023	152	152
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2023	164	164
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	计算机科学	2023	165	165
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2023	166	166
+新泽西理工学院	New Jersey Institute of Technology	美国, 北美洲	计算机科学	2023	175	175
+坦普尔大学	Temple University	美国, 北美洲	计算机科学	2023	181	181
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2023	184	184
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2023	190	190
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	计算机科学	2023	193	193
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2023	193	193
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2023	204	204
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2023	209	209
+弗吉尼亚大学	University of Virginia	美国, 北美洲	计算机科学	2023	217	217
+罗切斯特大学	University of Rochester	美国, 北美洲	计算机科学	2023	233	233
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2023	235	235
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2023	235	235
+德克萨斯大学-阿灵顿	The University of Texas At Arlington	美国, 北美洲	计算机科学	2023	256	256
+中佛罗里达大学	University of Central Florida	美国, 北美洲	计算机科学	2023	257	257
+佐治亚州立大学	Georgia State University	美国, 北美洲	计算机科学	2023	260	260
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2023	263	263
+加州大学-河滨	University of California, Riverside	美国, 北美洲	计算机科学	2023	266	266
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2023	268	268
+爱荷华州立大学	Iowa State University	美国, 北美洲	计算机科学	2023	285	285
+纽约大学坦登工程学院	New York University Tandon School of Engineering	美国, 北美洲	计算机科学	2023	290	290
+犹他大学	University of Utah	美国, 北美洲	计算机科学	2023	309	309
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	计算机科学	2023	314	314
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	计算机科学	2023	333	333
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	计算机科学	2023	349	349
+范德堡大学	Vanderbilt University	美国, 北美洲	计算机科学	2023	349	349
+肯塔基大学	University of Kentucky	美国, 北美洲	计算机科学	2023	358	358
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	计算机科学	2023	372	372
+乔治梅森大学	George Mason University	美国, 北美洲	计算机科学	2023	379	379
+克莱姆森大学	Clemson University	美国, 北美洲	计算机科学	2023	382	382
+马里兰大学-巴尔的摩县	University of Maryland, Baltimore County	美国, 北美洲	计算机科学	2023	382	382
+斯蒂文斯理工学院	Stevens Institute of Technology	美国, 北美洲	计算机科学	2023	387	387
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	计算机科学	2023	389	389
+北卡罗莱纳大学－夏洛特	University of North Carolina At Charlotte	美国, 北美洲	计算机科学	2023	396	396
+密西西比州立大学	Mississippi State University	美国, 北美洲	计算机科学	2023	404	404
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	计算机科学	2023	411	411
+达特茅斯学院	Dartmouth College	美国, 北美洲	计算机科学	2023	420	420
+德雷塞尔大学	Drexel University	美国, 北美洲	计算机科学	2023	420	420
+南佛罗里达大学	University of South Florida	美国, 北美洲	计算机科学	2023	427	427
+爱达荷大学	University of Idaho	美国, 北美洲	计算机科学	2023	431	431
+北德克萨斯州大学	University of North Texas	美国, 北美洲	计算机科学	2023	439	439
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	计算机科学	2023	445	445
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	计算机科学	2023	451	451
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	计算机科学	2023	451	451
+爱荷华大学	University of Iowa	美国, 北美洲	计算机科学	2023	454	454
+辛辛那提大学	University of Cincinnati	美国, 北美洲	计算机科学	2023	458	458
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	计算机科学	2023	468	468
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	计算机科学	2023	471	471
+佛罗里达国际大学	Florida International University	美国, 北美洲	计算机科学	2023	472	472
+俄勒冈州立大学	Oregon State University	美国, 北美洲	计算机科学	2023	480	480
+罗切斯特理工学院	Rochester Institute of Technology	美国, 北美洲	计算机科学	2023	480	480
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	计算机科学	2023	490	490
+奥本大学	Auburn University	美国, 北美洲	计算机科学	2023	493	493
+密苏里科技大学	Missouri University of Science And Technology	美国, 北美洲	计算机科学	2023	501	501
+佐治亚大学	University of Georgia	美国, 北美洲	计算机科学	2023	502	502

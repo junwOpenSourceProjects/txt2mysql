@@ -1,0 +1,43 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2019	3	3
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2019	8	8
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2019	11	11
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2019	18	18
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2019	19	19
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2019	21	21
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2019	22	22
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2019	24	24
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2019	35	35
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2019	42	42
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2019	46	46
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2019	50	50
+纽约大学	New York University	美国, 北美洲	计算机科学	2019	57	57
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2019	59	59
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2019	60	60
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2019	62	62
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2019	65	65
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2019	67	67
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2019	69	69
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2019	80	80
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2019	85	85
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2019	89	89
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2019	92	92
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2019	96	96
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2019	99	99
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2019	101	101
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2019	101	101
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2019	107	107
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2019	112	112
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2019	112	112
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2019	122	122
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2019	143	143
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2019	162	162
+新泽西理工学院	New Jersey Institute of Technology	美国, 北美洲	计算机科学	2019	164	164
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2019	174	174
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2019	176	176
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2019	177	177
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2019	179	179
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2019	181	181
+杜克大学	Duke University	美国, 北美洲	计算机科学	2019	186	186
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2019	193	193
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	计算机科学	2019	195	195

@@ -1,0 +1,37 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2016	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2016	2	2
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2016	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2016	4	4
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2016	6	6
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2016	8	8
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2016	9	9
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2016	11	11
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2016	12	12
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2016	14	14
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2016	14	14
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2016	26	26
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2016	28	28
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2016	35	35
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2016	40	40
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2016	41	41
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2016	46	46
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2016	48	48
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2016	49	49
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2016	51	51
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2016	53	53
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2016	56	56
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2016	68	68
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2016	72	72
+纽约大学	New York University	美国, 北美洲	计算机科学	2016	73	73
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2016	73	73
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2016	77	77
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2016	81	81
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2016	83	83
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2016	85	85
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2016	87	87
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2016	92	92
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2016	95	95
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2016	97	97
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2016	98	98
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2016	99	99

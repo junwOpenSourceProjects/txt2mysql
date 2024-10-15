@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	USNEWS世界大学排名	2015	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	USNEWS世界大学排名	2015	6	6
+帝国理工学院	Imperial College London	英国, 欧洲	USNEWS世界大学排名	2015	12	12
+伦敦大学学院	University College London	英国, 欧洲	USNEWS世界大学排名	2015	21	21
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	USNEWS世界大学排名	2015	26	26
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	USNEWS世界大学排名	2015	40	40
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	USNEWS世界大学排名	2015	46	46
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2015	48	48
+曼彻斯特大学	The University of Manchester	英国, 欧洲	USNEWS世界大学排名	2015	49	49
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	USNEWS世界大学排名	2015	53	53
+卡罗林斯卡学院	Karolinska Institute	瑞典, 欧洲	USNEWS世界大学排名	2015	55	55
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2015	59	59
+伦敦国王学院	King's College London	英国, 欧洲	USNEWS世界大学排名	2015	61	61
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	USNEWS世界大学排名	2015	65	65
+乌得勒支大学	Utrecht University	荷兰, 欧洲	USNEWS世界大学排名	2015	68	68
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	USNEWS世界大学排名	2015	69	69
+莱顿大学	Leiden University	荷兰, 欧洲	USNEWS世界大学排名	2015	75	75
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2015	77	77
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2015	77	77
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2015	80	80
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2015	81	81
+布里斯托尔大学	University of Bristol	英国, 欧洲	USNEWS世界大学排名	2015	82	82
+苏黎世大学	University of Zurich	瑞士, 欧洲	USNEWS世界大学排名	2015	83	83
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	USNEWS世界大学排名	2015	84	84
+根特大学	Ghent University	比利时, 欧洲	USNEWS世界大学排名	2015	87	87
+伦敦大学卫生和热带医学学院	London School of Hygiene & Tropical Medicine	英国, 欧洲	USNEWS世界大学排名	2015	91	91
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2015	93	93
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2015	94	94
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2015	96	96
+隆德大学	Lund University	瑞典, 欧洲	USNEWS世界大学排名	2015	98	98
+格罗宁根大学	University of Groningen	荷兰, 欧洲	USNEWS世界大学排名	2015	98	98
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2015	100	100
+日内瓦大学	University of Geneva	瑞士, 欧洲	USNEWS世界大学排名	2015	102	102
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	USNEWS世界大学排名	2015	107	107
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2015	110	110
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	USNEWS世界大学排名	2015	112	112
+约瑟夫·傅里叶大学	Joseph Fourier University	法国, 欧洲	USNEWS世界大学排名	2015	116	116
+巴黎第七大学	University Paris Diderot, Paris 7	法国, 欧洲	USNEWS世界大学排名	2015	116	116
+奥胡斯大学	Aarhus University	丹麦, 欧洲	USNEWS世界大学排名	2015	118	118
+伯明翰大学	University of Birmingham	英国, 欧洲	USNEWS世界大学排名	2015	121	121
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	USNEWS世界大学排名	2015	123	123
+巴塞尔大学	University of Basel	瑞士, 欧洲	USNEWS世界大学排名	2015	123	123
+伯尔尼大学	University of Bern	瑞士, 欧洲	USNEWS世界大学排名	2015	125	125
+利兹大学	University of Leeds	英国, 欧洲	USNEWS世界大学排名	2015	131	131
+南安普敦大学	University of Southampton	英国, 欧洲	USNEWS世界大学排名	2015	133	133
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	USNEWS世界大学排名	2015	134	134
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2015	135	135
+奥斯陆大学	University of Oslo	挪威, 欧洲	USNEWS世界大学排名	2015	135	135
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	USNEWS世界大学排名	2015	138	138
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	USNEWS世界大学排名	2015	139	139
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2015	139	139
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	USNEWS世界大学排名	2015	141	141
+博洛尼亚大学	University of Bologna	意大利, 欧洲	USNEWS世界大学排名	2015	146	146
+帕多瓦大学	University of Padua	意大利, 欧洲	USNEWS世界大学排名	2015	146	146
+利物浦大学	University of Liverpool	英国, 欧洲	USNEWS世界大学排名	2015	150	150
+诺丁汉大学	University of Nottingham	英国, 欧洲	USNEWS世界大学排名	2015	152	152
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2015	154	154
+米兰大学	University of Milan	意大利, 欧洲	USNEWS世界大学排名	2015	155	155
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	USNEWS世界大学排名	2015	159	159
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2015	160	160
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2015	160	160
+斯特拉斯堡大学	University of Strasbourg	法国, 欧洲	USNEWS世界大学排名	2015	170	170
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2015	173	173
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	USNEWS世界大学排名	2015	176	176
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2015	177	177
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2015	177	177
+布拉格查尔斯大学	Charles University In Prague	捷克, 欧洲	USNEWS世界大学排名	2015	179	179
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2015	179	179
+华威大学	The University of Warwick	英国, 欧洲	USNEWS世界大学排名	2015	182	182
+艾克斯-马赛大学	Aix Marseille University	法国, 欧洲	USNEWS世界大学排名	2015	185	185
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	USNEWS世界大学排名	2015	185	185
+卡迪夫大学	Cardiff University	英国, 欧洲	USNEWS世界大学排名	2015	188	188
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	USNEWS世界大学排名	2015	188	188
+杜伦大学	Durham University	英国, 欧洲	USNEWS世界大学排名	2015	188	188
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2015	191	191
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	USNEWS世界大学排名	2015	193	193
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	USNEWS世界大学排名	2015	194	194
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	USNEWS世界大学排名	2015	196	196
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2015	197	197
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	USNEWS世界大学排名	2015	197	197
+维也纳大学	University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2015	197	197
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	USNEWS世界大学排名	2015	201	201
+都灵大学	University of Turin	意大利, 欧洲	USNEWS世界大学排名	2015	205	205
+洛桑大学	University of Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2015	207	207
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	USNEWS世界大学排名	2015	208	208
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	USNEWS世界大学排名	2015	210	210
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	USNEWS世界大学排名	2015	210	210
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2015	210	210
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2015	213	213
+里昂第一大学	Claude Bernard University Lyon 1	法国, 欧洲	USNEWS世界大学排名	2015	213	213
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2015	216	216
+图卢兹第三大学	Paul Sabatier University, Toulouse 3	法国, 欧洲	USNEWS世界大学排名	2015	218	218
+安特卫普大学	University of Antwerp	比利时, 欧洲	USNEWS世界大学排名	2015	220	220
+巴黎第五大学	University of Paris Descartes, Paris 5	法国, 欧洲	USNEWS世界大学排名	2015	222	222
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2015	224	224
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	USNEWS世界大学排名	2015	224	224
+蒙彼利埃第二大学	Universit Montpellier 2	法国, 欧洲	USNEWS世界大学排名	2015	227	227
+兰卡斯特大学	Lancaster University	英国, 欧洲	USNEWS世界大学排名	2015	229	229
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	USNEWS世界大学排名	2015	230	230
+卑尔根大学	University of Bergen	挪威, 欧洲	USNEWS世界大学排名	2015	230	230

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2021	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2021	2	2
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2021	3	3
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2021	4	4
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2021	5	5
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2021	6	6
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2021	7	7
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2021	8	8
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2021	9	9
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2021	10	10
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2021	11	11
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2021	12	12
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2021	13	13
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2021	14	14
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2021	15	15
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2021	16	16
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2021	17	17
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2021	18	18
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2021	19	19
+悉尼科技大学	University of Technology Sydney	澳大利亚, 大洋洲	计算机科学	2021	20	20
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2021	21	21
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2021	22	22
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2021	22	22
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2021	24	24
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2021	25	25
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2021	26	26
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2021	27	27
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2021	28	28
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2021	29	29
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2021	30	30
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2021	31	31
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2021	32	32
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2021	33	33
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2021	34	34
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2021	35	35
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2021	36	36
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	计算机科学	2021	36	36
+纽约大学	New York University	美国, 北美洲	计算机科学	2021	38	38
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2021	39	39
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2021	40	40
+哈尔滨工业大学	Harbin Institute of Technology	中国, 亚洲, C9, 双一流, 985, 211, 黑龙江, 理工类, 公立	计算机科学	2021	41	41
+华中科技大学	Huazhong University of Science And Technology	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2021	42	42
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2021	43	43
+阿德雷德大学	The University of Adelaide	澳大利亚, 大洋洲	计算机科学	2021	43	43
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2021	45	45
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2021	45	45
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	计算机科学	2021	47	47
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2021	48	48
+武汉大学	Wuhan University	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2021	49	49
+西安电子科技大学	Xidian University	中国, 亚洲, 211, 陕西, 理工类, 公立	计算机科学	2021	50	50
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2021	51	51
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2021	52	52
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2021	53	53
+电子科技大学	University of Electronic Science And Technology of China	中国, 亚洲, 双一流, 985, 211, 四川, 理工类, 公立	计算机科学	2021	53	53
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2021	55	55
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2021	56	56
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2021	57	57
+南京大学	Nanjing University	中国, 亚洲, C9, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2021	57	57
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2021	57	57
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2021	60	60
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2021	61	61
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2021	62	62
+北京航空航天大学	Beihang University	中国, 亚洲, 双一流, 985, 211, 北京, 理工类, 公立	计算机科学	2021	63	63
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2021	63	63
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2021	65	65
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2021	65	65
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2021	67	67
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2021	68	68
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2021	68	68
+蒙特利尔大学	University of Montreal	加拿大, 北美洲	计算机科学	2021	70	70
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	计算机科学	2021	71	71
+东南大学	Southeast University	中国, 亚洲, 双一流, 985, 211, 江苏, 综合类, 公立	计算机科学	2021	72	72
+中山大学	Sun Yat-sen University, Sysu	中国, 亚洲, 双一流, 985, 211, 广东, 综合类, 公立	计算机科学	2021	73	73
+西安交通大学	Xian Jiaotong University	中国, 亚洲, C9, 双一流, 985, 211, 陕西, 综合类, 公立	计算机科学	2021	74	74
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2021	75	75
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2021	76	76
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2021	77	77
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2021	78	78
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2021	79	79
+以色列理工学院	Technion-israel Institute of Technology	以色列, 亚洲	计算机科学	2021	80	80
+特拉维夫大学	Tel Aviv University	以色列, 亚洲	计算机科学	2021	80	80
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2021	82	82
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2021	82	82
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	计算机科学	2021	84	84
+杜克大学	Duke University	美国, 北美洲	计算机科学	2021	85	85
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2021	85	85
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2021	87	87
+马来亚大学	University of Malaya	马来西亚, 亚洲	计算机科学	2021	87	87
+大连理工大学	Dalian University of Technology	中国, 亚洲, 双一流, 985, 211, 辽宁, 理工类, 公立	计算机科学	2021	89	89
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2021	90	90
+南京信息工程大学	Nanjing University of Information Science And Technology	中国, 亚洲, 江苏, 理工类, 公立	计算机科学	2021	91	91
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2021	92	92
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2021	93	93
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2021	94	94
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2021	94	94
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	计算机科学	2021	96	96
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2021	97	97
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2021	98	98
+皇家墨尔本理工大学	RMIT University	澳大利亚, 大洋洲	计算机科学	2021	98	98
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2021	100	100

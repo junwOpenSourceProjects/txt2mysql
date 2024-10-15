@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+哈佛大学	Harvard University	美国, 北美洲	USNEWS世界大学排名	2023	1	1
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	USNEWS世界大学排名	2023	2	2
+斯坦福大学	Stanford University	美国, 北美洲	USNEWS世界大学排名	2023	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	USNEWS世界大学排名	2023	4	4
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	USNEWS世界大学排名	2023	6	6
+哥伦比亚大学	Columbia University	美国, 北美洲	USNEWS世界大学排名	2023	7	7
+加州理工学院	California Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2023	9	9
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	USNEWS世界大学排名	2023	10	10
+耶鲁大学	Yale University	美国, 北美洲	USNEWS世界大学排名	2023	11	11
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	USNEWS世界大学排名	2023	14	14
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	USNEWS世界大学排名	2023	15	15
+普林斯顿大学	Princeton University	美国, 北美洲	USNEWS世界大学排名	2023	16	16
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	USNEWS世界大学排名	2023	16	16
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	USNEWS世界大学排名	2023	19	19
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	USNEWS世界大学排名	2023	20	20
+康奈尔大学	Cornell University	美国, 北美洲	USNEWS世界大学排名	2023	21	21
+芝加哥大学	University of Chicago	美国, 北美洲	USNEWS世界大学排名	2023	22	22
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	USNEWS世界大学排名	2023	24	24
+杜克大学	Duke University	美国, 北美洲	USNEWS世界大学排名	2023	25	25
+纽约大学	New York University	美国, 北美洲	USNEWS世界大学排名	2023	31	31
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	USNEWS世界大学排名	2023	32	32
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	USNEWS世界大学排名	2023	41	41
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	USNEWS世界大学排名	2023	43	43
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	USNEWS世界大学排名	2023	45	45
+西奈山医学院	Icahn School of Medicine At Mount Sinai	美国, 北美洲	USNEWS世界大学排名	2023	46	46
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	USNEWS世界大学排名	2023	51	51
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	USNEWS世界大学排名	2023	55	55
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	USNEWS世界大学排名	2023	57	57
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	USNEWS世界大学排名	2023	57	57
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	USNEWS世界大学排名	2023	63	63
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	USNEWS世界大学排名	2023	67	67
+波士顿大学	Boston University	美国, 北美洲	USNEWS世界大学排名	2023	70	70
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	USNEWS世界大学排名	2023	70	70
+埃莫里大学	Emory University	美国, 北美洲	USNEWS世界大学排名	2023	72	72
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	USNEWS世界大学排名	2023	73	73
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	USNEWS世界大学排名	2023	74	74
+范德堡大学	Vanderbilt University	美国, 北美洲	USNEWS世界大学排名	2023	78	78
+南加州大学	University of Southern California	美国, 北美洲	USNEWS世界大学排名	2023	80	80
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	USNEWS世界大学排名	2023	84	84
+加州大学-欧文	University of California, Irvine	美国, 北美洲	USNEWS世界大学排名	2023	84	84
+佛罗里达大学	University of Florida	美国, 北美洲	USNEWS世界大学排名	2023	98	98
+洛克菲勒大学	Rockefeller University	美国, 北美洲	USNEWS世界大学排名	2023	103	103
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	USNEWS世界大学排名	2023	105	105
+亚利桑那大学	University of Arizona	美国, 北美洲	USNEWS世界大学排名	2023	108	108
+密歇根州立大学	Michigan State University	美国, 北美洲	USNEWS世界大学排名	2023	116	116
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	USNEWS世界大学排名	2023	118	118
+弗吉尼亚大学	University of Virginia	美国, 北美洲	USNEWS世界大学排名	2023	119	119
+布朗大学	Brown University	美国, 北美洲	USNEWS世界大学排名	2023	129	129
+德克萨斯大学西南医学中心	The University of Texas Southwestern Medical Center At Dallas	美国, 北美洲	USNEWS世界大学排名	2023	133	133
+贝勒医学院	Baylor College of Medicine	美国, 北美洲	USNEWS世界大学排名	2023	136	136
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	USNEWS世界大学排名	2023	140	140
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	USNEWS世界大学排名	2023	143	143
+德州农工大学	Texas A&m University	美国, 北美洲	USNEWS世界大学排名	2023	148	148
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	USNEWS世界大学排名	2023	152	152
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	USNEWS世界大学排名	2023	152	152
+亚利桑那州立大学	Arizona State University	美国, 北美洲	USNEWS世界大学排名	2023	156	156
+阿拉巴马大学-伯明翰	University of Alabama At Birmingham	美国, 北美洲	USNEWS世界大学排名	2023	160	160
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	USNEWS世界大学排名	2023	160	160
+俄勒冈卫生科学大学	Oregon Health And Science University	美国, 北美洲	USNEWS世界大学排名	2023	165	165
+犹他大学	University of Utah	美国, 北美洲	USNEWS世界大学排名	2023	167	167
+罗切斯特大学	University of Rochester	美国, 北美洲	USNEWS世界大学排名	2023	170	170
+科罗拉多大学安舒兹医学院校区	University of Colorado Anschutz Medical Campus	美国, 北美洲	USNEWS世界大学排名	2023	174	174
+莱斯大学	Rice University	美国, 北美洲	USNEWS世界大学排名	2023	180	180
+爱荷华大学	University of Iowa	美国, 北美洲	USNEWS世界大学排名	2023	180	180
+加州大学-河滨	University of California, Riverside	美国, 北美洲	USNEWS世界大学排名	2023	186	186
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	USNEWS世界大学排名	2023	194	194
+辛辛那提大学	University of Cincinnati	美国, 北美洲	USNEWS世界大学排名	2023	203	203
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	USNEWS世界大学排名	2023	206	206
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	USNEWS世界大学排名	2023	225	225
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	USNEWS世界大学排名	2023	230	230
+塔夫茨大学	Tufts University	美国, 北美洲	USNEWS世界大学排名	2023	239	239
+佛罗里达州立大学	Florida State University	美国, 北美洲	USNEWS世界大学排名	2023	241	241
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	USNEWS世界大学排名	2023	250	250
+迈阿密大学	University of Miami	美国, 北美洲	USNEWS世界大学排名	2023	253	253
+俄勒冈大学	University of Oregon	美国, 北美洲	USNEWS世界大学排名	2023	253	253
+达特茅斯学院	Dartmouth College	美国, 北美洲	USNEWS世界大学排名	2023	261	261
+爱荷华州立大学	Iowa State University	美国, 北美洲	USNEWS世界大学排名	2023	263	263
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	USNEWS世界大学排名	2023	265	265
+叶史瓦大学	Yeshiva University	美国, 北美洲	USNEWS世界大学排名	2023	265	265
+德克萨斯大学卫生科学中心-休斯顿	The University of Texas Health Science Center At Houston	美国, 北美洲	USNEWS世界大学排名	2023	269	269
+乔治华盛顿大学	The George Washington University	美国, 北美洲	USNEWS世界大学排名	2023	271	271
+科罗拉多州立大学	Colorado State University	美国, 北美洲	USNEWS世界大学排名	2023	276	276
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	USNEWS世界大学排名	2023	286	286
+马里兰大学-巴尔的摩	University of Maryland, Baltimore	美国, 北美洲	USNEWS世界大学排名	2023	286	286
+俄勒冈州立大学	Oregon State University	美国, 北美洲	USNEWS世界大学排名	2023	299	299
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	USNEWS世界大学排名	2023	304	304
+坦普尔大学	Temple University	美国, 北美洲	USNEWS世界大学排名	2023	309	309
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	USNEWS世界大学排名	2023	309	309
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	USNEWS世界大学排名	2023	311	311
+南佛罗里达大学	University of South Florida	美国, 北美洲	USNEWS世界大学排名	2023	317	317
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	USNEWS世界大学排名	2023	322	322
+乔治城大学	Georgetown University	美国, 北美洲	USNEWS世界大学排名	2023	324	324
+佐治亚大学	University of Georgia	美国, 北美洲	USNEWS世界大学排名	2023	324	324
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	USNEWS世界大学排名	2023	328	328
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	USNEWS世界大学排名	2023	346	346
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	USNEWS世界大学排名	2023	349	349
+德雷塞尔大学	Drexel University	美国, 北美洲	USNEWS世界大学排名	2023	352	352
+特拉华大学	University of Delaware	美国, 北美洲	USNEWS世界大学排名	2023	352	352
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	USNEWS世界大学排名	2023	356	356
+肯塔基大学	University of Kentucky	美国, 北美洲	USNEWS世界大学排名	2023	356	356

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2025	84	84
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2025	168	168
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2025	311	311
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2025	315	315
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2025	357	357
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2025	367	367
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2025	439	439
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2025	445	445
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2025	488	488
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2025	534	534
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2025	586	586
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2025	645	645
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2025	649	649
+冲绳科学技术大学	Okinawa Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2025	755	755
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2025	822	822
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2025	894	894
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2025	917	917
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2025	942	942
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2025	973	973
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2025	1106	1,106
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2025	1121	1,121
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2025	1132	1,132
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2025	1137	1,137
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2025	1177	1,177
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2025	1181	1,181
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2025	1189	1,189
+大阪公立大学	Osaka Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2025	1203	1,203
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2025	1247	1,247
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2025	1284	1,284
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2025	1291	1,291
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2025	1317	1,317
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2025	1396	1,396
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2025	1435	1,435
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2025	1440	1,440
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2025	1455	1,455
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	USNEWS世界大学排名	2025	1459	1,459
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2025	1465	1,465
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2025	1501	1,501
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2025	1530	1,530
+立教大学	Rikkyo University	日本, 亚洲	USNEWS世界大学排名	2025	1590	1,590
+日本职业与环境卫生大学	University of Occupational And Environmental Health, Japan	日本, 亚洲	USNEWS世界大学排名	2025	1609	1,609
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2025	1614	1,614
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2025	1618	1,618
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2025	1618	1,618
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2025	1624	1,624
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2025	1647	1,647
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2025	1667	1,667
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2025	1667	1,667
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2025	1680	1,680
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2025	1680	1,680
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2025	1686	1,686
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2025	1706	1,706
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2025	1717	1,717
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2025	1729	1,729
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2025	1733	1,733
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2025	1739	1,739
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2025	1739	1,739
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2025	1747	1,747
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2025	1778	1,778
+佐贺大学	Saga University	日本, 亚洲	USNEWS世界大学排名	2025	1778	1,778
+庆林大学	Kyorin University	日本, 亚洲	USNEWS世界大学排名	2025	1784	1,784
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2025	1790	1,790
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2025	1805	1,805
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2025	1810	1,810
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2025	1813	1,813
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2025	1818	1,818
+东京海洋大学	Tokyo University of Marine Science And Technology	日本, 亚洲	USNEWS世界大学排名	2025	1837	1,837
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2025	1842	1,842
+长冈技术科学大学	Nagaoka University of Technology	日本, 亚洲	USNEWS世界大学排名	2025	1852	1,852
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2025	1858	1,858
+鸟取大学	Tottori University	日本, 亚洲	USNEWS世界大学排名	2025	1858	1,858
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2025	1865	1,865
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2025	1872	1,872
+关西医科大学	Kansai Medical University	日本, 亚洲	USNEWS世界大学排名	2025	1893	1,893
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2025	1893	1,893
+浜松医科大学	Hamamatsu University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2025	1901	1,901
+岛根大学	Shimane University	日本, 亚洲	USNEWS世界大学排名	2025	1926	1,926
+和歌山医科大学	Wakayama Medical University	日本, 亚洲	USNEWS世界大学排名	2025	1926	1,926
+关西学院大学	Kwansei Gakuin University	日本, 亚洲	USNEWS世界大学排名	2025	1930	1,930
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2025	1931	1,931
+明治大学	Meiji University	日本, 亚洲	USNEWS世界大学排名	2025	1938	1,938
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2025	1960	1,960
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2025	1960	1,960
+芝浦工业大学	Shibaura Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2025	1987	1,987
+国际医疗福祉大学	International University of Health And Welfare	日本, 亚洲	USNEWS世界大学排名	2025	2001	2,001
+圣玛丽安娜大学医学院	St Marianna University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2025	2014	2,014
+奈良县立医科大学	Nara Medical University	日本, 亚洲	USNEWS世界大学排名	2025	2026	2,026
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2025	2031	2,031
+中央大学，日本	Chuo University	日本, 亚洲	USNEWS世界大学排名	2025	2037	2,037
+丰桥工业大学，TUT	Toyohashi University of Technology, Tut	日本, 亚洲	USNEWS世界大学排名	2025	2045	2,045
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2025	2051	2,051
+秋田大学	Akita University	日本, 亚洲	USNEWS世界大学排名	2025	2073	2,073
+同志社大学	Doshisha University	日本, 亚洲	USNEWS世界大学排名	2025	2073	2,073
+川崎医学院	Kawasaki Medical School	日本, 亚洲	USNEWS世界大学排名	2025	2078	2,078
+埼玉医科大学	Saitama Medical University	日本, 亚洲	USNEWS世界大学排名	2025	2083	2,083
+大分大学	Oita University	日本, 亚洲	USNEWS世界大学排名	2025	2095	2,095
+福岛医科大学	Fukushima Medical University	日本, 亚洲	USNEWS世界大学排名	2025	2107	2,107
+岩手医科大学	Iwate Medical University	日本, 亚洲	USNEWS世界大学排名	2025	2124	2,124
+茨城大学	Ibaraki University	日本, 亚洲	USNEWS世界大学排名	2025	2134	2,134
+滋贺医科大学	Shiga University of Medical Science	日本, 亚洲	USNEWS世界大学排名	2025	2138	2,138

@@ -1,0 +1,33 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2023	17	17
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2023	111	111
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2023	141	141
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2023	145	145
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2023	162	162
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2023	174	174
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2023	237	237
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2023	252	252
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2023	273	273
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2023	314	314
+波鸿大学	University of Bochum	德国, 欧洲	计算机科学	2023	319	319
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2023	324	324
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2023	326	326
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2023	339	339
+汉堡大学	University of Hamburg	德国, 欧洲	计算机科学	2023	360	360
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2023	370	370
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	计算机科学	2023	373	373
+萨尔大学	Saarland University	德国, 欧洲	计算机科学	2023	382	382
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	计算机科学	2023	399	399
+波茨坦大学	University of Potsdam	德国, 欧洲	计算机科学	2023	409	409
+不来梅大学	University of Bremen	德国, 欧洲	计算机科学	2023	465	465
+哥廷根大学	University of Goettingen	德国, 欧洲	计算机科学	2023	480	480
+图宾根大学	University of Tuebingen	德国, 欧洲	计算机科学	2023	485	485
+明斯特大学	University of Muenster	德国, 欧洲	计算机科学	2023	538	538
+汉诺威大学	University of Hannover	德国, 欧洲	计算机科学	2023	550	550
+马格德堡大学	University of Magdeburg	德国, 欧洲	计算机科学	2023	555	555
+乌尔姆大学	University of Ulm	德国, 欧洲	计算机科学	2023	562	562
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	计算机科学	2023	613	613
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	计算机科学	2023	618	618
+帕德博恩大学	University of Paderborn	德国, 欧洲	计算机科学	2023	652	652
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	计算机科学	2023	655	655
+莱比锡大学	University of Leipzig	德国, 欧洲	计算机科学	2023	665	665

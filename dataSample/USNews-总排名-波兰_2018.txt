@@ -1,0 +1,25 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2018	359	359
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	USNEWS世界大学排名	2018	388	388
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	USNEWS世界大学排名	2018	604	604
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2018	615	615
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	USNEWS世界大学排名	2018	756	756
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	USNEWS世界大学排名	2018	807	807
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	USNEWS世界大学排名	2018	876	876
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	USNEWS世界大学排名	2018	943	943
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2018	953	953
+华沙医科大学	Medical University of Warsaw	波兰, 欧洲	USNEWS世界大学排名	2018	956	956
+格但斯克医科大学	Medical University of Gdańsk	波兰, 欧洲	USNEWS世界大学排名	2018	961	961
+罗兹大学	University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2018	973	973
+格但斯克大学	University of Gdansk	波兰, 欧洲	USNEWS世界大学排名	2018	980	980
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	USNEWS世界大学排名	2018	1061	1061
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	USNEWS世界大学排名	2018	1070	1070
+罗兹医科大学	Medical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2018	1086	1086
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	USNEWS世界大学排名	2018	1130	1130
+玛丽亚•斯克沃多夫斯卡-居里大学	Maria Curie-skłodowska University	波兰, 欧洲	USNEWS世界大学排名	2018	1158	1158
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	USNEWS世界大学排名	2018	1162	1162
+波兹南医科大学	Poznan University of Medical Sciences	波兰, 欧洲	USNEWS世界大学排名	2018	1196	1196
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	USNEWS世界大学排名	2018	1205	1205
+西里西亚医科大学	Medical University of Silesia	波兰, 欧洲	USNEWS世界大学排名	2018	1213	1213
+奥尔什丁瓦尔米亚玛祖里大学	University of Warmia And Mazury In Olsztyn	波兰, 欧洲	USNEWS世界大学排名	2018	1231	1231
+卢布林医科大学	Medical University of Lublin	波兰, 欧洲	USNEWS世界大学排名	2018	1246	1246

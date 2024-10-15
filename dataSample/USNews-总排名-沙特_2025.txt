@@ -1,0 +1,32 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2025	74	74
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	USNEWS世界大学排名	2025	100	100
+沙特国王大学	King Saud University	沙特, 亚洲	USNEWS世界大学排名	2025	142	142
+沙迦大学	University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2025	261	261
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	USNEWS世界大学排名	2025	323	323
+塔伊夫大学	Taif University	沙特, 亚洲	USNEWS世界大学排名	2025	359	359
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	USNEWS世界大学排名	2025	401	401
+苏丹王子大学	Prince Sultan University (PSU)	沙特, 亚洲	USNEWS世界大学排名	2025	436	436
+哈立德国王大学	King Khalid University	沙特, 亚洲	USNEWS世界大学排名	2025	451	451
+萨塔姆·本·阿卜杜勒阿齐兹王子大学	Prince Sattam Bin Abdulaziz University	沙特, 亚洲	USNEWS世界大学排名	2025	492	492
+哈里发大学	Khalifa University	沙特, 亚洲	USNEWS世界大学排名	2025	531	531
+伊玛目阿卜杜勒拉曼·本·费萨尔大学	Imam Abdulrahman Bin Faisal University	沙特, 亚洲	USNEWS世界大学排名	2025	623	623
+阿尔法萨尔大学	Alfaisal University	沙特, 亚洲	USNEWS世界大学排名	2025	645	645
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	USNEWS世界大学排名	2025	649	649
+费萨尔国王大学	King Faisal University	沙特, 亚洲	USNEWS世界大学排名	2025	659	659
+泰巴大学	Taibah University	沙特, 亚洲	USNEWS世界大学排名	2025	749	749
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	USNEWS世界大学排名	2025	832	832
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	USNEWS世界大学排名	2025	851	851
+约夫大学	Jouf University	沙特, 亚洲	USNEWS世界大学排名	2025	1014	1,014
+阿治曼大学	Ajman University	沙特, 亚洲	USNEWS世界大学排名	2025	1079	1,079
+哈里大学	University of Hail	沙特, 亚洲	USNEWS世界大学排名	2025	1089	1,089
+塔布克大学	University of Tabuk	沙特, 亚洲	USNEWS世界大学排名	2025	1101	1,101
+吉赞大学	Jazan University	沙特, 亚洲	USNEWS世界大学排名	2025	1128	1,128
+沙特·本·阿卜杜勒阿齐兹国王健康科学大学	King Saud Bin Abdulaziz University For Health Sciences	沙特, 亚洲	USNEWS世界大学排名	2025	1128	1,128
+吉达大学	University of Jeddah	沙特, 亚洲	USNEWS世界大学排名	2025	1210	1,210
+卡西姆大学	Qassim University	沙特, 亚洲	USNEWS世界大学排名	2025	1308	1,308
+玛吉玛大学	Majmaah University	沙特, 亚洲	USNEWS世界大学排名	2025	1360	1,360
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	USNEWS世界大学排名	2025	1386	1,386
+纳吉兰大学	Najran University	沙特, 亚洲	USNEWS世界大学排名	2025	1501	1,501
+沙克拉大学	Shaqra University	沙特, 亚洲	USNEWS世界大学排名	2025	1858	1,858
+穆罕默德·本·法赫德亲王大学	Prince Mohammad Bin Fahd University	沙特, 亚洲	USNEWS世界大学排名	2025	9999	Unranked

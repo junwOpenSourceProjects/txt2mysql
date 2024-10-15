@@ -1,0 +1,9 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2017	29	29
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2017	69	69
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2017	81	81
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2017	93	93
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2017	104	104
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2017	138	138
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2017	147	147
+萨尔大学	Saarland University	德国, 欧洲	计算机科学	2017	184	184

@@ -1,0 +1,6 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2015	100	100
+阿尔托大学	Aalto University	芬兰, 欧洲	USNEWS世界大学排名	2015	375	375
+图尔库大学	University of Turku	芬兰, 欧洲	USNEWS世界大学排名	2015	375	375
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	USNEWS世界大学排名	2015	421	421
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	USNEWS世界大学排名	2015	496	496

@@ -1,0 +1,49 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2020	5	5
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2020	9	9
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2020	10	10
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2020	15	15
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2020	17	17
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2020	18	18
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2020	24	24
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2020	28	28
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2020	47	47
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2020	50	50
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2020	54	54
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2020	55	55
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2020	57	57
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2020	58	58
+纽约大学	New York University	美国, 北美洲	计算机科学	2020	59	59
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2020	63	63
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2020	75	75
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2020	78	78
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2020	79	79
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2020	84	84
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2020	86	86
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2020	89	89
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2020	94	94
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2020	103	103
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2020	112	112
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2020	115	115
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2020	122	122
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2020	134	134
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2020	140	140
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2020	142	142
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2020	146	146
+新泽西理工学院	New Jersey Institute of Technology	美国, 北美洲	计算机科学	2020	153	153
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2020	155	155
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2020	159	159
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2020	176	176
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2020	181	181
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2020	184	184
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2020	194	194
+杜克大学	Duke University	美国, 北美洲	计算机科学	2020	198	198
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	计算机科学	2020	201	201
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2020	209	209
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2020	209	209
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2020	211	211
+德克萨斯大学-圣安东尼奥	The University of Texas At San Antonio	美国, 北美洲	计算机科学	2020	213	213
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	计算机科学	2020	214	214
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2020	220	220
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2020	220	220
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2020	227	227

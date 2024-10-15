@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2022	2	2
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2022	3	3
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2022	5	5
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2022	6	6
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2022	14	14
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2022	17	17
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2022	18	18
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2022	23	23
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2022	24	24
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2022	28	28
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2022	29	29
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2022	32	32
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2022	36	36
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2022	45	45
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2022	46	46
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2022	48	48
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2022	53	53
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2022	54	54
+纽约大学	New York University	美国, 北美洲	计算机科学	2022	57	57
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2022	63	63
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2022	63	63
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2022	66	66
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2022	77	77
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2022	79	79
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2022	85	85
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2022	89	89
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2022	93	93
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2022	97	97
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2022	99	99
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2022	100	100
+杜克大学	Duke University	美国, 北美洲	计算机科学	2022	101	101
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2022	103	103
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2022	106	106
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2022	109	109
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	计算机科学	2022	121	121
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2022	121	121
+德克萨斯大学-圣安东尼奥	The University of Texas At San Antonio	美国, 北美洲	计算机科学	2022	127	127
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2022	127	127
+布朗大学	Brown University	美国, 北美洲	计算机科学	2022	137	137
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2022	143	143
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2022	144	144
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2022	145	145
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2022	145	145
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2022	150	150
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	计算机科学	2022	154	154
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2022	156	156
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2022	165	165
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	计算机科学	2022	170	170
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2022	173	173
+新泽西理工学院	New Jersey Institute of Technology	美国, 北美洲	计算机科学	2022	174	174
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	计算机科学	2022	188	188
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2022	189	189
+坦普尔大学	Temple University	美国, 北美洲	计算机科学	2022	192	192
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2022	211	211
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2022	216	216
+德克萨斯大学-阿灵顿	The University of Texas At Arlington	美国, 北美洲	计算机科学	2022	238	238
+弗吉尼亚大学	University of Virginia	美国, 北美洲	计算机科学	2022	241	241
+中佛罗里达大学	University of Central Florida	美国, 北美洲	计算机科学	2022	250	250
+犹他大学	University of Utah	美国, 北美洲	计算机科学	2022	256	256
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2022	278	278
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2022	294	294
+爱荷华州立大学	Iowa State University	美国, 北美洲	计算机科学	2022	296	296
+佐治亚州立大学	Georgia State University	美国, 北美洲	计算机科学	2022	300	300
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	计算机科学	2022	311	311
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	计算机科学	2022	313	313
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2022	318	318
+范德堡大学	Vanderbilt University	美国, 北美洲	计算机科学	2022	319	319
+罗切斯特大学	University of Rochester	美国, 北美洲	计算机科学	2022	322	322
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	计算机科学	2022	326	326
+达特茅斯学院	Dartmouth College	美国, 北美洲	计算机科学	2022	341	341
+加州大学-河滨	University of California, Riverside	美国, 北美洲	计算机科学	2022	343	343
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	计算机科学	2022	366	366
+北卡罗莱纳大学－夏洛特	University of North Carolina At Charlotte	美国, 北美洲	计算机科学	2022	366	366
+肯塔基大学	University of Kentucky	美国, 北美洲	计算机科学	2022	371	371
+乔治梅森大学	George Mason University	美国, 北美洲	计算机科学	2022	373	373
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	计算机科学	2022	380	380
+爱达荷大学	University of Idaho	美国, 北美洲	计算机科学	2022	381	381
+德雷塞尔大学	Drexel University	美国, 北美洲	计算机科学	2022	390	390
+南佛罗里达大学	University of South Florida	美国, 北美洲	计算机科学	2022	392	392
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	计算机科学	2022	393	393
+克莱姆森大学	Clemson University	美国, 北美洲	计算机科学	2022	404	404
+斯蒂文斯理工学院	Stevens Institute of Technology	美国, 北美洲	计算机科学	2022	406	406
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	计算机科学	2022	414	414
+马里兰大学-巴尔的摩县	University of Maryland, Baltimore County	美国, 北美洲	计算机科学	2022	421	421
+密西西比州立大学	Mississippi State University	美国, 北美洲	计算机科学	2022	428	428
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	计算机科学	2022	430	430
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	计算机科学	2022	430	430
+爱荷华大学	University of Iowa	美国, 北美洲	计算机科学	2022	446	446
+科罗拉多州立大学	Colorado State University	美国, 北美洲	计算机科学	2022	449	449
+俄勒冈州立大学	Oregon State University	美国, 北美洲	计算机科学	2022	449	449
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	计算机科学	2022	449	449
+北德克萨斯州大学	University of North Texas	美国, 北美洲	计算机科学	2022	455	455
+佛罗里达国际大学	Florida International University	美国, 北美洲	计算机科学	2022	458	458
+奥本大学	Auburn University	美国, 北美洲	计算机科学	2022	461	461
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	计算机科学	2022	463	463
+加州大学-旧金山	University of California, San Francisco	美国, 北美洲	计算机科学	2022	470	470
+密苏里科技大学	Missouri University of Science And Technology	美国, 北美洲	计算机科学	2022	475	475
+辛辛那提大学	University of Cincinnati	美国, 北美洲	计算机科学	2022	477	477
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	计算机科学	2022	477	477
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	计算机科学	2022	482	482

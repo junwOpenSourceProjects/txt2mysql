@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	USNEWS世界大学排名	2016	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	USNEWS世界大学排名	2016	6	6
+帝国理工学院	Imperial College London	英国, 欧洲	USNEWS世界大学排名	2016	18	18
+伦敦大学学院	University College London	英国, 欧洲	USNEWS世界大学排名	2016	22	22
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	USNEWS世界大学排名	2016	27	27
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2016	37	37
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	USNEWS世界大学排名	2016	37	37
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	USNEWS世界大学排名	2016	44	44
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	USNEWS世界大学排名	2016	49	49
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2016	53	53
+曼彻斯特大学	The University of Manchester	英国, 欧洲	USNEWS世界大学排名	2016	56	56
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2016	58	58
+伦敦国王学院	King's College London	英国, 欧洲	USNEWS世界大学排名	2016	61	61
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	USNEWS世界大学排名	2016	61	61
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2016	64	64
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2016	68	68
+乌得勒支大学	Utrecht University	荷兰, 欧洲	USNEWS世界大学排名	2016	69	69
+卡罗林斯卡学院	Karolinska Institute	瑞典, 欧洲	USNEWS世界大学排名	2016	72	72
+布里斯托尔大学	University of Bristol	英国, 欧洲	USNEWS世界大学排名	2016	74	74
+莱顿大学	Leiden University	荷兰, 欧洲	USNEWS世界大学排名	2016	77	77
+苏黎世大学	University of Zurich	瑞士, 欧洲	USNEWS世界大学排名	2016	77	77
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2016	79	79
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2016	80	80
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	USNEWS世界大学排名	2016	82	82
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	USNEWS世界大学排名	2016	88	88
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2016	90	90
+格罗宁根大学	University of Groningen	荷兰, 欧洲	USNEWS世界大学排名	2016	93	93
+根特大学	Ghent University	比利时, 欧洲	USNEWS世界大学排名	2016	97	97
+隆德大学	Lund University	瑞典, 欧洲	USNEWS世界大学排名	2016	97	97
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2016	99	99
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	USNEWS世界大学排名	2016	101	101
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	USNEWS世界大学排名	2016	102	102
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	USNEWS世界大学排名	2016	102	102
+日内瓦大学	University of Geneva	瑞士, 欧洲	USNEWS世界大学排名	2016	104	104
+巴黎第七大学	University Paris Diderot, Paris 7	法国, 欧洲	USNEWS世界大学排名	2016	109	109
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	USNEWS世界大学排名	2016	109	109
+斯特拉斯堡大学	University of Strasbourg	法国, 欧洲	USNEWS世界大学排名	2016	113	113
+伦敦大学卫生和热带医学学院	London School of Hygiene & Tropical Medicine	英国, 欧洲	USNEWS世界大学排名	2016	114	114
+南安普敦大学	University of Southampton	英国, 欧洲	USNEWS世界大学排名	2016	114	114
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	USNEWS世界大学排名	2016	118	118
+约瑟夫·傅里叶大学	Joseph Fourier University	法国, 欧洲	USNEWS世界大学排名	2016	119	119
+利兹大学	University of Leeds	英国, 欧洲	USNEWS世界大学排名	2016	121	121
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	USNEWS世界大学排名	2016	122	122
+伯明翰大学	University of Birmingham	英国, 欧洲	USNEWS世界大学排名	2016	122	122
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2016	122	122
+奥胡斯大学	Aarhus University	丹麦, 欧洲	USNEWS世界大学排名	2016	127	127
+巴塞尔大学	University of Basel	瑞士, 欧洲	USNEWS世界大学排名	2016	132	132
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2016	134	134
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2016	134	134
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2016	136	136
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2016	136	136
+奥斯陆大学	University of Oslo	挪威, 欧洲	USNEWS世界大学排名	2016	139	139
+伯尔尼大学	University of Bern	瑞士, 欧洲	USNEWS世界大学排名	2016	140	140
+博洛尼亚大学	University of Bologna	意大利, 欧洲	USNEWS世界大学排名	2016	142	142
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2016	146	146
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	USNEWS世界大学排名	2016	148	148
+帕多瓦大学	University of Padua	意大利, 欧洲	USNEWS世界大学排名	2016	150	150
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	USNEWS世界大学排名	2016	150	150
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	USNEWS世界大学排名	2016	153	153
+米兰大学	University of Milan	意大利, 欧洲	USNEWS世界大学排名	2016	154	154
+利物浦大学	University of Liverpool	英国, 欧洲	USNEWS世界大学排名	2016	155	155
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2016	157	157
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2016	158	158
+诺丁汉大学	University of Nottingham	英国, 欧洲	USNEWS世界大学排名	2016	159	159
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	USNEWS世界大学排名	2016	162	162
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2016	162	162
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	USNEWS世界大学排名	2016	165	165
+杜伦大学	Durham University	英国, 欧洲	USNEWS世界大学排名	2016	168	168
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2016	168	168
+蒙彼利埃大学	University of Montpellier	法国, 欧洲	USNEWS世界大学排名	2016	168	168
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	USNEWS世界大学排名	2016	171	171
+华威大学	The University of Warwick	英国, 欧洲	USNEWS世界大学排名	2016	171	171
+艾克斯-马赛大学	Aix Marseille University	法国, 欧洲	USNEWS世界大学排名	2016	175	175
+比萨高等师范学校	Scuola Normale Superiore, Pisa	意大利, 欧洲	USNEWS世界大学排名	2016	175	175
+卡迪夫大学	Cardiff University	英国, 欧洲	USNEWS世界大学排名	2016	178	178
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2016	181	181
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2016	183	183
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	USNEWS世界大学排名	2016	184	184
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	USNEWS世界大学排名	2016	187	187
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	USNEWS世界大学排名	2016	190	190
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	USNEWS世界大学排名	2016	198	198
+埃克塞特大学	University of Exeter	英国, 欧洲	USNEWS世界大学排名	2016	201	201
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	USNEWS世界大学排名	2016	202	202
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2016	203	203
+布拉格查尔斯大学	Charles University In Prague	捷克, 欧洲	USNEWS世界大学排名	2016	204	204
+都灵大学	University of Turin	意大利, 欧洲	USNEWS世界大学排名	2016	207	207
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	USNEWS世界大学排名	2016	209	209
+维也纳大学	University of Vienna	奥地利, 欧洲	USNEWS世界大学排名	2016	209	209
+Charité-柏林大学医学院	Charité - Universitätsmedizin Berlin	德国, 欧洲	USNEWS世界大学排名	2016	212	212
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	USNEWS世界大学排名	2016	214	214
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	USNEWS世界大学排名	2016	214	214
+洛桑大学	University of Lausanne	瑞士, 欧洲	USNEWS世界大学排名	2016	216	216
+的里雅斯特大学	University of Trieste	意大利, 欧洲	USNEWS世界大学排名	2016	219	219
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	USNEWS世界大学排名	2016	222	222
+里昂第一大学	Claude Bernard University Lyon 1	法国, 欧洲	USNEWS世界大学排名	2016	222	222
+卑尔根大学	University of Bergen	挪威, 欧洲	USNEWS世界大学排名	2016	225	225
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	USNEWS世界大学排名	2016	226	226
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	USNEWS世界大学排名	2016	227	227
+安特卫普大学	University of Antwerp	比利时, 欧洲	USNEWS世界大学排名	2016	227	227
+图卢兹第三大学	Paul Sabatier University, Toulouse 3	法国, 欧洲	USNEWS世界大学排名	2016	230	230

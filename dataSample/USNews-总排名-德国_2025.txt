@@ -1,0 +1,78 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	USNEWS世界大学排名	2025	48	48
+慕尼黑大学	University of Munich	德国, 欧洲	USNEWS世界大学排名	2025	53	53
+海德堡大学	Heidelberg University	德国, 欧洲	USNEWS世界大学排名	2025	55	55
+柏林自由大学	Free University of Berlin	德国, 欧洲	USNEWS世界大学排名	2025	66	66
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	USNEWS世界大学排名	2025	82	82
+汉堡大学	University of Hamburg	德国, 欧洲	USNEWS世界大学排名	2025	146	146
+波恩大学	University of Bonn	德国, 欧洲	USNEWS世界大学排名	2025	157	157
+哥廷根大学	University of Goettingen	德国, 欧洲	USNEWS世界大学排名	2025	172	172
+图宾根大学	University of Tuebingen	德国, 欧洲	USNEWS世界大学排名	2025	197	197
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	201	201
+弗莱堡大学	University of Freiburg	德国, 欧洲	USNEWS世界大学排名	2025	210	210
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	USNEWS世界大学排名	2025	210	210
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	USNEWS世界大学排名	2025	218	218
+法兰克福大学	University of Frankfurt	德国, 欧洲	USNEWS世界大学排名	2025	227	227
+美因茨大学	University of Mainz	德国, 欧洲	USNEWS世界大学排名	2025	233	233
+明斯特大学	University of Muenster	德国, 欧洲	USNEWS世界大学排名	2025	235	235
+科隆大学	University of Cologne	德国, 欧洲	USNEWS世界大学排名	2025	241	241
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	USNEWS世界大学排名	2025	281	281
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	USNEWS世界大学排名	2025	289	289
+柏林工业大学	Technical University of Berlin	德国, 欧洲	USNEWS世界大学排名	2025	292	292
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	USNEWS世界大学排名	2025	306	306
+德国基尔大学	University of Kiel	德国, 欧洲	USNEWS世界大学排名	2025	323	323
+莱比锡大学	University of Leipzig	德国, 欧洲	USNEWS世界大学排名	2025	327	327
+乌尔姆大学	University of Ulm	德国, 欧洲	USNEWS世界大学排名	2025	354	354
+波茨坦大学	University of Potsdam	德国, 欧洲	USNEWS世界大学排名	2025	374	374
+耶拿大学	University of Jena	德国, 欧洲	USNEWS世界大学排名	2025	385	385
+波鸿大学	University of Bochum	德国, 欧洲	USNEWS世界大学排名	2025	389	389
+汉诺威医学院	Hannover Medical School	德国, 欧洲	USNEWS世界大学排名	2025	417	417
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	USNEWS世界大学排名	2025	428	428
+吉森大学	University of Giessen	德国, 欧洲	USNEWS世界大学排名	2025	509	509
+哈勒-维滕贝格大学	University of Halle-wittenberg	德国, 欧洲	USNEWS世界大学排名	2025	560	560
+雷根斯堡大学	University of Regensburg	德国, 欧洲	USNEWS世界大学排名	2025	569	569
+汉诺威大学	University of Hannover	德国, 欧洲	USNEWS世界大学排名	2025	584	584
+马尔堡大学	University of Marburg	德国, 欧洲	USNEWS世界大学排名	2025	596	596
+不来梅大学	University of Bremen	德国, 欧洲	USNEWS世界大学排名	2025	606	606
+康斯坦茨大学	University of Konstanz	德国, 欧洲	USNEWS世界大学排名	2025	606	606
+吕贝克大学	University of Luebeck	德国, 欧洲	USNEWS世界大学排名	2025	642	642
+比勒费尔德大学	Bielefeld University	德国, 欧洲	USNEWS世界大学排名	2025	649	649
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	USNEWS世界大学排名	2025	671	671
+德国伍珀塔尔大学	Bergische Universitt Wuppertal	德国, 欧洲	USNEWS世界大学排名	2025	678	678
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	USNEWS世界大学排名	2025	708	708
+斯图加特大学	University of Stuttgart	德国, 欧洲	USNEWS世界大学排名	2025	737	737
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	USNEWS世界大学排名	2025	761	761
+曼海姆大学	Universität Mannheim	德国, 欧洲	USNEWS世界大学排名	2025	779	779
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	USNEWS世界大学排名	2025	804	804
+罗斯托克大学	University of Rostock	德国, 欧洲	USNEWS世界大学排名	2025	844	844
+马格德堡大学	University of Magdeburg	德国, 欧洲	USNEWS世界大学排名	2025	902	902
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	USNEWS世界大学排名	2025	942	942
+奥尔登堡大学	University of Oldenburg	德国, 欧洲	USNEWS世界大学排名	2025	1014	1,014
+吕讷堡大学	Leuphana University Luneburg	德国, 欧洲	USNEWS世界大学排名	2025	1076	1,076
+卡塞尔大学	University of Kassel	德国, 欧洲	USNEWS世界大学排名	2025	1153	1,153
+锡根大学	Universität Siegen	德国, 欧洲	USNEWS世界大学排名	2025	1210	1,210
+萨尔大学	Saarland University	德国, 欧洲	USNEWS世界大学排名	2025	1228	1,228
+格赖夫斯瓦尔德大学	University of Greifswald	德国, 欧洲	USNEWS世界大学排名	2025	1264	1,264
+奥格斯堡大学	University of Augsburg	德国, 欧洲	USNEWS世界大学排名	2025	1321	1,321
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	1335	1,335
+格赖夫斯瓦尔德医学院	Greifswald Medical School	德国, 欧洲	USNEWS世界大学排名	2025	1355	1,355
+勃兰登堡理工大学	Brandenburg University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	1360	1,360
+科布伦茨-朗道大学	University of Koblenz-landau	德国, 欧洲	USNEWS世界大学排名	2025	1369	1,369
+帕德博恩大学	University of Paderborn	德国, 欧洲	USNEWS世界大学排名	2025	1391	1,391
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	USNEWS世界大学排名	2025	1427	1,427
+弗赖贝格矿业大学	Freiberg University of Mining And Technology	德国, 欧洲	USNEWS世界大学排名	2025	1435	1,435
+特里尔大学	University of Trier	德国, 欧洲	USNEWS世界大学排名	2025	1472	1,472
+奥斯纳布吕克大学	University of Osnabrück	德国, 欧洲	USNEWS世界大学排名	2025	1472	1,472
+开姆尼茨工业大学	Chemnitz University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	1558	1,558
+不来梅雅各布大学	Jacobs University	德国, 欧洲	USNEWS世界大学排名	2025	1585	1,585
+汉诺威兽医大学	University of Veterinary Medicine Hanover	德国, 欧洲	USNEWS世界大学排名	2025	1642	1,642
+慕尼黑联邦国防军大学	Bundeswehr University Munich	德国, 欧洲	USNEWS世界大学排名	2025	1686	1,686
+班贝格大学	Otto Friedrich University Bamberg	德国, 欧洲	USNEWS世界大学排名	2025	1686	1,686
+维藤,海德克大学	Witten, Herdecke University	德国, 欧洲	USNEWS世界大学排名	2025	1699	1,699
+伊尔梅瑙工业大学	Ilmenau University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	1757	1,757
+德国科隆德国体育学院	German Sport University Cologne	德国, 欧洲	USNEWS世界大学排名	2025	1909	1,909
+克劳斯塔尔科技大学	Clausthal University of Technology	德国, 欧洲	USNEWS世界大学排名	2025	1947	1,947
+魏玛包豪斯大学	Bauhaus-universitat Weimar	德国, 欧洲	USNEWS世界大学排名	2025	9999	Unranked
+赫蒂学校	Hertie School	德国, 欧洲	USNEWS世界大学排名	2025	9999	Unranked
+德国巴特克罗青根大学	Universitats Herzzentrum Freiburg	德国, 欧洲	USNEWS世界大学排名	2025	9999	Unranked
+奥托拜斯海姆管理学院	Whu - Otto Beisheim School of Management	德国, 欧洲	USNEWS世界大学排名	2025	9999	Unranked

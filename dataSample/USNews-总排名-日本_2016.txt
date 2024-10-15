@@ -1,0 +1,25 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2016	31	31
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2016	86	86
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2016	146	146
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2016	165	165
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2016	194	194
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2016	209	209
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2016	265	265
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2016	282	282
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2016	291	291
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2016	295	295
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2016	389	389
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2016	416	416
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2016	416	416
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2016	450	450
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2016	463	463
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2016	522	522
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2016	585	585
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2016	596	596
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2016	632	632
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2016	678	678
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2016	696	696
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2016	731	731
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2016	744	744
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2016	746	746

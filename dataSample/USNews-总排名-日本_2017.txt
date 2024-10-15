@@ -1,0 +1,45 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2017	44	44
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2017	102	102
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2017	169	169
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2017	172	172
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2017	229	229
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2017	254	254
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2017	313	313
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2017	324	324
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2017	328	328
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2017	334	334
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2017	427	427
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2017	431	431
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2017	448	448
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2017	472	472
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2017	514	514
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2017	595	595
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2017	629	629
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2017	652	652
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2017	745	745
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2017	745	745
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2017	750	750
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2017	772	772
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2017	783	783
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2017	786	786
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2017	813	813
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2017	860	860
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2017	864	864
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2017	866	866
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2017	880	880
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2017	889	889
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2017	889	889
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2017	896	896
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2017	902	902
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2017	911	911
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2017	917	917
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2017	938	938
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2017	938	938
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2017	956	956
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2017	967	967
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2017	981	981
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2017	982	982
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2017	985	985
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2017	985	985
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2017	996	996

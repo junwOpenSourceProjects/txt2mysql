@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	USNEWS世界大学排名	2022	77	77
+京都大学	Kyoto University	日本, 亚洲	USNEWS世界大学排名	2022	127	127
+大阪大学	Osaka University	日本, 亚洲	USNEWS世界大学排名	2022	263	263
+东北大学，仙台	Tohoku University	日本, 亚洲	USNEWS世界大学排名	2022	275	275
+名古屋大学	Nagoya University	日本, 亚洲	USNEWS世界大学排名	2022	324	324
+九州大学	Kyushu University	日本, 亚洲	USNEWS世界大学排名	2022	336	336
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2022	342	342
+筑波大学	University of Tsukuba	日本, 亚洲	USNEWS世界大学排名	2022	412	412
+北海道大学	Hokkaido University	日本, 亚洲	USNEWS世界大学排名	2022	441	441
+早稻田大学	Waseda University	日本, 亚洲	USNEWS世界大学排名	2022	520	520
+庆应义塾大学	Keio University	日本, 亚洲	USNEWS世界大学排名	2022	536	536
+神户大学	Kobe University	日本, 亚洲	USNEWS世界大学排名	2022	548	548
+广岛大学	Hiroshima University	日本, 亚洲	USNEWS世界大学排名	2022	635	635
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	USNEWS世界大学排名	2022	663	663
+冈山大学	Okayama University	日本, 亚洲	USNEWS世界大学排名	2022	668	668
+高级研究大学	The Graduate University For Advanced Studies	日本, 亚洲	USNEWS世界大学排名	2022	809	809
+千叶大学	Chiba University	日本, 亚洲	USNEWS世界大学排名	2022	813	813
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	USNEWS世界大学排名	2022	833	833
+冲绳科学技术大学	Okinawa Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2022	870	870
+信州大学	Shinshu University	日本, 亚洲	USNEWS世界大学排名	2022	878	878
+横滨市立大学	Yokohama City University	日本, 亚洲	USNEWS世界大学排名	2022	884	884
+东京理科大学	Tokyo University of Science	日本, 亚洲	USNEWS世界大学排名	2022	963	963
+新潟大学	Niigata University	日本, 亚洲	USNEWS世界大学排名	2022	988	988
+熊本大学	Kumamoto University	日本, 亚洲	USNEWS世界大学排名	2022	1015	1,015
+金泽大学	Kanazawa University	日本, 亚洲	USNEWS世界大学排名	2022	1029	1,029
+日本职业与环境卫生大学	University of Occupational And Environmental Health, Japan	日本, 亚洲	USNEWS世界大学排名	2022	1035	1,035
+长崎大学	Nagasaki University	日本, 亚洲	USNEWS世界大学排名	2022	1077	1,077
+东海大学，日本	Tokai University	日本, 亚洲	USNEWS世界大学排名	2022	1132	1,132
+近畿大学	Kindai University	日本, 亚洲	USNEWS世界大学排名	2022	1187	1,187
+大阪市立大学	Osaka City University	日本, 亚洲	USNEWS世界大学排名	2022	1198	1,198
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2022	1202	1,202
+东京医科大学	Tokyo Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1211	1,211
+藤田医科大学	Fujita Health University	日本, 亚洲	USNEWS世界大学排名	2022	1237	1,237
+帝京大学	Teikyo University	日本, 亚洲	USNEWS世界大学排名	2022	1237	1,237
+顺天堂大学	Juntendo University	日本, 亚洲	USNEWS世界大学排名	2022	1242	1,242
+鹿儿岛大学	Kagoshima University	日本, 亚洲	USNEWS世界大学排名	2022	1254	1,254
+爱媛大学	Ehime University	日本, 亚洲	USNEWS世界大学排名	2022	1265	1,265
+东京农业大学	Tokyo University of Agriculture	日本, 亚洲	USNEWS世界大学排名	2022	1265	1,265
+日本大学	Nihon University	日本, 亚洲	USNEWS世界大学排名	2022	1270	1,270
+立命馆大学	Ritsumeikan University	日本, 亚洲	USNEWS世界大学排名	2022	1292	1,292
+富山大学	University of Toyama	日本, 亚洲	USNEWS世界大学排名	2022	1300	1,300
+岐阜大学	Gifu University	日本, 亚洲	USNEWS世界大学排名	2022	1375	1,375
+德岛大学	The University of Tokushima	日本, 亚洲	USNEWS世界大学排名	2022	1375	1,375
+东京慈惠会医科大学	Jikei University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2022	1390	1,390
+东邦大学	Toho University	日本, 亚洲	USNEWS世界大学排名	2022	1390	1,390
+山形大学	Yamagata University	日本, 亚洲	USNEWS世界大学排名	2022	1412	1,412
+香川大学	Kagawa University	日本, 亚洲	USNEWS世界大学排名	2022	1415	1,415
+电气通信大学	The University of Electro-communications	日本, 亚洲	USNEWS世界大学排名	2022	1423	1,423
+横滨国立大学	Yokohama National University	日本, 亚洲	USNEWS世界大学排名	2022	1434	1,434
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2022	1443	1,443
+山口大学	Yamaguchi University	日本, 亚洲	USNEWS世界大学排名	2022	1443	1,443
+群马大学	Gunma University	日本, 亚洲	USNEWS世界大学排名	2022	1467	1,467
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	USNEWS世界大学排名	2022	1470	1,470
+琉球大学	University of The Ryukyus	日本, 亚洲	USNEWS世界大学排名	2022	1470	1,470
+埼玉大学	Saitama University	日本, 亚洲	USNEWS世界大学排名	2022	1475	1,475
+东京女子医科大学	Tokyo Women's Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1475	1,475
+北里大学	Kitasato University	日本, 亚洲	USNEWS世界大学排名	2022	1485	1,485
+高知大学	Kochi University	日本, 亚洲	USNEWS世界大学排名	2022	1485	1,485
+静冈大学	Shizuoka University	日本, 亚洲	USNEWS世界大学排名	2022	1494	1,494
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	USNEWS世界大学排名	2022	1524	1,524
+山梨大学	University of Yamanashi	日本, 亚洲	USNEWS世界大学排名	2022	1524	1,524
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	USNEWS世界大学排名	2022	1527	1,527
+佐贺大学	Saga University	日本, 亚洲	USNEWS世界大学排名	2022	1531	1,531
+三重大学	Mie University	日本, 亚洲	USNEWS世界大学排名	2022	1534	1,534
+弘前大学	Hirosaki University	日本, 亚洲	USNEWS世界大学排名	2022	1540	1,540
+鸟取大学	Tottori University	日本, 亚洲	USNEWS世界大学排名	2022	1540	1,540
+自治医科大学	Jichi Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1544	1,544
+福冈大学	Fukuoka University	日本, 亚洲	USNEWS世界大学排名	2022	1569	1,569
+昭和大学	Showa University	日本, 亚洲	USNEWS世界大学排名	2022	1569	1,569
+名古屋市立大学	Nagoya City University	日本, 亚洲	USNEWS世界大学排名	2022	1597	1,597
+长冈技术科学大学	Nagaoka University of Technology	日本, 亚洲	USNEWS世界大学排名	2022	1604	1,604
+久留米大学	Kurume University	日本, 亚洲	USNEWS世界大学排名	2022	1607	1,607
+岛根大学	Shimane University	日本, 亚洲	USNEWS世界大学排名	2022	1614	1,614
+日本宫崎大学	University of Miyazaki	日本, 亚洲	USNEWS世界大学排名	2022	1618	1,618
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2022	1623	1,623
+日本医学院	Nippon Medical School	日本, 亚洲	USNEWS世界大学排名	2022	1623	1,623
+京都府立医科大学	Kyoto Prefectural University of Medicine	日本, 亚洲	USNEWS世界大学排名	2022	1629	1,629
+国际医疗福祉大学	International University of Health And Welfare	日本, 亚洲	USNEWS世界大学排名	2022	1652	1,652
+明治大学	Meiji University	日本, 亚洲	USNEWS世界大学排名	2022	1659	1,659
+浜松医科大学	Hamamatsu University School of Medicine	日本, 亚洲	USNEWS世界大学排名	2022	1667	1,667
+大分大学	Oita University	日本, 亚洲	USNEWS世界大学排名	2022	1667	1,667
+中央大学，日本	Chuo University	日本, 亚洲	USNEWS世界大学排名	2022	1678	1,678
+福岛医科大学	Fukushima Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1694	1,694
+姬路工业大学	Himeji Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2022	1702	1,702
+埼玉医科大学	Saitama Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1706	1,706
+和歌山医科大学	Wakayama Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1706	1,706
+岩手大学	Iwate University	日本, 亚洲	USNEWS世界大学排名	2022	1715	1,715
+同志社大学	Doshisha University	日本, 亚洲	USNEWS世界大学排名	2022	1728	1,728
+秋田大学	Akita University	日本, 亚洲	USNEWS世界大学排名	2022	1730	1,730
+庆林大学	Kyorin University	日本, 亚洲	USNEWS世界大学排名	2022	1742	1,742
+滋贺医科大学	Shiga University of Medical Science	日本, 亚洲	USNEWS世界大学排名	2022	1746	1,746
+奈良县立医科大学	Nara Medical University	日本, 亚洲	USNEWS世界大学排名	2022	1747	1,747
+兵库医学院	Hyogo College of Medicine	日本, 亚洲	USNEWS世界大学排名	2022	1749	1,749
+爱知医科大学	Aichi Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+旭川医科大学	Asahikawa Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+独协医科大学	Dokkyo Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+广岛工学院	Hiroshima Institute of Technology	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+岩手医科大学	Iwate Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+金泽医科大学	Kanazawa Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
+关西医科大学	Kansai Medical University	日本, 亚洲	USNEWS世界大学排名	2022	9999	Unranked
