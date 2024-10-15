@@ -1,0 +1,18 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	QS世界大学排名	2020	186	186
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	QS世界大学排名	2020	200	200
+哈里发大学	Khalifa University	沙特, 亚洲	QS世界大学排名	2020	268	268
+沙特国王大学	King Saud University	沙特, 亚洲	QS世界大学排名	2020	281	281
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	QS世界大学排名	2020	329	329
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	QS世界大学排名	2020	371	371
+哈立德国王大学	King Khalid University	沙特, 亚洲	QS世界大学排名	2020	501	501-510
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	QS世界大学排名	2020	501	501-510
+伊玛目阿卜杜拉曼宾费萨尔大学	Imam Abdulrahman Bin Faisal University, Iau, Formerly University of Dammam	沙特, 亚洲	QS世界大学排名	2020	541	541-550
+迪拜美国大学	American University In Dubai	沙特, 亚洲	QS世界大学排名	2020	601	601-650
+沙迦大学	University of Sharjah	沙特, 亚洲	QS世界大学排名	2020	651	651-700
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	QS世界大学排名	2020	701	701-750
+阿治曼大学	Ajman University	沙特, 亚洲	QS世界大学排名	2020	751	751-800
+费萨尔国王大学	King Faisal University	沙特, 亚洲	QS世界大学排名	2020	801	801-1000
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	QS世界大学排名	2020	1001	1001+
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	QS世界大学排名	2020	1001	1001+
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	QS世界大学排名	2020	1001	1001+

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2021	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2021	2	2
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2021	3	3
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2021	4	4
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2021	5	5
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2021	6	6
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2021	7	7
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2021	8	8
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2021	9	9
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2021	10	10
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2021	11	11
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2021	12	12
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2021	13	13
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2021	14	14
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2021	15	15
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2021	16	16
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2021	17	17
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2021	18	18
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2021	19	19
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2021	20	20
+纽约大学	New York University	美国, 北美洲	计算机科学	2021	21	21
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2021	22	22
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2021	23	=23
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2021	23	=23
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2021	25	25
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2021	26	26
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2021	27	27
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2021	28	28
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2021	29	29
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2021	30	30
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2021	31	31
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2021	32	32
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2021	33	=33
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2021	33	=33
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2021	35	=35
+巴黎文理研究大学	Université Psl	法国, 欧洲	计算机科学	2021	35	=35
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2021	35	=35
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2021	38	38
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2021	39	39
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2021	40	40
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2021	41	41
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2021	42	42
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2021	43	43
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2021	44	=44
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2021	44	=44
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2021	46	46
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2021	47	=47
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2021	47	=47
+麦吉尔大学	Mcgill University	加拿大, 北美洲	计算机科学	2021	49	49
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	计算机科学	2021	50	50
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2021	51	51
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2021	52	52
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2021	53	53
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2021	54	54
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	计算机科学	2021	55	=55
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2021	55	=55
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2021	57	57
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	计算机科学	2021	58	58
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2021	59	=59
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2021	59	=59
+蒙特利尔大学	University of Montreal	加拿大, 北美洲	计算机科学	2021	61	61
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2021	62	=62
+台湾大学	National Taiwan University	中国台湾, 亚洲	计算机科学	2021	62	=62
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2021	64	=64
+巴黎高等电信学院	Telecom Paris	法国, 欧洲	计算机科学	2021	64	=64
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2021	66	66
+印度理工学院-孟买	Indian Institute of Technology Bombay	印度, 亚洲	计算机科学	2021	67	67
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2021	68	68
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2021	69	69
+印度理工学院-德里	Indian Institute of Technology Delhi	印度, 亚洲	计算机科学	2021	70	70
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	计算机科学	2021	71	71
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2021	72	72
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2021	73	73
+圣彼得堡国立信息技术、机械与光学大学	Itmo University	俄罗斯, 欧洲	计算机科学	2021	74	74
+悉尼科技大学	University of Technology Sydney	澳大利亚, 大洋洲	计算机科学	2021	75	75
+莫纳什大学	Monash University	澳大利亚, 大洋洲	计算机科学	2021	76	76
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2021	77	77
+马来亚大学	University of Malaya	马来西亚, 亚洲	计算机科学	2021	78	78
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2021	79	=79
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2021	79	=79
+智利大学	University of Chile	智利, 南美洲	计算机科学	2021	79	=79
+圣保罗大学	University of Sao Paulo	巴西, 南美洲	计算机科学	2021	79	=79
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2021	79	=79
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2021	84	=84
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2021	84	=84
+高丽大学	Korea University	韩国, 亚洲	计算机科学	2021	86	86
+杜克大学	Duke University	美国, 北美洲	计算机科学	2021	87	=87
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2021	87	=87
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2021	89	=89
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	计算机科学	2021	89	=89
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2021	89	=89
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2021	92	=92
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2021	92	=92
+墨西哥国立自治大学	National Autonomous University of Mexico	墨西哥, 南美洲	计算机科学	2021	94	94
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2021	95	95
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2021	96	=96
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2021	96	=96
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	计算机科学	2021	96	=96
+奥胡斯大学	Aarhus University	丹麦, 欧洲	计算机科学	2021	99	=99
+阿德雷德大学	The University of Adelaide	澳大利亚, 大洋洲	计算机科学	2021	99	=99

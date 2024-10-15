@@ -1,0 +1,47 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2023	49	49
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2023	59	59
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2023	65	=65
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2023	118	=118
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2023	131	=131
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2023	141	=141
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2023	147	=147
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2023	158	158
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2023	169	169
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2023	189	189
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2023	200	200
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2023	201	201
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2023	215	=215
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2023	228	228
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2023	275	=275
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2023	328	=328
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2023	335	=335
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2023	340	=340
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2023	352	=352
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2023	355	=355
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2023	375	=375
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2023	384	=384
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2023	410	=410
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2023	416	=416
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2023	420	=420
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2023	420	=420
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2023	441	=441
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2023	477	=477
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2023	490	=490
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2023	511	511-520
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2023	521	521-530
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2023	541	541-550
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2023	541	541-550
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2023	581	581-590
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2023	601	601-650
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2023	601	601-650
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2023	601	601-650
+波茨坦大学	University of Potsdam	德国, 欧洲	QS世界大学排名	2023	601	601-650
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2023	601	601-650
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2023	751	751-800
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2023	751	751-800
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2023	801	801-1000
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	QS世界大学排名	2023	801	801-1000
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2023	801	801-1000
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2023	1001	1001-1200
+锡根大学	Universität Siegen	德国, 欧洲	QS世界大学排名	2023	1001	1001-1200

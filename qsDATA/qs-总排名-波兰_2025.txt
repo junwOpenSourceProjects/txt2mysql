@@ -1,0 +1,23 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	QS世界大学排名	2025	258	258
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	QS世界大学排名	2025	312	=312
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	QS世界大学排名	2025	527	=527
+波兹南密茨凯维奇大学	Adam Mickiewicz University	波兰, 欧洲	QS世界大学排名	2025	761	761-770
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	QS世界大学排名	2025	801	801-850
+克拉科夫阿格大学	Agh University Krakow	波兰, 欧洲	QS世界大学排名	2025	851	851-900
+波兹南生命科学大学	Poznań University of Life Sciences	波兰, 欧洲	QS世界大学排名	2025	851	851-900
+格但斯克大学	University of Gdansk	波兰, 欧洲	QS世界大学排名	2025	851	851-900
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	QS世界大学排名	2025	851	851-900
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	QS世界大学排名	2025	901	901-950
+罗兹大学	University of Lodz	波兰, 欧洲	QS世界大学排名	2025	901	901-950
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	QS世界大学排名	2025	901	901-950
+克拉科夫技术大学	Cracow University of Technology, Politechnika Krakowska	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+罗兹科技大学	Technical University of Lodz	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+西里西亚工业大学	Silesian University of Technology	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+奥尔什丁瓦尔米亚玛祖里大学	University of Warmia And Mazury In Olsztyn	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+华沙中央农村经济学院	Warsaw University of Life Sciences – Sggw, Wuls-sggw	波兰, 欧洲	QS世界大学排名	2025	1001	1001-1200
+卢布林工业大学	Lublin University of Technology	波兰, 欧洲	QS世界大学排名	2025	1201	1201-1400
+比亚韦斯托克大学	University of Bialystok	波兰, 欧洲	QS世界大学排名	2025	1201	1201-1400
+热舒夫大学	University of Rzeszów	波兰, 欧洲	QS世界大学排名	2025	1201	1201-1400
+卡托维兹西里西亚大学	University of Silesia	波兰, 欧洲	QS世界大学排名	2025	1201	1201-1400

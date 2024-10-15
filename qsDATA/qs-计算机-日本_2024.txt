@@ -1,0 +1,17 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2024	38	=38
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	计算机科学	2024	95	=95
+京都大学	Kyoto University	日本, 亚洲	计算机科学	2024	116	=116
+大阪大学	Osaka University	日本, 亚洲	计算机科学	2024	146	=146
+早稻田大学	Waseda University	日本, 亚洲	计算机科学	2024	178	=178
+庆应义塾大学	Keio University	日本, 亚洲	计算机科学	2024	193	=193
+东北大学，仙台	Tohoku University	日本, 亚洲	计算机科学	2024	201	201-250
+九州大学	Kyushu University	日本, 亚洲	计算机科学	2024	251	251-300
+名古屋大学	Nagoya University	日本, 亚洲	计算机科学	2024	301	301-350
+北海道大学	Hokkaido University	日本, 亚洲	计算机科学	2024	401	401-450
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	计算机科学	2024	401	401-450
+筑波大学	University of Tsukuba	日本, 亚洲	计算机科学	2024	401	401-450
+立命馆大学	Ritsumeikan University	日本, 亚洲	计算机科学	2024	451	451-500
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	计算机科学	2024	501	501-550
+神户大学	Kobe University	日本, 亚洲	计算机科学	2024	651	651-700
+大阪公立大学	Osaka Metropolitan University	日本, 亚洲	计算机科学	2024	701	701-720

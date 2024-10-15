@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2019	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2019	6	6
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2019	7	7
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2019	8	8
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2019	10	10
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2019	18	18
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2019	22	22
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2019	29	29
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2019	31	31
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2019	38	38
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2019	50	50
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2019	51	51
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2019	52	52
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2019	54	54
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2019	57	57
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2019	61	61
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2019	62	62
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2019	64	64
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2019	65	65
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2019	69	=69
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2019	74	74
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2019	75	=75
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2019	75	=75
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2019	78	78
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2019	79	=79
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2019	79	=79
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2019	81	81
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2019	82	82
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2019	90	90
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2019	92	92
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2019	93	=93
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2019	96	96
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2019	97	97
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2019	99	99
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2019	104	=104
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2019	104	=104
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2019	108	108
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2019	110	110
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2019	112	112
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2019	116	116
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2019	117	117
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2019	119	119
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2019	120	120
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2019	121	121
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2019	122	=122
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2019	124	124
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2019	125	125
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2019	128	=128
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2019	130	130
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2019	131	131
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2019	134	134
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2019	135	135
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	QS世界大学排名	2019	137	137
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2019	138	138
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2019	139	139
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2019	140	140
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2019	141	=141
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2019	141	=141
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2019	144	144
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2019	145	145
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2019	147	147
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2019	149	=149
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2019	153	153
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2019	154	=154
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	QS世界大学排名	2019	156	=156
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2019	158	158
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2019	159	159
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2019	160	=160
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2019	164	164
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2019	165	165
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2019	166	166
+圣安那高等学校	Sant'anna - Scuola Universitaria Superiore Pisa	意大利, 欧洲	QS世界大学排名	2019	167	167
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2019	168	168
+卑尔根大学	University of Bergen	挪威, 欧洲	QS世界大学排名	2019	171	171
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2019	172	=172
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2019	172	=172
+比萨高等师范学校	Scuola Normale Superiore, Pisa	意大利, 欧洲	QS世界大学排名	2019	175	=175
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2019	175	=175
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2019	179	179
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2019	180	=180
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2019	180	=180
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2019	186	=186
+布鲁塞尔自由大学，佛兰德语	Vrije Universiteit Brussel, Vub	比利时, 欧洲	QS世界大学排名	2019	188	188
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2019	191	191
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2019	193	=193
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2019	193	=193
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2019	195	=195
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2019	197	197
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	QS世界大学排名	2019	199	199
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2019	200	=200
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2019	204	=204
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2019	206	206
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	QS世界大学排名	2019	211	211
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2019	217	217
+拉夫堡大学	Loughborough University	英国, 欧洲	QS世界大学排名	2019	218	=218
+巴黎政治学院	Sciences Po	法国, 欧洲	QS世界大学排名	2019	221	=221
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2019	223	=223
+安特卫普大学	University of Antwerp	比利时, 欧洲	QS世界大学排名	2019	223	=223
+莱斯特大学	University of Leicester	英国, 欧洲	QS世界大学排名	2019	223	=223
+苏赛克斯大学	University of Sussex	英国, 欧洲	QS世界大学排名	2019	227	227

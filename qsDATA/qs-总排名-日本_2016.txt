@@ -1,0 +1,40 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2016	38	38
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2016	39	39
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2016	56	56
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2016	58	58
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2016	74	74
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2016	120	120
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2016	139	=139
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2016	142	142
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2016	212	212
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2016	219	=219
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2016	219	=219
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2016	348	=348
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2016	361	=361
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2016	391	=391
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2016	491	491-500
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2016	551	551-600
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2016	551	551-600
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2016	551	551-600
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2016	551	551-600
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2016	551	551-600
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2016	601	601-650
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2016	601	601-650
+大阪市立大学	Osaka City University	日本, 亚洲	QS世界大学排名	2016	651	651-700
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	QS世界大学排名	2016	651	651-700
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2016	651	651-700
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2016	651	651-700
+青山学院大学	Aoyama Gakuin University	日本, 亚洲	QS世界大学排名	2016	701	701+
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2016	701	701+
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2016	701	701+
+群马大学	Gunma University	日本, 亚洲	QS世界大学排名	2016	701	701+
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2016	701	701+
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2016	701	701+
+御茶水女子大学	Ochanomizu University	日本, 亚洲	QS世界大学排名	2016	701	701+
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2016	701	701+
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2016	701	701+
+信州大学	Shinshu University	日本, 亚洲	QS世界大学排名	2016	701	701+
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2016	701	701+
+山口大学	Yamaguchi University	日本, 亚洲	QS世界大学排名	2016	701	701+
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2016	9999	N/A

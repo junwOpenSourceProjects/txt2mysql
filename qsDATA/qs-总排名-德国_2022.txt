@@ -1,0 +1,47 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2022	50	50
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2022	63	63
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2022	64	64
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2022	127	127
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2022	128	128
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2022	136	136
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2022	159	159
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2022	165	165
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2022	172	172
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2022	177	177
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2022	194	194
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2022	204	204
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2022	214	214
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2022	226	226
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2022	269	269
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2022	311	311
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2022	322	322
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2022	340	340
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2022	344	344
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2022	347	347
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2022	365	365
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2022	378	378
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2022	393	393
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2022	411	411
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2022	423	423
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2022	427	427
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2022	447	447
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2022	447	447
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2022	461	461
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2022	490	490
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2022	494	494
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2022	501	501-510
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2022	521	521-530
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2022	561	561-570
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2022	571	571-580
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2022	591	591-600
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	QS世界大学排名	2022	601	601-650
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2022	601	601-650
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2022	651	651-700
+波茨坦大学	University of Potsdam	德国, 欧洲	QS世界大学排名	2022	701	701-750
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2022	701	701-750
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2022	751	751-800
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2022	801	801-1000
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2022	801	801-1000
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2022	801	801-1000
+锡根大学	Universität Siegen	德国, 欧洲	QS世界大学排名	2022	1001	1001-1200

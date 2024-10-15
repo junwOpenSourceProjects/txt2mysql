@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2014	1	1
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2014	2	2
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2014	7	7
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2014	8	8
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2014	9	9
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2014	10	=10
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2014	10	=10
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2014	13	13
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2014	14	14
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2014	15	15
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2014	16	16
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2014	22	22
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2014	23	23
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2014	25	25
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2014	29	29
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2014	37	37
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2014	40	40
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2014	44	44
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2014	47	47
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2014	54	54
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2014	56	56
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2014	57	57
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2014	59	59
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2014	63	63
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2014	71	=71
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2014	79	=79
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2014	85	85
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	QS世界大学排名	2014	86	=86
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2014	99	=99
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	QS世界大学排名	2014	99	=99
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	QS世界大学排名	2014	102	=102
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	QS世界大学排名	2014	106	106
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2014	107	=107
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	QS世界大学排名	2014	113	113
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	QS世界大学排名	2014	116	=116
+达特茅斯学院	Dartmouth College	美国, 北美洲	QS世界大学排名	2014	119	119
+南加州大学	University of Southern California	美国, 北美洲	QS世界大学排名	2014	125	125
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	QS世界大学排名	2014	130	=130
+弗吉尼亚大学	University of Virginia	美国, 北美洲	QS世界大学排名	2014	132	132
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2014	136	=136
+埃莫里大学	Emory University	美国, 北美洲	QS世界大学排名	2014	141	=141
+加州大学-欧文	University of California, Irvine	美国, 北美洲	QS世界大学排名	2014	149	149
+罗切斯特大学	University of Rochester	美国, 北美洲	QS世界大学排名	2014	151	=151
+德州农工大学	Texas A&m University	美国, 北美洲	QS世界大学排名	2014	153	153
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	QS世界大学排名	2014	160	160
+密歇根州立大学	Michigan State University	美国, 北美洲	QS世界大学排名	2014	171	171
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	QS世界大学排名	2014	175	=175
+佛罗里达大学	University of Florida	美国, 北美洲	QS世界大学排名	2014	179	179
+范德堡大学	Vanderbilt University	美国, 北美洲	QS世界大学排名	2014	181	=181
+乔治城大学	Georgetown University	美国, 北美洲	QS世界大学排名	2014	189	=189
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	QS世界大学排名	2014	192	192
+塔夫茨大学	Tufts University	美国, 北美洲	QS世界大学排名	2014	204	204
+亚利桑那大学	University of Arizona	美国, 北美洲	QS世界大学排名	2014	212	212
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	QS世界大学排名	2014	224	224
+迈阿密大学	University of Miami	美国, 北美洲	QS世界大学排名	2014	232	232
+爱荷华大学	University of Iowa	美国, 北美洲	QS世界大学排名	2014	236	=236
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	QS世界大学排名	2014	240	=240
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	QS世界大学排名	2014	255	=255
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	QS世界大学排名	2014	261	261
+加州大学-河滨	University of California, Riverside	美国, 北美洲	QS世界大学排名	2014	268	268
+叶史瓦大学	Yeshiva University	美国, 北美洲	QS世界大学排名	2014	269	=269
+犹他大学	University of Utah	美国, 北美洲	QS世界大学排名	2014	271	271
+亚利桑那州立大学	Arizona State University	美国, 北美洲	QS世界大学排名	2014	293	=293
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	QS世界大学排名	2014	302	302
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	QS世界大学排名	2014	304	=304
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	QS世界大学排名	2014	307	=307
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	QS世界大学排名	2014	316	316
+密西西比大学-牛津	University of Mississippi	美国, 北美洲	QS世界大学排名	2014	317	=317
+爱荷华州立大学	Iowa State University	美国, 北美洲	QS世界大学排名	2014	321	=321
+布兰迪斯大学	Brandeis University	美国, 北美洲	QS世界大学排名	2014	324	324
+乔治华盛顿大学	The George Washington University	美国, 北美洲	QS世界大学排名	2014	327	=327
+夏威夷大学马诺阿分校	University of Hawaii At Manoa	美国, 北美洲	QS世界大学排名	2014	327	=327
+维克森林大学	Wake Forest University	美国, 北美洲	QS世界大学排名	2014	329	=329
+波士顿学院	Boston College	美国, 北美洲	QS世界大学排名	2014	331	=331
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	QS世界大学排名	2014	338	=338
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	QS世界大学排名	2014	353	=353
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	QS世界大学排名	2014	366	=366
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	QS世界大学排名	2014	366	=366
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	QS世界大学排名	2014	376	=376
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	QS世界大学排名	2014	380	=380
+杜兰大学	Tulane University	美国, 北美洲	QS世界大学排名	2014	387	=387
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	QS世界大学排名	2014	390	=390
+科罗拉多州立大学	Colorado State University	美国, 北美洲	QS世界大学排名	2014	394	=394
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	QS世界大学排名	2014	397	=397
+俄勒冈州立大学	Oregon State University	美国, 北美洲	QS世界大学排名	2014	401	401-410
+佐治亚大学	University of Georgia	美国, 北美洲	QS世界大学排名	2014	411	411-420
+佛罗里达州立大学	Florida State University	美国, 北美洲	QS世界大学排名	2014	421	421-430
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	QS世界大学排名	2014	421	421-430
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	QS世界大学排名	2014	421	421-430
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	QS世界大学排名	2014	441	441-450
+特拉华大学	University of Delaware	美国, 北美洲	QS世界大学排名	2014	451	451-460
+辛辛那提大学	University of Cincinnati	美国, 北美洲	QS世界大学排名	2014	461	461-470
+美利坚大学	American University	美国, 北美洲	QS世界大学排名	2014	471	471-480
+堪萨斯州立大学	Kansas State University	美国, 北美洲	QS世界大学排名	2014	471	471-480
+德雷塞尔大学	Drexel University	美国, 北美洲	QS世界大学排名	2014	481	481-490
+肯塔基大学	University of Kentucky	美国, 北美洲	QS世界大学排名	2014	481	481-490
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	QS世界大学排名	2014	481	481-490
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	QS世界大学排名	2014	491	491-500
+纽约城市大学-城市学院	City University of New York City College	美国, 北美洲	QS世界大学排名	2014	501	501-550
+威廉与玛丽学院	William & Mary	美国, 北美洲	QS世界大学排名	2014	501	501-550

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2015	2	=2
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2015	2	=2
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2015	5	=5
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2015	5	=5
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2015	12	12
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2015	16	16
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2015	17	=17
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2015	17	=17
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	QS世界大学排名	2015	24	24
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2015	29	29
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2015	30	30
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2015	35	35
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2015	45	45
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2015	49	49
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2015	50	50
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2015	52	=52
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2015	54	54
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2015	55	=55
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2015	57	=57
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2015	60	60
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2015	61	61
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2015	64	64
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2015	67	67
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2015	69	69
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2015	71	=71
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2015	71	=71
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2015	75	75
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2015	77	77
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2015	80	80
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2015	81	81
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2015	82	82
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2015	85	85
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2015	86	=86
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2015	88	88
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2015	90	=90
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2015	90	=90
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2015	92	=92
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2015	94	94
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2015	96	96
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2015	97	97
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2015	98	98
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2015	101	101
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2015	105	105
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2015	110	110
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2015	114	114
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	QS世界大学排名	2015	115	115
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2015	116	=116
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	QS世界大学排名	2015	118	118
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2015	120	120
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2015	121	121
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2015	123	=123
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2015	123	=123
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2015	123	=123
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2015	127	=127
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2015	127	=127
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2015	129	=129
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2015	134	134
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2015	137	137
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2015	139	139
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2015	141	=141
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2015	145	145
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2015	146	146
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2015	147	=147
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2015	147	=147
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2015	150	150
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2015	151	=151
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2015	154	154
+卑尔根大学	University of Bergen	挪威, 欧洲	QS世界大学排名	2015	155	155
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2015	156	=156
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2015	156	=156
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2015	160	160
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2015	161	161
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2015	166	166
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2015	170	170
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	QS世界大学排名	2015	171	=171
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2015	173	=173
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	QS世界大学排名	2015	173	=173
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2015	175	=175
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2015	177	177
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2015	178	178
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2015	179	=179
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2015	179	=179
+布鲁塞尔自由大学，佛兰德语	Vrije Universiteit Brussel, Vub	比利时, 欧洲	QS世界大学排名	2015	181	181
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2015	182	=182
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2015	182	=182
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2015	187	=187
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2015	192	=192
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2015	192	=192
+苏赛克斯大学	University of Sussex	英国, 欧洲	QS世界大学排名	2015	200	=200
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2015	202	=202
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2015	202	=202
+安特卫普大学	University of Antwerp	比利时, 欧洲	QS世界大学排名	2015	205	205
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	QS世界大学排名	2015	206	=206
+图尔库大学	University of Turku	芬兰, 欧洲	QS世界大学排名	2015	208	208
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	QS世界大学排名	2015	209	209
+巴黎第七大学	University Paris Diderot, Paris 7	法国, 欧洲	QS世界大学排名	2015	210	210
+莱斯特大学	University of Leicester	英国, 欧洲	QS世界大学排名	2015	211	211
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2015	212	=212
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2015	212	=212
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2015	217	217

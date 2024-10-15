@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2022	1	1
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2022	2	2
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2022	3	3
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2022	3	3
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2022	5	5
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2022	6	6
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2022	7	7
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2022	8	8
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2022	8	8
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2022	10	10
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	QS世界大学排名	2022	11	11
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	QS世界大学排名	2022	12	12
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2022	13	13
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2022	14	14
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2022	14	14
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2022	16	16
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2022	17	17
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2022	18	18
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2022	19	19
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2022	20	20
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2022	21	21
+香港大学	The University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2022	22	22
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2022	23	23
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2022	23	23
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2022	25	25
+多伦多大学	University of Toronto	加拿大, 北美洲	QS世界大学排名	2022	26	26
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	QS世界大学排名	2022	27	27
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2022	27	27
+麦吉尔大学	Mcgill University	加拿大, 北美洲	QS世界大学排名	2022	27	27
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2022	30	30
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2022	31	31
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2022	32	32
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2022	33	33
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	QS世界大学排名	2022	34	34
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2022	35	35
+首尔国立大学	Seoul National University	韩国, 亚洲	QS世界大学排名	2022	36	36
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	QS世界大学排名	2022	37	37
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	QS世界大学排名	2022	38	38
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2022	39	39
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2022	40	40
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	QS世界大学排名	2022	41	41
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2022	42	42
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	QS世界大学排名	2022	43	43
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2022	44	44
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	QS世界大学排名	2022	45	45
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	QS世界大学排名	2022	46	46
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	QS世界大学排名	2022	47	47
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2022	48	48
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2022	49	49
+巴黎理工学院	Institut Polytechnique De Paris	法国, 欧洲	QS世界大学排名	2022	49	49
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2022	50	50
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2022	50	50
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2022	52	52
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2022	53	53
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2022	53	53
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2022	55	55
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2022	56	56
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2022	57	57
+莫纳什大学	Monash University	澳大利亚, 大洋洲	QS世界大学排名	2022	58	58
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2022	60	60
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2022	61	61
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2022	62	62
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2022	63	63
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2022	64	64
+马来亚大学	University of Malaya	马来西亚, 亚洲	QS世界大学排名	2022	65	65
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	QS世界大学排名	2022	66	66
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2022	67	67
+台湾大学	National Taiwan University	中国台湾, 亚洲	QS世界大学排名	2022	68	68
+布宜诺斯艾利斯大学	University of Buenos Aires	阿根廷, 南美洲	QS世界大学排名	2022	69	69
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2022	70	70
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2022	70	70
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2022	72	72
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2022	73	73
+高丽大学	Korea University	韩国, 亚洲	QS世界大学排名	2022	74	74
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2022	75	75
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2022	75	75
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2022	77	77
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2022	78	78
+延世大学	Yonsei University	韩国, 亚洲	QS世界大学排名	2022	79	79
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2022	79	79
+浦项理工大学	Pohang University of Science And Technology	韩国, 亚洲	QS世界大学排名	2022	81	81
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2022	82	82
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2022	82	82
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2022	82	82
+奥克兰大学，新西兰	The University of Auckland	新西兰, 大洋洲	QS世界大学排名	2022	85	85
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2022	85	85
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	QS世界大学排名	2022	86	86
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2022	87	87
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2022	88	88
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2022	89	89
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2022	90	90
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2022	91	91
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2022	92	92
+西澳大利亚大学	The University of Western Australia	澳大利亚, 大洋洲	QS世界大学排名	2022	93	93
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2022	94	94
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2022	95	95
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2022	96	96
+成均馆大学	Sungkyunkwan University	韩国, 亚洲	QS世界大学排名	2022	97	97
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	QS世界大学排名	2022	98	98
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2022	99	99

@@ -1,0 +1,6 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	计算机科学	2021	251	251-300
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	计算机科学	2021	251	251-300
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	计算机科学	2021	501	501-550
+矿业冶金学院	Agh University of Science And Technology	波兰, 欧洲	计算机科学	2021	551	551-600
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	计算机科学	2021	551	551-600

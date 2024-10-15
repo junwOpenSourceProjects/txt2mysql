@@ -1,0 +1,22 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2024	66	66
+沙特国王大学	King Saud University	沙特, 亚洲	计算机科学	2024	116	=116
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	计算机科学	2024	126	=126
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	计算机科学	2024	146	=146
+哈里发大学	Khalifa University	沙特, 亚洲	计算机科学	2024	155	=155
+阿治曼大学	Ajman University	沙特, 亚洲	计算机科学	2024	251	251-300
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	计算机科学	2024	251	251-300
+沙迦大学	University of Sharjah	沙特, 亚洲	计算机科学	2024	351	351-400
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	计算机科学	2024	401	401-450
+穆罕默德·本·法赫德亲王大学	Prince Mohammad Bin Fahd University	沙特, 亚洲	计算机科学	2024	401	401-450
+哈立德国王大学	King Khalid University	沙特, 亚洲	计算机科学	2024	451	451-500
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	计算机科学	2024	451	451-500
+伊玛目阿卜杜拉曼宾费萨尔大学	Imam Abdulrahman Bin Faisal University, Iau, Formerly University of Dammam	沙特, 亚洲	计算机科学	2024	501	501-550
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	计算机科学	2024	501	501-550
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	计算机科学	2024	551	551-600
+约夫大学	Jouf University	沙特, 亚洲	计算机科学	2024	601	601-650
+苏丹王子大学	Prince Sultan University (PSU)	沙特, 亚洲	计算机科学	2024	601	601-650
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	计算机科学	2024	601	601-650
+费萨尔国王大学	King Faisal University	沙特, 亚洲	计算机科学	2024	651	651-700
+卡西姆大学	Qassim University	沙特, 亚洲	计算机科学	2024	651	651-700
+沙特电子大学	Saudi Electronic University	沙特, 亚洲	计算机科学	2024	701	701-720

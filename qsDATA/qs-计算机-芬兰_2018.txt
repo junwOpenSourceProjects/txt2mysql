@@ -1,0 +1,5 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2018	151	151-200
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2018	151	151-200
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2018	301	301-350
+坦佩雷理工大学	Tampere University of Technology	芬兰, 欧洲	计算机科学	2018	351	351-400

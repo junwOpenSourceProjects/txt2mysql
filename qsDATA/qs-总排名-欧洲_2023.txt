@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2023	2	2
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2023	4	4
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2023	6	=6
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2023	8	8
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2023	9	9
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2023	15	15
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2023	16	=16
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2023	26	26
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2023	28	28
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2023	37	37
+巴黎理工学院	Institut Polytechnique De Paris	法国, 欧洲	QS世界大学排名	2023	48	48
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2023	49	49
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2023	56	56
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2023	58	58
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2023	59	59
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2023	60	60
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2023	61	=61
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2023	61	=61
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2023	64	64
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2023	65	=65
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	QS世界大学排名	2023	69	69
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2023	75	75
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2023	76	76
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2023	78	78
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2023	81	81
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2023	82	82
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2023	83	=83
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2023	86	86
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2023	89	89
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2023	91	91
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2023	92	92
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2023	95	95
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2023	96	=96
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2023	96	=96
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2023	98	98
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2023	101	101
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2023	104	=104
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2023	106	=106
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2023	111	111
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2023	112	=112
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2023	114	114
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2023	116	=116
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2023	118	=118
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2023	120	120
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2023	122	122
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2023	124	124
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2023	125	=125
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2023	125	=125
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2023	125	=125
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2023	128	128
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2023	131	=131
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2023	131	=131
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2023	136	136
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2023	138	138
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	QS世界大学排名	2023	139	139
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2023	141	=141
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2023	143	=143
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2023	145	145
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2023	146	146
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2023	147	=147
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2023	151	151
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2023	153	153
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2023	158	158
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2023	161	161
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2023	162	162
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2023	163	163
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2023	166	166
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2023	167	=167
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2023	169	169
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2023	171	171
+国立路桥学校	Ecole Des Ponts Paristech	法国, 欧洲	QS世界大学排名	2023	174	=174
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2023	178	178
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	QS世界大学排名	2023	179	=179
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2023	179	=179
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2023	181	=181
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2023	184	184
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	QS世界大学排名	2023	185	=185
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2023	189	189
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2023	190	=190
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2023	195	=195
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2023	200	200
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2023	201	201
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2023	203	=203
+卑尔根大学	University of Bergen	挪威, 欧洲	QS世界大学排名	2023	207	207
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2023	208	=208
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	QS世界大学排名	2023	210	=210
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2023	212	=212
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	QS世界大学排名	2023	214	214
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2023	215	=215
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2023	215	=215
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2023	220	=220
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2023	226	=226
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2023	228	228
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2023	229	229
+莫斯科国立鲍曼技术大学	Bauman Moscow State Technical University	俄罗斯, 欧洲	QS世界大学排名	2023	230	230
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2023	232	232
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2023	233	=233
+庞培法布拉大学	Pompeu Fabra University	西班牙, 欧洲	QS世界大学排名	2023	233	=233
+瑞士意大利语大学	Università Della Svizzera Italiana	瑞士, 欧洲	QS世界大学排名	2023	240	=240
+苏赛克斯大学	University of Sussex	英国, 欧洲	QS世界大学排名	2023	240	=240

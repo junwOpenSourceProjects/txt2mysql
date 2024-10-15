@@ -1,0 +1,10 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2016	96	=96
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2016	139	=139
+图尔库大学	University of Turku	芬兰, 欧洲	QS世界大学排名	2016	233	=233
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	QS世界大学排名	2016	319	=319
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	QS世界大学排名	2016	347	347
+坦佩雷理工大学	Tampere University of Technology	芬兰, 欧洲	QS世界大学排名	2016	356	=356
+奥卢大学	University of Oulu	芬兰, 欧洲	QS世界大学排名	2016	358	=358
+埃博学术大学	Bo Akademi University	芬兰, 欧洲	QS世界大学排名	2016	441	441-450
+坦佩雷大学	University of Tampere	芬兰, 欧洲	QS世界大学排名	2016	441	441-450

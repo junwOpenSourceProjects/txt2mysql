@@ -1,0 +1,44 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2020	22	22
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2020	33	33
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2020	58	58
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2020	71	71
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2020	82	82
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2020	115	115
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2020	132	132
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2020	132	132
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2020	196	196
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2020	200	200
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2020	270	270
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2020	334	334
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2020	359	359
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2020	395	395
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2020	442	442
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2020	448	448
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2020	468	468
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2020	531	531-540
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2020	531	531-540
+大阪市立大学	Osaka City University	日本, 亚洲	QS世界大学排名	2020	551	551-560
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2020	561	561-570
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2020	581	581-590
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2020	601	601-650
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2020	601	601-650
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2020	601	601-650
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2020	601	601-650
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2020	651	651-700
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	QS世界大学排名	2020	651	651-700
+山口大学	Yamaguchi University	日本, 亚洲	QS世界大学排名	2020	701	701-750
+群马大学	Gunma University	日本, 亚洲	QS世界大学排名	2020	751	751-800
+信州大学	Shinshu University	日本, 亚洲	QS世界大学排名	2020	751	751-800
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2020	751	751-800
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+立教大学	Rikkyo University	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+上智大学	Sophia University	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2020	801	801-1000
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2020	1001	1001+
+明治大学	Meiji University	日本, 亚洲	QS世界大学排名	2020	1001	1001+

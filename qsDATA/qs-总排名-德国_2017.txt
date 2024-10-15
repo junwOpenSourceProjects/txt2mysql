@@ -1,0 +1,46 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2017	60	60
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2017	68	=68
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2017	72	72
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2017	98	=98
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2017	121	=121
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2017	123	=123
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2017	146	146
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2017	163	163
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2017	164	=164
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2017	167	167
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2017	177	=177
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2017	210	=210
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2017	231	231
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2017	232	232
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2017	247	=247
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2017	263	263
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2017	264	=264
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2017	272	=272
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2017	294	=294
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2017	347	=347
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2017	347	=347
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2017	352	=352
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2017	363	=363
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2017	400	=400
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2017	401	401-410
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2017	411	411-420
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2017	421	421-430
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2017	421	421-430
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2017	441	441-450
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2017	451	451-460
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2017	471	471-480
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2017	501	501-550
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2017	501	501-550
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2017	501	501-550
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2017	501	501-550
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2017	501	501-550
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2017	551	551-600
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2017	551	551-600
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2017	601	601-650
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2017	601	601-650
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2017	601	601-650
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2017	651	651-700
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2017	651	651-700
+欧洲商学院（EBS）大学	European Business School (ebs) University	德国, 欧洲	QS世界大学排名	2017	9999	N/A
+奥托拜斯海姆管理学院	Whu - Otto Beisheim School of Management	德国, 欧洲	QS世界大学排名	2017	9999	N/A

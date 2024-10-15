@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2019	1	1
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2019	2	2
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2019	3	3
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2019	4	4
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2019	9	9
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2019	13	13
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2019	14	14
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2019	15	15
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2019	16	16
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2019	19	19
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2019	20	20
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2019	21	21
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2019	26	26
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2019	27	27
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2019	32	32
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2019	34	34
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2019	41	41
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2019	43	43
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2019	46	46
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2019	53	53
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2019	56	56
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2019	63	63
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2019	66	66
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2019	69	=69
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2019	71	71
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2019	83	=83
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2019	87	=87
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	QS世界大学排名	2019	89	89
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2019	93	=93
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2019	95	95
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	QS世界大学排名	2019	100	=100
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2019	100	=100
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	QS世界大学排名	2019	100	=100
+南加州大学	University of Southern California	美国, 北美洲	QS世界大学排名	2019	115	115
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	QS世界大学排名	2019	126	=126
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	QS世界大学排名	2019	132	=132
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	QS世界大学排名	2019	136	136
+密歇根州立大学	Michigan State University	美国, 北美洲	QS世界大学排名	2019	141	=141
+埃莫里大学	Emory University	美国, 北美洲	QS世界大学排名	2019	148	148
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	QS世界大学排名	2019	156	=156
+加州大学-欧文	University of California, Irvine	美国, 北美洲	QS世界大学排名	2019	169	169
+佛罗里达大学	University of Florida	美国, 北美洲	QS世界大学排名	2019	180	=180
+达特茅斯学院	Dartmouth College	美国, 北美洲	QS世界大学排名	2019	183	183
+罗切斯特大学	University of Rochester	美国, 北美洲	QS世界大学排名	2019	184	=184
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	QS世界大学排名	2019	186	=186
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	QS世界大学排名	2019	190	190
+弗吉尼亚大学	University of Virginia	美国, 北美洲	QS世界大学排名	2019	192	192
+范德堡大学	Vanderbilt University	美国, 北美洲	QS世界大学排名	2019	195	=195
+德州农工大学	Texas A&m University	美国, 北美洲	QS世界大学排名	2019	203	203
+亚利桑那州立大学	Arizona State University	美国, 北美洲	QS世界大学排名	2019	212	=212
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	QS世界大学排名	2019	212	=212
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	QS世界大学排名	2019	214	=214
+乔治城大学	Georgetown University	美国, 北美洲	QS世界大学排名	2019	226	226
+塔夫茨大学	Tufts University	美国, 北美洲	QS世界大学排名	2019	237	=237
+迈阿密大学	University of Miami	美国, 北美洲	QS世界大学排名	2019	242	=242
+亚利桑那大学	University of Arizona	美国, 北美洲	QS世界大学排名	2019	246	246
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	QS世界大学排名	2019	259	259
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	QS世界大学排名	2019	279	=279
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	QS世界大学排名	2019	283	=283
+夏威夷大学马诺阿分校	University of Hawaii At Manoa	美国, 北美洲	QS世界大学排名	2019	302	=302
+叶史瓦大学	Yeshiva University	美国, 北美洲	QS世界大学排名	2019	310	=310
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	QS世界大学排名	2019	313	=313
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	QS世界大学排名	2019	323	=323
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	QS世界大学排名	2019	326	=326
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	QS世界大学排名	2019	336	=336
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	QS世界大学排名	2019	338	=338
+乔治华盛顿大学	The George Washington University	美国, 北美洲	QS世界大学排名	2019	345	=345
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	QS世界大学排名	2019	345	=345
+犹他大学	University of Utah	美国, 北美洲	QS世界大学排名	2019	345	=345
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	QS世界大学排名	2019	349	349
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	QS世界大学排名	2019	367	=367
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	QS世界大学排名	2019	373	=373
+波士顿学院	Boston College	美国, 北美洲	QS世界大学排名	2019	376	=376
+加州大学-河滨	University of California, Riverside	美国, 北美洲	QS世界大学排名	2019	384	=384
+维克森林大学	Wake Forest University	美国, 北美洲	QS世界大学排名	2019	387	=387
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	QS世界大学排名	2019	391	=391
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	QS世界大学排名	2019	397	=397
+杜兰大学	Tulane University	美国, 北美洲	QS世界大学排名	2019	412	=412
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	QS世界大学排名	2019	419	419
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	QS世界大学排名	2019	426	=426
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	QS世界大学排名	2019	426	=426
+布兰迪斯大学	Brandeis University	美国, 北美洲	QS世界大学排名	2019	429	=429
+佐治亚大学	University of Georgia	美国, 北美洲	QS世界大学排名	2019	431	431
+爱荷华大学	University of Iowa	美国, 北美洲	QS世界大学排名	2019	435	=435
+特拉华大学	University of Delaware	美国, 北美洲	QS世界大学排名	2019	439	=439
+韦恩州立大学	Wayne State University	美国, 北美洲	QS世界大学排名	2019	439	=439
+科罗拉多州立大学	Colorado State University	美国, 北美洲	QS世界大学排名	2019	450	=450
+俄勒冈州立大学	Oregon State University	美国, 北美洲	QS世界大学排名	2019	450	=450
+马里兰大学-巴尔的摩县	University of Maryland, Baltimore County	美国, 北美洲	QS世界大学排名	2019	453	=453
+克拉克大学	Clark University	美国, 北美洲	QS世界大学排名	2019	461	=461
+佛罗里达州立大学	Florida State University	美国, 北美洲	QS世界大学排名	2019	472	=472
+爱荷华州立大学	Iowa State University	美国, 北美洲	QS世界大学排名	2019	489	=489
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	QS世界大学排名	2019	494	494
+俄克拉荷马大学-诺曼	University of Oklahoma, Norman	美国, 北美洲	QS世界大学排名	2019	495	=495
+圣约瑟夫大学	Saint Joseph University of Beirut, Usj	美国, 北美洲	QS世界大学排名	2019	500	=500
+德雷塞尔大学	Drexel University	美国, 北美洲	QS世界大学排名	2019	501	501-510
+霍华德大学	Howard University	美国, 北美洲	QS世界大学排名	2019	501	501-510
+利哈伊大学	Lehigh University	美国, 北美洲	QS世界大学排名	2019	501	501-510
+南佛罗里达大学	University of South Florida	美国, 北美洲	QS世界大学排名	2019	521	521-530
+新学院	The New School	美国, 北美洲	QS世界大学排名	2019	531	531-540

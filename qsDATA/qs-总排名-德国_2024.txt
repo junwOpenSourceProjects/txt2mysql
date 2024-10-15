@@ -1,0 +1,50 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2024	37	37
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2024	54	54
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2024	87	=87
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2024	98	98
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2024	106	106
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2024	119	119
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2024	120	120
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2024	154	=154
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2024	192	=192
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2024	205	205
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2024	213	213
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2024	229	229
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2024	232	232
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2024	239	=239
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2024	246	=246
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2024	246	=246
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2024	268	=268
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2024	302	=302
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2024	312	312
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2024	375	=375
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2024	384	=384
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2024	396	=396
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2024	440	=440
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2024	454	=454
+波茨坦大学	University of Potsdam	德国, 欧洲	QS世界大学排名	2024	460	460
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2024	461	=461
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2024	464	464
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2024	478	478
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2024	479	479
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2024	481	=481
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2024	509	=509
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2024	514	=514
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2024	530	=530
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2024	542	=542
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2024	600	=600
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2024	611	611-620
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	QS世界大学排名	2024	651	651-660
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2024	741	741-750
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2024	751	751-760
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2024	761	761-770
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2024	761	761-770
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2024	771	771-780
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2024	801	801-850
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2024	851	851-900
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2024	951	951-1000
+锡根大学	Universität Siegen	德国, 欧洲	QS世界大学排名	2024	1001	1001-1200
+弗莱贝格工业大学	Technische Universität Bergakademie Freiberg	德国, 欧洲	QS世界大学排名	2024	1401	1401+
+汉堡-哈尔堡工业大学	Hamburg University of Technology	德国, 欧洲	QS世界大学排名	2024	1401	1401+
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	QS世界大学排名	2024	1401	1401+

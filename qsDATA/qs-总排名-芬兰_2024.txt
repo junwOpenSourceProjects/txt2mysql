@@ -1,0 +1,10 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2024	109	109
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2024	115	115
+奥卢大学	University of Oulu	芬兰, 欧洲	QS世界大学排名	2024	313	=313
+图尔库大学	University of Turku	芬兰, 欧洲	QS世界大学排名	2024	315	=315
+拉普兰塔理工大学	Lappeenranta University of Technology	芬兰, 欧洲	QS世界大学排名	2024	351	=351
+坦佩雷大学	University of Tampere	芬兰, 欧洲	QS世界大学排名	2024	436	=436
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	QS世界大学排名	2024	446	=446
+东芬兰大学	University of Eastern Finland	芬兰, 欧洲	QS世界大学排名	2024	548	=548
+埃博学术大学	Bo Akademi University	芬兰, 欧洲	QS世界大学排名	2024	601	601-610

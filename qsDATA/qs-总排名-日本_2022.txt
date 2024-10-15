@@ -1,0 +1,49 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2022	23	23
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2022	33	33
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2022	56	56
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2022	75	75
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2022	82	82
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2022	118	118
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2022	137	137
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2022	145	145
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2022	201	201
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2022	203	203
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2022	285	285
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2022	343	343
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2022	381	381
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2022	386	386
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2022	477	477
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2022	487	487
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2022	531	531-540
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2022	531	531-540
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2022	541	541-550
+大阪市立大学	Osaka City University	日本, 亚洲	QS世界大学排名	2022	571	571-580
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2022	581	581-590
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2022	591	591-600
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2022	601	601-650
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2022	601	601-650
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2022	601	601-650
+德岛大学	The University of Tokushima	日本, 亚洲	QS世界大学排名	2022	651	651-700
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2022	651	651-700
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2022	701	701-750
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	QS世界大学排名	2022	701	701-750
+群马大学	Gunma University	日本, 亚洲	QS世界大学排名	2022	701	701-750
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2022	751	751-800
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+国际基督教大学	International Christian University	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+上智大学	Sophia University	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+信州大学	Shinshu University	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+山口大学	Yamaguchi University	日本, 亚洲	QS世界大学排名	2022	801	801-1000
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+明治大学	Meiji University	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+立教大学	Rikkyo University	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	QS世界大学排名	2022	1001	1001-1200
+芝浦工业大学	Shibaura Institute of Technology	日本, 亚洲	QS世界大学排名	2022	1201	1201+
+青山学院大学	Aoyama Gakuin University	日本, 亚洲	QS世界大学排名	2022	1201	1201+
+近畿大学	Kindai University	日本, 亚洲	QS世界大学排名	2022	1201	1201+

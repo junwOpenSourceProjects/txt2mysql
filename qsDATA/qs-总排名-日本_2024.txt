@@ -1,0 +1,51 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2024	28	28
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2024	46	46
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2024	80	80
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2024	91	=91
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2024	113	113
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2024	164	=164
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2024	176	=176
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2024	196	196
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2024	199	=199
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2024	214	214
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2024	355	=355
+丰田工业大学	Toyota Technological Institute	日本, 亚洲	QS世界大学排名	2024	446	=446
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2024	472	472
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2024	476	=476
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2024	481	=481
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2024	611	611-620
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2024	631	631-640
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2024	661	661-670
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2024	701	701-710
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2024	801	801-850
+立命馆亚洲太平洋大学	Ritsumeikan Asia Pacific University	日本, 亚洲	QS世界大学排名	2024	801	801-850
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2024	801	801-850
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2024	801	801-850
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2024	851	851-900
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2024	851	851-900
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2024	901	901-950
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2024	901	901-950
+上智大学	Sophia University	日本, 亚洲	QS世界大学排名	2024	901	901-950
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2024	951	951-1000
+群马大学	Gunma University	日本, 亚洲	QS世界大学排名	2024	951	951-1000
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2024	951	951-1000
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2024	951	951-1000
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+国际基督教大学	International Christian University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+明治大学	Meiji University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+信州大学	Shinshu University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+德岛大学	The University of Tokushima	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+山口大学	Yamaguchi University	日本, 亚洲	QS世界大学排名	2024	1001	1001-1200
+青山学院大学	Aoyama Gakuin University	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+近畿大学	Kindai University	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+关西学院大学	Kwansei Gakuin University	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+立教大学	Rikkyo University	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+芝浦工业大学	Shibaura Institute of Technology	日本, 亚洲	QS世界大学排名	2024	1201	1201-1400
+奈良科技大学	Nara Institute of Science And Technology	日本, 亚洲	QS世界大学排名	2024	1401	1401+

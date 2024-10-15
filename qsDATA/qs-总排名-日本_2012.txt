@@ -1,0 +1,39 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2012	30	30
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2012	35	35
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2012	50	50
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2012	65	65
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2012	75	=75
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2012	86	86
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2012	128	128
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2012	138	138
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2012	198	198
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2012	200	200
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2012	203	203
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2012	277	277
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2012	280	280
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2012	295	295
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2012	322	322
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2012	381	=381
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2012	401	401- 450
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2012	451	451- 500
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2012	451	451- 500
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2012	451	451- 500
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2012	501	501- 550
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2012	501	501- 550
+大阪市立大学	Osaka City University	日本, 亚洲	QS世界大学排名	2012	501	501- 550
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2012	501	501- 550
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2012	501	501- 550
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2012	551	551- 600
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2012	551	551- 600
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2012	601	601+
+青山学院大学	Aoyama Gakuin University	日本, 亚洲	QS世界大学排名	2012	601	601+
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2012	601	601+
+御茶水女子大学	Ochanomizu University	日本, 亚洲	QS世界大学排名	2012	601	601+
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2012	601	601+
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2012	601	601+
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2012	601	601+
+东京药学与生命科学大学	Tokyo University of Pharmacy And Life Sciences	日本, 亚洲	QS世界大学排名	2012	9999	N/A
+上智大学	Sophia University	日本, 亚洲	QS世界大学排名	2012	9999	N/A
+日本科学技术大学	Japan Advanced Institute of Science And Technology	日本, 亚洲	QS世界大学排名	2012	9999	N/A
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2012	9999	N/A

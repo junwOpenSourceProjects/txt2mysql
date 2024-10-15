@@ -1,0 +1,19 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	QS世界大学排名	2021	143	143
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	QS世界大学排名	2021	186	186
+哈里发大学	Khalifa University	沙特, 亚洲	QS世界大学排名	2021	211	211
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	QS世界大学排名	2021	284	284
+沙特国王大学	King Saud University	沙特, 亚洲	QS世界大学排名	2021	287	287
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	QS世界大学排名	2021	348	348
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	QS世界大学排名	2021	474	474
+伊玛目阿卜杜拉曼宾费萨尔大学	Imam Abdulrahman Bin Faisal University, Iau, Formerly University of Dammam	沙特, 亚洲	QS世界大学排名	2021	521	521-530
+迪拜美国大学	American University In Dubai	沙特, 亚洲	QS世界大学排名	2021	601	601-650
+哈立德国王大学	King Khalid University	沙特, 亚洲	QS世界大学排名	2021	601	601-650
+沙迦大学	University of Sharjah	沙特, 亚洲	QS世界大学排名	2021	601	601-650
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	QS世界大学排名	2021	701	701-750
+阿治曼大学	Ajman University	沙特, 亚洲	QS世界大学排名	2021	701	701-750
+穆罕默德·本·法赫德亲王大学	Prince Mohammad Bin Fahd University	沙特, 亚洲	QS世界大学排名	2021	751	751-800
+麦地那伊斯兰大学	Islamic University of Madinah	沙特, 亚洲	QS世界大学排名	2021	801	801-1000
+费萨尔国王大学	King Faisal University	沙特, 亚洲	QS世界大学排名	2021	801	801-1000
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	QS世界大学排名	2021	801	801-1000
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	QS世界大学排名	2021	9999	N/A

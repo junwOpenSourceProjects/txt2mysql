@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2022	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2022	2	2
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2022	3	3
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2022	4	4
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2022	7	7
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2022	13	13
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2022	14	14
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2022	16	16
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2022	18	18
+纽约大学	New York University	美国, 北美洲	计算机科学	2022	19	19
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2022	20	20
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2022	27	27
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2022	28	28
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2022	33	33
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2022	35	=35
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2022	37	=37
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2022	39	=39
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2022	41	41
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2022	42	42
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2022	46	=46
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2022	55	55
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2022	56	=56
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2022	72	=72
+杜克大学	Duke University	美国, 北美洲	计算机科学	2022	79	=79
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2022	82	=82
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2022	82	=82
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2022	84	=84
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2022	92	=92
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2022	95	95
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2022	96	=96
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2022	103	103
+布朗大学	Brown University	美国, 北美洲	计算机科学	2022	117	117
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2022	126	126
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2022	142	=142
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2022	148	=148
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	计算机科学	2022	151	151-200
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2022	151	151-200
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2022	151	151-200
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2022	151	151-200
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2022	151	151-200
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2022	151	151-200
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2022	151	151-200
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	计算机科学	2022	151	151-200
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2022	151	151-200
+弗吉尼亚大学	University of Virginia	美国, 北美洲	计算机科学	2022	151	151-200
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2022	151	151-200
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2022	201	201-250
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2022	201	201-250
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2022	201	201-250
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2022	201	201-250
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2022	201	201-250
+罗切斯特大学	University of Rochester	美国, 北美洲	计算机科学	2022	201	201-250
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	计算机科学	2022	251	251-300
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	计算机科学	2022	251	251-300
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	计算机科学	2022	251	251-300
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	计算机科学	2022	251	251-300
+达特茅斯学院	Dartmouth College	美国, 北美洲	计算机科学	2022	301	301-350
+佛罗里达州立大学	Florida State University	美国, 北美洲	计算机科学	2022	301	301-350
+乔治梅森大学	George Mason University	美国, 北美洲	计算机科学	2022	301	301-350
+乔治华盛顿大学	The George Washington University	美国, 北美洲	计算机科学	2022	301	301-350
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	计算机科学	2022	301	301-350
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	计算机科学	2022	301	301-350
+中佛罗里达大学	University of Central Florida	美国, 北美洲	计算机科学	2022	301	301-350
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	计算机科学	2022	301	301-350
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2022	301	301-350
+犹他大学	University of Utah	美国, 北美洲	计算机科学	2022	301	301-350
+纽约城市大学-城市学院	City University of New York City College	美国, 北美洲	计算机科学	2022	351	351-400
+佛罗里达国际大学	Florida International University	美国, 北美洲	计算机科学	2022	351	351-400
+佐治亚州立大学	Georgia State University	美国, 北美洲	计算机科学	2022	351	351-400
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	计算机科学	2022	351	351-400
+加州大学-河滨	University of California, Riverside	美国, 北美洲	计算机科学	2022	351	351-400
+范德堡大学	Vanderbilt University	美国, 北美洲	计算机科学	2022	351	351-400
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	计算机科学	2022	401	401-450
+德雷塞尔大学	Drexel University	美国, 北美洲	计算机科学	2022	401	401-450
+爱荷华州立大学	Iowa State University	美国, 北美洲	计算机科学	2022	401	401-450
+雪城大学	Syracuse University	美国, 北美洲	计算机科学	2022	401	401-450
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	计算机科学	2022	401	401-450
+南佛罗里达大学	University of South Florida	美国, 北美洲	计算机科学	2022	401	401-450
+威廉玛丽学院	College of William And Mary	美国, 北美洲	计算机科学	2022	451	451-500
+乔治城大学	Georgetown University	美国, 北美洲	计算机科学	2022	451	451-500
+罗切斯特理工学院	Rochester Institute of Technology	美国, 北美洲	计算机科学	2022	451	451-500
+坦普尔大学	Temple University	美国, 北美洲	计算机科学	2022	451	451-500
+德克萨斯技术大学	Texas Tech University	美国, 北美洲	计算机科学	2022	451	451-500
+阿拉巴马大学	The University of Alabama, Tuscaloosa	美国, 北美洲	计算机科学	2022	451	451-500
+德克萨斯大学-阿灵顿	The University of Texas At Arlington	美国, 北美洲	计算机科学	2022	451	451-500
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	计算机科学	2022	451	451-500
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	计算机科学	2022	451	451-500
+马里兰大学-巴尔的摩县	University of Maryland, Baltimore County	美国, 北美洲	计算机科学	2022	451	451-500
+迈阿密大学	University of Miami	美国, 北美洲	计算机科学	2022	451	451-500
+科罗拉多州立大学	Colorado State University	美国, 北美洲	计算机科学	2022	501	501-550
+新泽西理工学院	New Jersey Institute of Technology	美国, 北美洲	计算机科学	2022	501	501-550
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	计算机科学	2022	501	501-550
+塔夫茨大学	Tufts University	美国, 北美洲	计算机科学	2022	501	501-550
+休斯顿大学	University of Houston	美国, 北美洲	计算机科学	2022	501	501-550
+肯塔基大学	University of Kentucky	美国, 北美洲	计算机科学	2022	501	501-550
+马萨诸塞大学-波士顿	University of Massachusetts Boston	美国, 北美洲	计算机科学	2022	501	501-550
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	计算机科学	2022	501	501-550
+纽约州立大学宾汉姆顿大学	Binghamton University	美国, 北美洲	计算机科学	2022	551	551-600
+克莱姆森大学	Clemson University	美国, 北美洲	计算机科学	2022	551	551-600
+埃莫里大学	Emory University	美国, 北美洲	计算机科学	2022	551	551-600

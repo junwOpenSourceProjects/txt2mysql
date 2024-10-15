@@ -1,0 +1,48 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2018	64	64
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2018	66	66
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2018	68	68
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2018	107	107
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2018	120	120
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2018	125	=125
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2018	141	141
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2018	144	144
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2018	164	=164
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2018	171	171
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2018	181	181
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2018	195	=195
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2018	223	223
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2018	239	239
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2018	254	=254
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2018	259	=259
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2018	272	=272
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2018	287	=287
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2018	308	=308
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2018	331	=331
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2018	341	=341
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2018	357	=357
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2018	385	385
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2018	388	=388
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2018	398	=398
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2018	401	401-410
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2018	401	401-410
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2018	431	431-440
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2018	461	461-470
+波茨坦大学	University of Potsdam	德国, 欧洲	QS世界大学排名	2018	461	461-470
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2018	481	481-490
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2018	481	481-490
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2018	501	501-550
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2018	501	501-550
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	QS世界大学排名	2018	501	501-550
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2018	501	501-550
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2018	501	501-550
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2018	551	551-600
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2018	551	551-600
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2018	551	551-600
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2018	601	601-650
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2018	601	601-650
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2018	651	651-700
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2018	651	651-700
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2018	801	801-1000
+奥托拜斯海姆管理学院	Whu - Otto Beisheim School of Management	德国, 欧洲	QS世界大学排名	2018	1001	1001+
+欧洲商学院（EBS）大学	European Business School (ebs) University	德国, 欧洲	QS世界大学排名	2018	9999	N/A

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2024	2	2
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2024	3	3
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2024	6	6
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2024	7	7
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2024	9	9
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2024	22	22
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2024	24	24
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2024	32	32
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2024	36	36
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2024	37	37
+巴黎理工学院	Institut Polytechnique De Paris	法国, 欧洲	QS世界大学排名	2024	38	=38
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2024	40	40
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2024	45	45
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2024	47	=47
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2024	53	53
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2024	54	54
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2024	55	55
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2024	59	59
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2024	61	61
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2024	67	67
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	QS世界大学排名	2024	71	71
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2024	73	=73
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2024	75	75
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2024	76	=76
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2024	78	78
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2024	81	=81
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2024	81	=81
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2024	84	84
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2024	85	=85
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2024	87	=87
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2024	87	=87
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2024	91	=91
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2024	95	=95
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2024	98	98
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2024	100	=100
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2024	104	104
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2024	105	105
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2024	106	106
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2024	107	=107
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2024	107	=107
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2024	109	109
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2024	110	110
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2024	115	115
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2024	117	117
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2024	118	118
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2024	119	119
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2024	120	120
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2024	121	121
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2024	122	122
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	QS世界大学排名	2024	123	123
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2024	124	=124
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2024	124	=124
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2024	126	=126
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2024	126	=126
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2024	128	128
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2024	129	129
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2024	130	=130
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2024	134	=134
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2024	139	139
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2024	143	=143
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2024	145	=145
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2024	148	148
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2024	149	=149
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2024	151	=151
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2024	153	153
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2024	154	=154
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2024	154	=154
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2024	154	=154
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2024	159	=159
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2024	164	=164
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2024	167	167
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2024	169	=169
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2024	171	=171
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2024	171	=171
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2024	176	=176
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2024	176	=176
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2024	180	=180
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	QS世界大学排名	2024	184	=184
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2024	184	=184
+哥德堡大学	University of Gothenburg	瑞典, 欧洲	QS世界大学排名	2024	187	187
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	QS世界大学排名	2024	189	=189
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2024	192	=192
+国立路桥学校	Ecole Des Ponts Paristech	法国, 欧洲	QS世界大学排名	2024	192	=192
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2024	199	=199
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2024	202	202
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2024	205	205
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	QS世界大学排名	2024	207	207
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2024	208	208
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2024	210	210
+拉夫堡大学	Loughborough University	英国, 欧洲	QS世界大学排名	2024	212	212
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2024	213	213
+苏赛克斯大学	University of Sussex	英国, 欧洲	QS世界大学排名	2024	218	218
+帕多瓦大学	University of Padua	意大利, 欧洲	QS世界大学排名	2024	219	219
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2024	220	=220
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2024	222	=222
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2024	229	229
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2024	232	232
+赫瑞瓦特大学	Heriot-watt University	英国, 欧洲	QS世界大学排名	2024	235	235
+巴黎城大学	Université Paris Cité	法国, 欧洲	QS世界大学排名	2024	236	236
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2024	239	=239

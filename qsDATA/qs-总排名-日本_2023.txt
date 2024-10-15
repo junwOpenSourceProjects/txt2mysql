@@ -1,0 +1,51 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2023	23	23
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2023	36	36
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2023	55	55
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2023	68	68
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2023	79	79
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2023	112	=112
+九州大学	Kyushu University	日本, 亚洲	QS世界大学排名	2023	135	135
+北海道大学	Hokkaido University	日本, 亚洲	QS世界大学排名	2023	141	=141
+庆应义塾大学	Keio University	日本, 亚洲	QS世界大学排名	2023	197	=197
+早稻田大学	Waseda University	日本, 亚洲	QS世界大学排名	2023	205	=205
+筑波大学	University of Tsukuba	日本, 亚洲	QS世界大学排名	2023	312	=312
+广岛大学	Hiroshima University	日本, 亚洲	QS世界大学排名	2023	338	338
+神户大学	Kobe University	日本, 亚洲	QS世界大学排名	2023	363	=363
+东京医牙大学	Tokyo Medical And Dental University	日本, 亚洲	QS世界大学排名	2023	392	=392
+千叶大学	Chiba University	日本, 亚洲	QS世界大学排名	2023	490	=490
+横滨市立大学	Yokohama City University	日本, 亚洲	QS世界大学排名	2023	501	501-510
+一桥大学	Hitotsubashi University	日本, 亚洲	QS世界大学排名	2023	531	531-540
+新潟大学	Niigata University	日本, 亚洲	QS世界大学排名	2023	561	561-570
+长崎大学	Nagasaki University	日本, 亚洲	QS世界大学排名	2023	571	571-580
+岐阜大学	Gifu University	日本, 亚洲	QS世界大学排名	2023	601	601-650
+金泽大学	Kanazawa University	日本, 亚洲	QS世界大学排名	2023	601	601-650
+冈山大学	Okayama University	日本, 亚洲	QS世界大学排名	2023	601	601-650
+大阪市立大学	Osaka City University	日本, 亚洲	QS世界大学排名	2023	601	601-650
+群马大学	Gunma University	日本, 亚洲	QS世界大学排名	2023	651	651-700
+熊本大学	Kumamoto University	日本, 亚洲	QS世界大学排名	2023	651	651-700
+鹿儿岛大学	Kagoshima University	日本, 亚洲	QS世界大学排名	2023	701	701-750
+立命馆大学	Ritsumeikan University	日本, 亚洲	QS世界大学排名	2023	701	701-750
+德岛大学	The University of Tokushima	日本, 亚洲	QS世界大学排名	2023	701	701-750
+东京都立大学	Tokyo Metropolitan University	日本, 亚洲	QS世界大学排名	2023	701	701-750
+东京农工大学	Tokyo University of Agriculture And Technology	日本, 亚洲	QS世界大学排名	2023	701	701-750
+大阪府立大学	Osaka Prefecture University	日本, 亚洲	QS世界大学排名	2023	751	751-800
+国际基督教大学	International Christian University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+立命馆亚洲太平洋大学	Ritsumeikan Asia Pacific University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+信州大学	Shinshu University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+上智大学	Sophia University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+东京理科大学	Tokyo University of Science	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+山口大学	Yamaguchi University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+横滨国立大学	Yokohama National University	日本, 亚洲	QS世界大学排名	2023	801	801-1000
+同志社大学	Doshisha University	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+京都工艺纤维大学	Kyoto Institute of Technology	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+九州工业大学	Kyushu Institute of Technology	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+名古屋工业大学	Nagoya Institute of Technology, Nit	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+埼玉大学	Saitama University	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+东海大学，日本	Tokai University	日本, 亚洲	QS世界大学排名	2023	1001	1001-1200
+青山学院大学	Aoyama Gakuin University	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400
+近畿大学	Kindai University	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400
+关西学院大学	Kwansei Gakuin University	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400
+明治大学	Meiji University	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400
+立教大学	Rikkyo University	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400
+芝浦工业大学	Shibaura Institute of Technology	日本, 亚洲	QS世界大学排名	2023	1201	1201-1400

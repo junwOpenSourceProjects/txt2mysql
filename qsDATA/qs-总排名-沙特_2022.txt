@@ -1,0 +1,22 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	QS世界大学排名	2022	109	109
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	QS世界大学排名	2022	163	163
+哈里发大学	Khalifa University	沙特, 亚洲	QS世界大学排名	2022	183	183
+沙特国王大学	King Saud University	沙特, 亚洲	QS世界大学排名	2022	277	277
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	QS世界大学排名	2022	288	288
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	QS世界大学排名	2022	383	383
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	QS世界大学排名	2022	447	447
+伊玛目阿卜杜拉曼宾费萨尔大学	Imam Abdulrahman Bin Faisal University, Iau, Formerly University of Dammam	沙特, 亚洲	QS世界大学排名	2022	521	521-530
+迪拜美国大学	American University In Dubai	沙特, 亚洲	QS世界大学排名	2022	601	601-650
+沙迦大学	University of Sharjah	沙特, 亚洲	QS世界大学排名	2022	601	601-650
+哈立德国王大学	King Khalid University	沙特, 亚洲	QS世界大学排名	2022	651	651-700
+穆罕默德·本·法赫德亲王大学	Prince Mohammad Bin Fahd University	沙特, 亚洲	QS世界大学排名	2022	701	701-750
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	QS世界大学排名	2022	701	701-750
+约夫大学	Jouf University	沙特, 亚洲	QS世界大学排名	2022	701	701-750
+阿治曼大学	Ajman University	沙特, 亚洲	QS世界大学排名	2022	701	701-750
+努拉公主大学	Princess Nourah Bint Abdulrahman University	沙特, 亚洲	QS世界大学排名	2022	751	751-800
+麦地那伊斯兰大学	Islamic University of Madinah	沙特, 亚洲	QS世界大学排名	2022	801	801-1000
+卡西姆大学	Qassim University	沙特, 亚洲	QS世界大学排名	2022	801	801-1000
+费萨尔国王大学	King Faisal University	沙特, 亚洲	QS世界大学排名	2022	801	801-1000
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	QS世界大学排名	2022	1001	1001-1200
+泰巴大学	Taibah University	沙特, 亚洲	QS世界大学排名	2022	1001	1001-1200

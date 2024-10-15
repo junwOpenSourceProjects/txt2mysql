@@ -1,0 +1,12 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	QS世界大学排名	2014	216	=216
+沙特国王大学	King Saud University	沙特, 亚洲	QS世界大学排名	2014	253	=253
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	QS世界大学排名	2014	360	=360
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	QS世界大学排名	2014	421	421-430
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	QS世界大学排名	2014	431	431-440
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	QS世界大学排名	2014	491	491-500
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	QS世界大学排名	2014	551	551-600
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	QS世界大学排名	2014	601	601-650
+哈立德国王大学	King Khalid University	沙特, 亚洲	QS世界大学排名	2014	601	601-650
+费萨尔国王大学	King Faisal University	沙特, 亚洲	QS世界大学排名	2014	701	701+
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	QS世界大学排名	2014	9999	N/A

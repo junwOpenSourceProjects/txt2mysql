@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2022	1	1
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2022	3	3
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2022	5	5
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2022	6	6
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2022	10	10
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2022	13	13
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2022	14	14
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2022	19	19
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2022	20	20
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2022	21	21
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2022	23	23
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2022	25	25
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2022	30	30
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2022	32	32
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2022	40	40
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2022	42	42
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2022	48	48
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2022	52	52
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2022	53	53
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2022	60	60
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2022	67	67
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2022	75	75
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2022	82	82
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2022	85	85
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2022	88	88
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2022	94	94
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2022	96	96
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2022	100	100
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	QS世界大学排名	2022	107	107
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2022	112	112
+南加州大学	University of Southern California	美国, 北美洲	QS世界大学排名	2022	112	112
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	QS世界大学排名	2022	116	116
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	QS世界大学排名	2022	120	120
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2022	138	138
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	QS世界大学排名	2022	146	146
+罗切斯特大学	University of Rochester	美国, 北美洲	QS世界大学排名	2022	154	154
+密歇根州立大学	Michigan State University	美国, 北美洲	QS世界大学排名	2022	157	157
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	QS世界大学排名	2022	158	158
+埃莫里大学	Emory University	美国, 北美洲	QS世界大学排名	2022	160	160
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	QS世界大学排名	2022	161	161
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	QS世界大学排名	2022	163	163
+德州农工大学	Texas A&m University	美国, 北美洲	QS世界大学排名	2022	168	168
+佛罗里达大学	University of Florida	美国, 北美洲	QS世界大学排名	2022	173	173
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	QS世界大学排名	2022	186	186
+达特茅斯学院	Dartmouth College	美国, 北美洲	QS世界大学排名	2022	191	191
+亚利桑那州立大学	Arizona State University	美国, 北美洲	QS世界大学排名	2022	216	216
+范德堡大学	Vanderbilt University	美国, 北美洲	QS世界大学排名	2022	218	218
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	QS世界大学排名	2022	222	222
+弗吉尼亚大学	University of Virginia	美国, 北美洲	QS世界大学排名	2022	226	226
+加州大学-欧文	University of California, Irvine	美国, 北美洲	QS世界大学排名	2022	232	232
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	QS世界大学排名	2022	246	246
+乔治城大学	Georgetown University	美国, 北美洲	QS世界大学排名	2022	248	248
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	QS世界大学排名	2022	251	251
+叶史瓦大学	Yeshiva University	美国, 北美洲	QS世界大学排名	2022	252	252
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	QS世界大学排名	2022	264	264
+亚利桑那大学	University of Arizona	美国, 北美洲	QS世界大学排名	2022	268	268
+塔夫茨大学	Tufts University	美国, 北美洲	QS世界大学排名	2022	275	275
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	QS世界大学排名	2022	285	285
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	QS世界大学排名	2022	300	300
+迈阿密大学	University of Miami	美国, 北美洲	QS世界大学排名	2022	311	311
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	QS世界大学排名	2022	311	311
+夏威夷大学马诺阿分校	University of Hawaii At Manoa	美国, 北美洲	QS世界大学排名	2022	340	340
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	QS世界大学排名	2022	342	342
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	QS世界大学排名	2022	346	346
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	QS世界大学排名	2022	347	347
+乔治华盛顿大学	The George Washington University	美国, 北美洲	QS世界大学排名	2022	355	355
+犹他大学	University of Utah	美国, 北美洲	QS世界大学排名	2022	358	358
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	QS世界大学排名	2022	373	373
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	QS世界大学排名	2022	378	378
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	QS世界大学排名	2022	387	387
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	QS世界大学排名	2022	388	388
+加州大学-河滨	University of California, Riverside	美国, 北美洲	QS世界大学排名	2022	403	403
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	QS世界大学排名	2022	414	414
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	QS世界大学排名	2022	427	427
+维克森林大学	Wake Forest University	美国, 北美洲	QS世界大学排名	2022	429	429
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	QS世界大学排名	2022	431	431
+科罗拉多州立大学	Colorado State University	美国, 北美洲	QS世界大学排名	2022	431	431
+杜兰大学	Tulane University	美国, 北美洲	QS世界大学排名	2022	436	436
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	QS世界大学排名	2022	444	444
+爱荷华大学	University of Iowa	美国, 北美洲	QS世界大学排名	2022	455	455
+布兰迪斯大学	Brandeis University	美国, 北美洲	QS世界大学排名	2022	455	455
+科罗拉多矿业大学	Colorado School of Mines	美国, 北美洲	QS世界大学排名	2022	461	461
+佛罗里达州立大学	Florida State University	美国, 北美洲	QS世界大学排名	2022	475	475
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	QS世界大学排名	2022	476	476
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	QS世界大学排名	2022	477	477
+爱荷华州立大学	Iowa State University	美国, 北美洲	QS世界大学排名	2022	494	494
+波士顿学院	Boston College	美国, 北美洲	QS世界大学排名	2022	494	494
+韦恩州立大学	Wayne State University	美国, 北美洲	QS世界大学排名	2022	511	511-520
+密苏里科技大学	Missouri University of Science And Technology	美国, 北美洲	QS世界大学排名	2022	511	511-520
+俄勒冈州立大学	Oregon State University	美国, 北美洲	QS世界大学排名	2022	531	531-540
+特拉华大学	University of Delaware	美国, 北美洲	QS世界大学排名	2022	531	531-540
+利哈伊大学	Lehigh University	美国, 北美洲	QS世界大学排名	2022	531	531-540
+圣约瑟夫大学	Saint Joseph University of Beirut, Usj	美国, 北美洲	QS世界大学排名	2022	531	531-540
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	QS世界大学排名	2022	541	541-550
+佐治亚大学	University of Georgia	美国, 北美洲	QS世界大学排名	2022	541	541-550
+新学院	The New School	美国, 北美洲	QS世界大学排名	2022	561	561-570
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	QS世界大学排名	2022	571	571-580
+南佛罗里达大学	University of South Florida	美国, 北美洲	QS世界大学排名	2022	581	581-590
+克拉克大学	Clark University	美国, 北美洲	QS世界大学排名	2022	601	601-650
+史密斯学院	Smith College	美国, 北美洲	QS世界大学排名	2022	601	601-650

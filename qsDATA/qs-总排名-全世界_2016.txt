@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2016	1	1
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2016	2	2
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2016	3	=3
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2016	3	=3
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2016	5	5
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2016	6	6
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2016	7	7
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2016	8	8
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2016	9	9
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2016	10	10
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2016	11	11
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	QS世界大学排名	2016	12	12
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	QS世界大学排名	2016	13	13
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2016	14	14
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2016	15	15
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2016	16	16
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2016	17	17
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2016	18	18
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2016	19	=19
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	QS世界大学排名	2016	19	=19
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2016	21	21
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2016	22	22
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	QS世界大学排名	2016	23	23
+麦吉尔大学	Mcgill University	加拿大, 北美洲	QS世界大学排名	2016	24	24
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2016	25	25
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2016	26	26
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2016	27	27
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	QS世界大学排名	2016	28	28
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2016	29	29
+香港大学	The University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2016	30	=30
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2016	30	=30
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2016	32	32
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2016	33	33
+多伦多大学	University of Toronto	加拿大, 北美洲	QS世界大学排名	2016	34	34
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2016	35	35
+首尔国立大学	Seoul National University	韩国, 亚洲	QS世界大学排名	2016	36	36
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2016	37	37
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2016	38	38
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2016	39	39
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2016	40	40
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2016	41	41
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	QS世界大学排名	2016	42	42
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	QS世界大学排名	2016	43	43
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2016	44	44
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	QS世界大学排名	2016	45	45
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	QS世界大学排名	2016	46	=46
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	QS世界大学排名	2016	46	=46
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2016	48	48
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2016	49	49
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	QS世界大学排名	2016	50	50
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2016	51	=51
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2016	51	=51
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2016	53	53
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2016	54	54
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2016	55	55
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2016	56	56
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2016	57	57
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2016	58	58
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2016	59	59
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2016	60	60
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2016	61	61
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2016	62	=62
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2016	62	=62
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2016	64	64
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2016	65	65
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2016	66	66
+莫纳什大学	Monash University	澳大利亚, 大洋洲	QS世界大学排名	2016	67	67
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2016	68	68
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2016	69	69
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2016	70	=70
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2016	70	=70
+台湾大学	National Taiwan University	中国台湾, 亚洲	QS世界大学排名	2016	70	=70
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2016	70	=70
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2016	74	74
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2016	75	75
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2016	76	76
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2016	77	77
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2016	78	78
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2016	79	79
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2016	80	80
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2016	81	81
+奥克兰大学，新西兰	The University of Auckland	新西兰, 大洋洲	QS世界大学排名	2016	82	=82
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2016	82	=82
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2016	84	84
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2016	85	=85
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2016	85	=85
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2016	87	=87
+浦项理工大学	Pohang University of Science And Technology	韩国, 亚洲	QS世界大学排名	2016	87	=87
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2016	89	=89
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	QS世界大学排名	2016	89	=89
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2016	91	91
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2016	92	92
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2016	93	93
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2016	94	94
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2016	95	95
+阿尔伯塔大学	University of Alberta	加拿大, 北美洲	QS世界大学排名	2016	96	=96
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2016	96	=96
+西澳大利亚大学	The University of Western Australia	澳大利亚, 大洋洲	QS世界大学排名	2016	98	98
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	QS世界大学排名	2016	99	99
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2016	100	100

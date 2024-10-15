@@ -1,0 +1,9 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	计算机科学	2024	187	=187
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	计算机科学	2024	251	251-300
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	计算机科学	2024	451	451-500
+弗罗茨瓦夫理工大学	Wroclaw University of Technology	波兰, 欧洲	计算机科学	2024	451	451-500
+克拉科夫阿格大学	Agh University Krakow	波兰, 欧洲	计算机科学	2024	501	501-550
+格但斯克工业大学	Gdansk University of Technology	波兰, 欧洲	计算机科学	2024	651	651-700
+克拉科夫技术大学	Cracow University of Technology, Politechnika Krakowska	波兰, 欧洲	计算机科学	2024	701	701-720
+波兹南工业大学	Poznań University of Technology	波兰, 欧洲	计算机科学	2024	701	701-720

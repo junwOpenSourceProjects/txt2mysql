@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2020	1	1
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2020	2	2
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2020	3	3
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2020	5	5
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2020	10	10
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2020	13	13
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2020	14	14
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2020	15	15
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2020	17	17
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2020	18	18
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2020	21	21
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2020	24	24
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2020	25	25
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2020	28	28
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2020	31	31
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2020	35	35
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2020	39	39
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2020	45	45
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2020	48	48
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2020	56	56
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2020	57	57
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2020	65	65
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2020	68	68
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2020	72	72
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2020	75	75
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2020	85	85
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2020	90	90
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2020	93	93
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2020	98	98
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	QS世界大学排名	2020	101	101
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2020	104	104
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	QS世界大学排名	2020	108	108
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	QS世界大学排名	2020	111	111
+南加州大学	University of Southern California	美国, 北美洲	QS世界大学排名	2020	129	129
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	QS世界大学排名	2020	135	135
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	QS世界大学排名	2020	136	136
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	QS世界大学排名	2020	140	140
+密歇根州立大学	Michigan State University	美国, 北美洲	QS世界大学排名	2020	144	144
+埃莫里大学	Emory University	美国, 北美洲	QS世界大学排名	2020	156	156
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	QS世界大学排名	2020	156	156
+凯斯西储大学	Case Western Reserve University	美国, 北美洲	QS世界大学排名	2020	167	=167
+佛罗里达大学	University of Florida	美国, 北美洲	QS世界大学排名	2020	167	167
+罗切斯特大学	University of Rochester	美国, 北美洲	QS世界大学排名	2020	170	170
+德州农工大学	Texas A&m University	美国, 北美洲	QS世界大学排名	2020	189	189
+弗吉尼亚大学	University of Virginia	美国, 北美洲	QS世界大学排名	2020	198	198
+范德堡大学	Vanderbilt University	美国, 北美洲	QS世界大学排名	2020	200	200
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	QS世界大学排名	2020	206	206
+达特茅斯学院	Dartmouth College	美国, 北美洲	QS世界大学排名	2020	207	207
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	QS世界大学排名	2020	210	210
+亚利桑那州立大学	Arizona State University	美国, 北美洲	QS世界大学排名	2020	215	215
+加州大学-欧文	University of California, Irvine	美国, 北美洲	QS世界大学排名	2020	219	219
+乔治城大学	Georgetown University	美国, 北美洲	QS世界大学排名	2020	226	226
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	QS世界大学排名	2020	231	231
+塔夫茨大学	Tufts University	美国, 北美洲	QS世界大学排名	2020	253	253
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	QS世界大学排名	2020	262	262
+亚利桑那大学	University of Arizona	美国, 北美洲	QS世界大学排名	2020	262	262
+迈阿密大学	University of Miami	美国, 北美洲	QS世界大学排名	2020	271	271
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	QS世界大学排名	2020	285	285
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	QS世界大学排名	2020	305	305
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	QS世界大学排名	2020	312	312
+夏威夷大学马诺阿分校	University of Hawaii At Manoa	美国, 北美洲	QS世界大学排名	2020	326	326
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	QS世界大学排名	2020	327	327
+乔治华盛顿大学	The George Washington University	美国, 北美洲	QS世界大学排名	2020	336	336
+纽约州立大学-布法罗	University At Buffalo, The State University of New York	美国, 北美洲	QS世界大学排名	2020	340	340
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	QS世界大学排名	2020	344	344
+犹他大学	University of Utah	美国, 北美洲	QS世界大学排名	2020	353	353
+纽约州立大学-石溪	Stony Brook University	美国, 北美洲	QS世界大学排名	2020	359	359
+叶史瓦大学	Yeshiva University	美国, 北美洲	QS世界大学排名	2020	359	359
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	QS世界大学排名	2020	367	367
+堪萨斯大学-劳伦斯	University of Kansas	美国, 北美洲	QS世界大学排名	2020	372	372
+康涅狄格大学-斯道思	University of Connecticut	美国, 北美洲	QS世界大学排名	2020	377	377
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	QS世界大学排名	2020	383	383
+科罗拉多大学-丹佛	University of Colorado At Denver	美国, 北美洲	QS世界大学排名	2020	392	392
+维克森林大学	Wake Forest University	美国, 北美洲	QS世界大学排名	2020	398	398
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	QS世界大学排名	2020	400	400
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	QS世界大学排名	2020	407	407
+杜兰大学	Tulane University	美国, 北美洲	QS世界大学排名	2020	419	419
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	QS世界大学排名	2020	421	421
+爱荷华大学	University of Iowa	美国, 北美洲	QS世界大学排名	2020	421	421
+波士顿学院	Boston College	美国, 北美洲	QS世界大学排名	2020	432	432
+科罗拉多州立大学	Colorado State University	美国, 北美洲	QS世界大学排名	2020	442	442
+佛罗里达州立大学	Florida State University	美国, 北美洲	QS世界大学排名	2020	448	448
+加州大学-河滨	University of California, Riverside	美国, 北美洲	QS世界大学排名	2020	454	454
+马里兰大学-巴尔的摩县	University of Maryland, Baltimore County	美国, 北美洲	QS世界大学排名	2020	460	460
+俄勒冈州立大学	Oregon State University	美国, 北美洲	QS世界大学排名	2020	461	461
+布兰迪斯大学	Brandeis University	美国, 北美洲	QS世界大学排名	2020	468	468
+佐治亚大学	University of Georgia	美国, 北美洲	QS世界大学排名	2020	474	474
+韦恩州立大学	Wayne State University	美国, 北美洲	QS世界大学排名	2020	484	484
+特拉华大学	University of Delaware	美国, 北美洲	QS世界大学排名	2020	491	491
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	QS世界大学排名	2020	501	501-510
+爱荷华州立大学	Iowa State University	美国, 北美洲	QS世界大学排名	2020	511	511-520
+克拉克大学	Clark University	美国, 北美洲	QS世界大学排名	2020	531	531-540
+利哈伊大学	Lehigh University	美国, 北美洲	QS世界大学排名	2020	551	551-560
+密苏里大学-哥伦比亚	University of Missouri, Columbia	美国, 北美洲	QS世界大学排名	2020	551	551-560
+德雷塞尔大学	Drexel University	美国, 北美洲	QS世界大学排名	2020	561	561-570
+新学院	The New School	美国, 北美洲	QS世界大学排名	2020	561	561-570
+圣约瑟夫大学	Saint Joseph University of Beirut, Usj	美国, 北美洲	QS世界大学排名	2020	561	561-570
+辛辛那提大学	University of Cincinnati	美国, 北美洲	QS世界大学排名	2020	561	561-570
+内布拉斯加大学-林肯	University of Nebraska, Lincoln	美国, 北美洲	QS世界大学排名	2020	561	561-570
+南卡罗来纳大学-哥伦比亚	University of South Carolina, Columbia	美国, 北美洲	QS世界大学排名	2020	561	561-570

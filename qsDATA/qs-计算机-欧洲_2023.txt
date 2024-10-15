@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2023	5	5
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2023	7	7
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2023	9	9
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2023	10	10
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2023	15	=15
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2023	20	20
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2023	24	24
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2023	29	=29
+巴黎理工学院	Institut Polytechnique De Paris	法国, 欧洲	计算机科学	2023	31	31
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2023	33	33
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2023	34	=34
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2023	41	=41
+巴黎文理研究大学	Université Psl	法国, 欧洲	计算机科学	2023	46	46
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2023	47	=47
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2023	50	=50
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2023	54	54
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2023	62	62
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2023	63	63
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	计算机科学	2023	64	64
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2023	65	65
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2023	69	69
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2023	70	70
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2023	71	71
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2023	73	=73
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2023	77	77
+圣彼得堡国立信息技术、机械与光学大学	Itmo University	俄罗斯, 欧洲	计算机科学	2023	79	79
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2023	82	82
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2023	84	84
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2023	88	=88
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2023	90	90
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2023	91	=91
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	计算机科学	2023	91	=91
+国立南特高等矿业学院	Imt Atlantique	法国, 欧洲	计算机科学	2023	98	=98
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2023	101	=101
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	计算机科学	2023	101	=101
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2023	104	=104
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	计算机科学	2023	106	=106
+莫斯科物理技术学院	Moscow Institute of Physics And Technology	俄罗斯, 欧洲	计算机科学	2023	117	117
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2023	118	=118
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2023	122	=122
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2023	124	=124
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	计算机科学	2023	124	=124
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	计算机科学	2023	128	=128
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	计算机科学	2023	128	=128
+苏黎世大学	University of Zurich	瑞士, 欧洲	计算机科学	2023	130	=130
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2023	133	=133
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	计算机科学	2023	133	=133
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2023	136	=136
+格勒诺布尔大学	Université Grenoble Alpes	法国, 欧洲	计算机科学	2023	136	=136
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2023	138	138
+奥胡斯大学	Aarhus University	丹麦, 欧洲	计算机科学	2023	140	=140
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2023	140	=140
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2023	140	=140
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2023	144	144
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2023	151	151-200
+莫斯科国立鲍曼技术大学	Bauman Moscow State Technical University	俄罗斯, 欧洲	计算机科学	2023	151	151-200
+格勒诺布尔国立综合理工学院	Grenoble Institute of Technology	法国, 欧洲	计算机科学	2023	151	151-200
+俄罗斯高等经济研究大学	National Research University Higher School of Economics	俄罗斯, 欧洲	计算机科学	2023	151	151-200
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2023	151	151-200
+莱顿大学	Leiden University	荷兰, 欧洲	计算机科学	2023	151	151-200
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	计算机科学	2023	151	151-200
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2023	151	151-200
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2023	151	151-200
+圣彼得堡国立大学	Saint Petersburg State University	俄罗斯, 欧洲	计算机科学	2023	151	151-200
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2023	151	151-200
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2023	151	151-200
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	计算机科学	2023	151	151-200
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	计算机科学	2023	151	151-200
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2023	151	151-200
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2023	151	151-200
+特文特大学	University of Twente	荷兰, 欧洲	计算机科学	2023	151	151-200
+维也纳大学	University of Vienna	奥地利, 欧洲	计算机科学	2023	151	151-200
+约克大学，约克	University of York	英国, 欧洲	计算机科学	2023	151	151-200
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	计算机科学	2023	151	151-200
+乌得勒支大学	Utrecht University	荷兰, 欧洲	计算机科学	2023	151	151-200
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2023	201	201-250
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	计算机科学	2023	201	201-250
+布拉格捷克理工大学	Czech Technical University In Prague	捷克, 欧洲	计算机科学	2023	201	201-250
+都柏林城市大学	Dublin City University	爱尔兰, 欧洲	计算机科学	2023	201	201-250
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2023	201	201-250
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2023	201	201-250
+格拉茨技术大学	Graz University of Technology	奥地利, 欧洲	计算机科学	2023	201	201-250
+国立里昂应用科学学院	Institut National Des Sciences Appliquées De Lyon，insa Lyon	法国, 欧洲	计算机科学	2023	201	201-250
+隆德大学	Lund University	瑞典, 欧洲	计算机科学	2023	201	201-250
+雅典国家技术大学	National Technical University of Athens	希腊, 欧洲	计算机科学	2023	201	201-250
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	计算机科学	2023	201	201-250
+斯旺西大学	Swansea University	英国, 欧洲	计算机科学	2023	201	201-250
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2023	201	201-250
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2023	201	201-250
+瓦伦西亚理工大学	Polytechnic University of Valencia	西班牙, 欧洲	计算机科学	2023	201	201-250
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	计算机科学	2023	201	201-250
+科克大学学院	University College Cork	爱尔兰, 欧洲	计算机科学	2023	201	201-250
+格拉纳达大学	University of Granada	西班牙, 欧洲	计算机科学	2023	201	201-250
+格罗宁根大学	University of Groningen	荷兰, 欧洲	计算机科学	2023	201	201-250
+利兹大学	University of Leeds	英国, 欧洲	计算机科学	2023	201	201-250
+里斯本大学	University of Lisbon	葡萄牙, 欧洲	计算机科学	2023	201	201-250
+利物浦大学	University of Liverpool	英国, 欧洲	计算机科学	2023	201	201-250
+米兰大学	University of Milan	意大利, 欧洲	计算机科学	2023	201	201-250
+诺丁汉大学	University of Nottingham	英国, 欧洲	计算机科学	2023	201	201-250
+华沙大学	University of Warsaw	波兰, 欧洲	计算机科学	2023	201	201-250

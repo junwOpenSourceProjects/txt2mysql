@@ -1,0 +1,71 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2015	1	1
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2015	2	2
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2015	4	=4
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2015	4	=4
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2015	6	6
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2015	9	=9
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2015	17	17
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2015	20	20
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2015	22	22
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2015	27	=27
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2015	27	=27
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2015	30	30
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2015	31	31
+纽约大学	New York University	美国, 北美洲	计算机科学	2015	32	=32
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2015	34	34
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2015	39	=39
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2015	41	41
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2015	44	=44
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2015	47	47
+布朗大学	Brown University	美国, 北美洲	计算机科学	2015	51	51-100
+杜克大学	Duke University	美国, 北美洲	计算机科学	2015	51	51-100
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2015	51	51-100
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2015	51	51-100
+加州大学-欧文	University of California, Irvine	美国, 北美洲	计算机科学	2015	51	51-100
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2015	51	51-100
+马萨诸塞大学-阿默斯特	University of Massachusetts Amherst	美国, 北美洲	计算机科学	2015	51	51-100
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2015	51	51-100
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2015	51	51-100
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	计算机科学	2015	51	51-100
+波士顿大学	Boston University	美国, 北美洲	计算机科学	2015	101	101-150
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2015	101	101-150
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	计算机科学	2015	101	101-150
+俄亥俄州立大学-哥伦布	The Ohio State University, Columbus	美国, 北美洲	计算机科学	2015	101	101-150
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	计算机科学	2015	101	101-150
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	计算机科学	2015	101	101-150
+印第安纳大学-布鲁明顿	Indiana University Bloomington	美国, 北美洲	计算机科学	2015	151	151-200
+密歇根州立大学	Michigan State University	美国, 北美洲	计算机科学	2015	151	151-200
+北卡罗来纳州立大学-罗利	North Carolina State University, Raleigh	美国, 北美洲	计算机科学	2015	151	151-200
+东北大学，波士顿	Northeastern University, Boston	美国, 北美洲	计算机科学	2015	151	151-200
+德州农工大学	Texas A&m University	美国, 北美洲	计算机科学	2015	151	151-200
+加州大学-圣塔芭芭拉	University of California, Santa Barbara	美国, 北美洲	计算机科学	2015	151	151-200
+明尼苏达大学-双城	University of Minnesota, Twin Cities	美国, 北美洲	计算机科学	2015	151	151-200
+匹兹堡大学	University of Pittsburgh	美国, 北美洲	计算机科学	2015	151	151-200
+亚利桑那州立大学	Arizona State University	美国, 北美洲	计算机科学	2015	201	201-250
+伦斯勒理工学院	Rensselaer Polytechnic Institute	美国, 北美洲	计算机科学	2015	201	201-250
+莱斯大学	Rice University	美国, 北美洲	计算机科学	2015	201	201-250
+罗格斯大学新布朗斯维克分校	Rutgers, The State University of New Jersey - New Brunswick	美国, 北美洲	计算机科学	2015	201	201-250
+科罗拉多大学-玻尔得	University of Colorado At Boulder	美国, 北美洲	计算机科学	2015	201	201-250
+伊利诺伊大学芝加哥分校	University of Illinois At Chicago	美国, 北美洲	计算机科学	2015	201	201-250
+弗吉尼亚大学	University of Virginia	美国, 北美洲	计算机科学	2015	201	201-250
+弗吉尼亚理工学院	Virginia Polytechnic Institute And State University	美国, 北美洲	计算机科学	2015	201	201-250
+达特茅斯学院	Dartmouth College	美国, 北美洲	计算机科学	2015	251	251-300
+伊利诺伊理工大学	Illinois Institute of Technology	美国, 北美洲	计算机科学	2015	251	251-300
+亚利桑那大学	University of Arizona	美国, 北美洲	计算机科学	2015	251	251-300
+加州大学-圣克鲁兹	University of California, Santa Cruz	美国, 北美洲	计算机科学	2015	251	251-300
+犹他大学	University of Utah	美国, 北美洲	计算机科学	2015	251	251-300
+范德堡大学	Vanderbilt University	美国, 北美洲	计算机科学	2015	251	251-300
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	计算机科学	2015	251	251-300
+佛罗里达州立大学	Florida State University	美国, 北美洲	计算机科学	2015	301	301-400
+乔治华盛顿大学	The George Washington University	美国, 北美洲	计算机科学	2015	301	301-400
+乔治城大学	Georgetown University	美国, 北美洲	计算机科学	2015	301	301-400
+加州大学-河滨	University of California, Riverside	美国, 北美洲	计算机科学	2015	301	301-400
+佛罗里达大学	University of Florida	美国, 北美洲	计算机科学	2015	301	301-400
+新墨西哥大学-阿尔伯克基	The University of New Mexico, Albuquerque	美国, 北美洲	计算机科学	2015	301	301-400
+圣母玛利亚大学	University of Notre Dame	美国, 北美洲	计算机科学	2015	301	301-400
+罗切斯特大学	University of Rochester	美国, 北美洲	计算机科学	2015	301	301-400
+田纳西大学-诺克斯维尔	University of Tennessee, Knoxville	美国, 北美洲	计算机科学	2015	301	301-400
+德克萨斯大学-达拉斯	The University of Texas At Dallas	美国, 北美洲	计算机科学	2015	301	301-400
+华盛顿州立大学-普尔曼	Washington State University	美国, 北美洲	计算机科学	2015	301	301-400
+伍斯特理工学院	Worcester Polytechnic Institute	美国, 北美洲	计算机科学	2015	301	301-400

@@ -1,0 +1,46 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2016	60	60
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2016	66	66
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2016	75	75
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2016	93	93
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2016	119	119
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2016	126	=126
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2016	133	=133
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2016	145	145
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2016	168	168
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2016	173	=173
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2016	178	178
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2016	210	210
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2016	219	=219
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2016	227	227
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2016	243	=243
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2016	246	246
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2016	251	251
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2016	256	=256
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2016	292	292
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2016	319	=319
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2016	331	=331
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2016	338	=338
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2016	351	=351
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2016	366	366
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2016	375	375
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2016	381	=381
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2016	384	=384
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2016	394	=394
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2016	401	401-410
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2016	401	401-410
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2016	421	421-430
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2016	451	451-460
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2016	461	461-470
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2016	491	491-500
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2016	491	491-500
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2016	501	501-550
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2016	501	501-550
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2016	501	501-550
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2016	551	551-600
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2016	551	551-600
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2016	551	551-600
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2016	551	551-600
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2016	601	601-650
+欧洲商学院（EBS）大学	European Business School (ebs) University	德国, 欧洲	QS世界大学排名	2016	9999	N/A
+奥托拜斯海姆管理学院	Whu - Otto Beisheim School of Management	德国, 欧洲	QS世界大学排名	2016	9999	N/A

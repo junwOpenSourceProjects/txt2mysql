@@ -1,0 +1,48 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2021	50	50
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2021	63	63
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2021	64	64
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2021	117	117
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2021	130	130
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2021	131	131
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2021	145	145
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2021	148	148
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2021	173	173
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2021	175	175
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2021	175	175
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2021	195	195
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2021	228	228
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2021	240	240
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	QS世界大学排名	2021	267	267
+科隆大学	University of Cologne	德国, 欧洲	QS世界大学排名	2021	282	282
+曼海姆大学	Universität Mannheim	德国, 欧洲	QS世界大学排名	2021	307	307
+法兰克福大学	University of Frankfurt	德国, 欧洲	QS世界大学排名	2021	311	311
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	QS世界大学排名	2021	317	317
+耶拿大学	University of Jena	德国, 欧洲	QS世界大学排名	2021	323	323
+斯图加特大学	University of Stuttgart	德国, 欧洲	QS世界大学排名	2021	333	333
+乌尔姆大学	University of Ulm	德国, 欧洲	QS世界大学排名	2021	344	344
+明斯特大学	University of Muenster	德国, 欧洲	QS世界大学排名	2021	356	356
+美因茨大学	University of Mainz	德国, 欧洲	QS世界大学排名	2021	403	403
+维尔茨堡大学	University of Wuerzburg	德国, 欧洲	QS世界大学排名	2021	437	437
+波鸿大学	University of Bochum	德国, 欧洲	QS世界大学排名	2021	439	439
+康斯坦茨大学	University of Konstanz	德国, 欧洲	QS世界大学排名	2021	443	443
+萨尔大学	Saarland University	德国, 欧洲	QS世界大学排名	2021	451	451
+哈勒-维腾贝格大学	Martin-luther-universität Halle-wittenberg	德国, 欧洲	QS世界大学排名	2021	470	470
+莱比锡大学	University of Leipzig	德国, 欧洲	QS世界大学排名	2021	483	483
+德国基尔大学	University of Kiel	德国, 欧洲	QS世界大学排名	2021	501	501-510
+拜罗伊特大学	University of Bayreuth	德国, 欧洲	QS世界大学排名	2021	521	521-530
+吉森大学	University of Giessen	德国, 欧洲	QS世界大学排名	2021	531	531-540
+不来梅大学	University of Bremen	德国, 欧洲	QS世界大学排名	2021	541	541-550
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	QS世界大学排名	2021	551	551-560
+雷根斯堡大学	University of Regensburg	德国, 欧洲	QS世界大学排名	2021	601	601-650
+汉诺威大学	University of Hannover	德国, 欧洲	QS世界大学排名	2021	651	651-700
+马尔堡大学	University of Marburg	德国, 欧洲	QS世界大学排名	2021	651	651-700
+霍恩海姆大学	University of Hohenheim	德国, 欧洲	QS世界大学排名	2021	651	651-700
+罗斯托克大学	University of Rostock	德国, 欧洲	QS世界大学排名	2021	701	701-750
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	QS世界大学排名	2021	751	751-800
+杜塞尔多夫大学	University of Duesseldorf	德国, 欧洲	QS世界大学排名	2021	751	751-800
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	QS世界大学排名	2021	801	801-1000
+比勒费尔德大学	Bielefeld University	德国, 欧洲	QS世界大学排名	2021	801	801-1000
+波茨坦大学	University of Potsdam	德国, 欧洲	QS世界大学排名	2021	801	801-1000
+锡根大学	Universität Siegen	德国, 欧洲	QS世界大学排名	2021	1001	1001+
+奥托拜斯海姆管理学院	Whu - Otto Beisheim School of Management	德国, 欧洲	QS世界大学排名	2021	9999	N/A

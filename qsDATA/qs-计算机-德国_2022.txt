@@ -1,0 +1,31 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2022	29	=29
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2022	68	=68
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2022	86	=86
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2022	89	=89
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2022	98	=98
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2022	123	=123
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2022	151	151-200
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2022	151	151-200
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2022	201	201-250
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2022	201	201-250
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2022	201	201-250
+萨尔大学	Saarland University	德国, 欧洲	计算机科学	2022	201	201-250
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2022	251	251-300
+汉堡大学	University of Hamburg	德国, 欧洲	计算机科学	2022	251	251-300
+图宾根大学	University of Tuebingen	德国, 欧洲	计算机科学	2022	301	301-350
+法兰克福大学	University of Frankfurt	德国, 欧洲	计算机科学	2022	301	301-350
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	计算机科学	2022	301	301-350
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2022	301	301-350
+汉诺威大学	University of Hannover	德国, 欧洲	计算机科学	2022	351	351-400
+明斯特大学	University of Muenster	德国, 欧洲	计算机科学	2022	351	351-400
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2022	401	401-450
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	计算机科学	2022	501	501-550
+凯泽斯劳滕大学	Technische Universitt Kaiserslautern	德国, 欧洲	计算机科学	2022	501	501-550
+哥廷根大学	University of Goettingen	德国, 欧洲	计算机科学	2022	501	501-550
+莱比锡大学	University of Leipzig	德国, 欧洲	计算机科学	2022	501	501-550
+不来梅大学	University of Bremen	德国, 欧洲	计算机科学	2022	501	501-550
+波茨坦大学	University of Potsdam	德国, 欧洲	计算机科学	2022	551	551-600
+波鸿大学	University of Bochum	德国, 欧洲	计算机科学	2022	601	601-650
+科隆大学	University of Cologne	德国, 欧洲	计算机科学	2022	601	601-650
+乌尔姆大学	University of Ulm	德国, 欧洲	计算机科学	2022	651	651-670

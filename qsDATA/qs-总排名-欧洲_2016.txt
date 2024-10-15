@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2016	3	=3
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2016	6	6
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2016	7	7
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2016	8	8
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2016	9	9
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2016	14	14
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2016	19	=19
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2016	21	21
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	QS世界大学排名	2016	23	23
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2016	33	33
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2016	35	35
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2016	37	37
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2016	40	40
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2016	48	48
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2016	55	55
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2016	60	60
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2016	61	61
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2016	62	=62
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2016	64	64
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2016	66	66
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2016	68	68
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2016	69	69
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2016	70	=70
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2016	70	=70
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2016	75	75
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2016	76	76
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2016	78	78
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2016	80	80
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2016	81	81
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2016	82	=82
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2016	85	=85
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2016	87	=87
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2016	89	=89
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2016	92	92
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2016	93	93
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2016	94	94
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2016	95	95
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2016	96	=96
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2016	100	100
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2016	102	102
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2016	103	103
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2016	107	107
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2016	108	108
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2016	109	109
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2016	112	112
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2016	117	117
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2016	119	119
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2016	121	121
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2016	122	122
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2016	124	=124
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2016	126	=126
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2016	126	=126
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2016	132	132
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2016	133	=133
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2016	135	=135
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2016	135	=135
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2016	137	=137
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	QS世界大学排名	2016	137	=137
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2016	139	=139
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2016	139	=139
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2016	143	=143
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2016	145	145
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2016	149	=149
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2016	151	151
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2016	153	153
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2016	154	154
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	QS世界大学排名	2016	156	=156
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2016	156	=156
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2016	159	=159
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2016	161	161
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2016	162	162
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2016	166	=166
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2016	166	=166
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2016	168	168
+马斯特里赫特大学	Maastricht University	荷兰, 欧洲	QS世界大学排名	2016	169	169
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2016	173	=173
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	QS世界大学排名	2016	176	176
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2016	177	177
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2016	178	178
+卑尔根大学	University of Bergen	挪威, 欧洲	QS世界大学排名	2016	181	181
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2016	182	=182
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2016	182	=182
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2016	186	186
+苏赛克斯大学	University of Sussex	英国, 欧洲	QS世界大学排名	2016	187	=187
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	QS世界大学排名	2016	187	=187
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2016	188	=188
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2016	188	=188
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2016	190	=190
+布鲁塞尔自由大学，佛兰德语	Vrije Universiteit Brussel, Vub	比利时, 欧洲	QS世界大学排名	2016	194	194
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	QS世界大学排名	2016	197	197
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2016	204	=204
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	QS世界大学排名	2016	207	207
+安特卫普大学	University of Antwerp	比利时, 欧洲	QS世界大学排名	2016	208	208
+波恩大学	University of Bonn	德国, 欧洲	QS世界大学排名	2016	210	210
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2016	213	=213
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2016	219	=219
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2016	222	222
+巴黎政治学院	Sciences Po	法国, 欧洲	QS世界大学排名	2016	223	223
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2016	226	226
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2016	227	227

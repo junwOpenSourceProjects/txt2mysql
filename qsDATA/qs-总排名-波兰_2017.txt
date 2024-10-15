@@ -1,0 +1,7 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+华沙大学	University of Warsaw	波兰, 欧洲	QS世界大学排名	2017	366	=366
+克拉科夫雅盖隆大学	Jagiellonian University	波兰, 欧洲	QS世界大学排名	2017	431	431-440
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	QS世界大学排名	2017	601	601-650
+罗兹大学	University of Lodz	波兰, 欧洲	QS世界大学排名	2017	701	701+
+哥白尼大学	Nicolaus Copernicus University	波兰, 欧洲	QS世界大学排名	2017	701	701+
+弗罗茨瓦夫大学	University of Wroclaw	波兰, 欧洲	QS世界大学排名	2017	701	701+

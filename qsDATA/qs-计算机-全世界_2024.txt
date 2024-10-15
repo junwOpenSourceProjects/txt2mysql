@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	计算机科学	2024	1	1
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	计算机科学	2024	2	=2
+斯坦福大学	Stanford University	美国, 北美洲	计算机科学	2024	2	=2
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2024	4	4
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	计算机科学	2024	5	5
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	计算机科学	2024	6	6
+哈佛大学	Harvard University	美国, 北美洲	计算机科学	2024	7	7
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2024	8	8
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2024	9	=9
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	计算机科学	2024	9	=9
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2024	11	=11
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2024	11	=11
+多伦多大学	University of Toronto	加拿大, 北美洲	计算机科学	2024	13	13
+普林斯顿大学	Princeton University	美国, 北美洲	计算机科学	2024	14	14
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	计算机科学	2024	15	15
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2024	16	16
+康奈尔大学	Cornell University	美国, 北美洲	计算机科学	2024	17	17
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	计算机科学	2024	18	18
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	计算机科学	2024	19	19
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2024	20	20
+滑铁卢大学	University of Waterloo	加拿大, 北美洲	计算机科学	2024	21	21
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2024	22	22
+哥伦比亚大学	Columbia University	美国, 北美洲	计算机科学	2024	23	=23
+纽约大学	New York University	美国, 北美洲	计算机科学	2024	23	=23
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	计算机科学	2024	25	25
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	计算机科学	2024	26	26
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2024	27	27
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	计算机科学	2024	28	28
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	计算机科学	2024	29	29
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	计算机科学	2024	30	30
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2024	31	31
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	计算机科学	2024	32	32
+耶鲁大学	Yale University	美国, 北美洲	计算机科学	2024	33	33
+麦吉尔大学	Mcgill University	加拿大, 北美洲	计算机科学	2024	34	34
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	计算机科学	2024	35	35
+巴黎理工学院	Institut Polytechnique De Paris	法国, 欧洲	计算机科学	2024	36	=36
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2024	36	=36
+东京大学	The University of Tokyo	日本, 亚洲	计算机科学	2024	38	=38
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	计算机科学	2024	38	=38
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	计算机科学	2024	40	40
+加州理工学院	California Institute of Technology	美国, 北美洲	计算机科学	2024	41	=41
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	计算机科学	2024	41	=41
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	计算机科学	2024	43	43
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2024	44	=44
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	计算机科学	2024	44	=44
+萨克雷大学(巴黎第十一大学)	Universite Paris Saclay (university of Paris-sud, Paris 11)	法国, 欧洲	计算机科学	2024	44	=44
+蒙特利尔大学	University of Montreal	加拿大, 北美洲	计算机科学	2024	44	=44
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2024	48	48
+马里兰大学-大学城	University of Maryland, College Park	美国, 北美洲	计算机科学	2024	49	49
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	计算机科学	2024	50	50
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	计算机科学	2024	51	51
+索邦大学	Sorbonne University	法国, 欧洲	计算机科学	2024	52	=52
+香港大学	The University of Hong Kong	中国香港, 亚洲	计算机科学	2024	52	=52
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2024	54	54
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	计算机科学	2024	55	55
+芝加哥大学	University of Chicago	美国, 北美洲	计算机科学	2024	56	=56
+南加州大学	University of Southern California	美国, 北美洲	计算机科学	2024	56	=56
+巴黎文理研究大学	Université Psl	法国, 欧洲	计算机科学	2024	58	58
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	计算机科学	2024	59	59
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2024	60	60
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2024	61	61
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	计算机科学	2024	62	62
+印度理工学院-德里	Indian Institute of Technology Delhi	印度, 亚洲	计算机科学	2024	63	63
+印度理工学院-孟买	Indian Institute of Technology Bombay	印度, 亚洲	计算机科学	2024	64	=64
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2024	64	=64
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	计算机科学	2024	66	66
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	计算机科学	2024	67	67
+莫纳什大学	Monash University	澳大利亚, 大洋洲	计算机科学	2024	68	68
+普渡大学-西拉法叶	Purdue University, West Lafayette	美国, 北美洲	计算机科学	2024	69	=69
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	计算机科学	2024	69	=69
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2024	71	71
+首尔国立大学	Seoul National University	韩国, 亚洲	计算机科学	2024	72	72
+悉尼科技大学	University of Technology Sydney	澳大利亚, 大洋洲	计算机科学	2024	73	73
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2024	74	74
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2024	75	=75
+马来亚大学	University of Malaya	马来西亚, 亚洲	计算机科学	2024	75	=75
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	计算机科学	2024	77	77
+圣彼得堡国立信息技术、机械与光学大学	Itmo University	俄罗斯, 欧洲	计算机科学	2024	78	78
+台湾大学	National Taiwan University	中国台湾, 亚洲	计算机科学	2024	79	79
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2024	80	=80
+圣保罗大学	University of Sao Paulo	巴西, 南美洲	计算机科学	2024	80	=80
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2024	82	82
+杜克大学	Duke University	美国, 北美洲	计算机科学	2024	83	83
+印度理工学院-坎普尔	Indian Institute of Technology Kanpur	印度, 亚洲	计算机科学	2024	84	=84
+蒙特雷科技大学	Tecnológico De Monterrey	墨西哥, 南美洲	计算机科学	2024	84	=84
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2024	86	86
+印度理工学院-马德拉斯	Indian Institute of Technology Madras	印度, 亚洲	计算机科学	2024	87	87
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	计算机科学	2024	88	=88
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2024	88	=88
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2024	90	90
+哈尔滨工业大学	Harbin Institute of Technology	中国, 亚洲, C9, 双一流, 985, 211, 黑龙江, 理工类, 公立	计算机科学	2024	91	91
+印度理工学院-卡哈拉格普尔	Indian Institute of Technology Kharagpur	印度, 亚洲	计算机科学	2024	92	=92
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2024	92	=92
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	计算机科学	2024	94	94
+印度科学理工学院	Indian Institute of Science	印度, 亚洲	计算机科学	2024	95	=95
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	计算机科学	2024	95	=95
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	计算机科学	2024	97	=97
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2024	97	=97
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2024	99	=99
+华中科技大学	Huazhong University of Science And Technology	中国, 亚洲, 双一流, 985, 211, 湖北, 综合类, 公立	计算机科学	2024	99	=99

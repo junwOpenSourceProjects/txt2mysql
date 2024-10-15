@@ -1,0 +1,15 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+法赫德国王石油矿产大学	King Fahd University of Petroleum & Minerals	沙特, 亚洲	QS世界大学排名	2017	189	189
+沙特国王大学	King Saud University	沙特, 亚洲	QS世界大学排名	2017	227	227
+阿卜杜勒阿齐兹国王大学	King Abdulaziz University	沙特, 亚洲	QS世界大学排名	2017	283	=283
+哈里发大学	Khalifa University	沙特, 亚洲	QS世界大学排名	2017	401	401-410
+阿联酋大学	United Arab Emirates University	沙特, 亚洲	QS世界大学排名	2017	411	411-420
+沙迦美国大学	American University of Sharjah	沙特, 亚洲	QS世界大学排名	2017	441	441-450
+哈立德国王大学	King Khalid University	沙特, 亚洲	QS世界大学排名	2017	501	501-550
+乌姆埃尔古拉大学	Umm Al-qura University	沙特, 亚洲	QS世界大学排名	2017	501	501-550
+迪拜美国大学	American University In Dubai	沙特, 亚洲	QS世界大学排名	2017	551	551-600
+伊玛目穆罕默德·本·沙特伊斯兰大学	Imam Mohammad Ibn Saud Islamic University	沙特, 亚洲	QS世界大学排名	2017	651	651-700
+沙迦大学	University of Sharjah	沙特, 亚洲	QS世界大学排名	2017	651	651-700
+阿布扎比大学	Abu Dhabi University	沙特, 亚洲	QS世界大学排名	2017	701	701+
+费萨尔国王大学	King Faisal University	沙特, 亚洲	QS世界大学排名	2017	701	701+
+阿卜杜拉国王科技大学	King Abdullah University of Science And Technology	沙特, 亚洲	QS世界大学排名	2017	9999	N/A

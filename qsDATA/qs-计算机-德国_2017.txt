@@ -1,0 +1,30 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2017	40	40
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2017	51	51-100
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2017	51	51-100
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2017	51	51-100
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2017	51	51-100
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2017	101	101-150
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2017	101	101-150
+萨尔大学	Saarland University	德国, 欧洲	计算机科学	2017	101	101-150
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2017	151	151-200
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2017	151	151-200
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2017	151	151-200
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2017	151	151-200
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2017	201	201-250
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	计算机科学	2017	201	201-250
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2017	201	201-250
+图宾根大学	University of Tuebingen	德国, 欧洲	计算机科学	2017	301	301-350
+哥廷根大学	University of Goettingen	德国, 欧洲	计算机科学	2017	301	301-350
+埃朗根-纽伦堡大学	University of Erlangen, Nuremberg	德国, 欧洲	计算机科学	2017	301	301-350
+汉堡大学	University of Hamburg	德国, 欧洲	计算机科学	2017	301	301-350
+莱比锡大学	University of Leipzig	德国, 欧洲	计算机科学	2017	301	301-350
+明斯特大学	University of Muenster	德国, 欧洲	计算机科学	2017	301	301-350
+波鸿大学	University of Bochum	德国, 欧洲	计算机科学	2017	351	351-400
+布伦瑞克工业大学	Technical University of Braunschweig	德国, 欧洲	计算机科学	2017	351	351-400
+杜伊斯堡-埃森大学	University of Duisburg, Essen	德国, 欧洲	计算机科学	2017	351	351-400
+法兰克福大学	University of Frankfurt	德国, 欧洲	计算机科学	2017	351	351-400
+比勒费尔德大学	Bielefeld University	德国, 欧洲	计算机科学	2017	401	401-450
+不来梅大学	University of Bremen	德国, 欧洲	计算机科学	2017	401	401-450
+康斯坦茨大学	University of Konstanz	德国, 欧洲	计算机科学	2017	401	401-450
+汉诺威大学	University of Hannover	德国, 欧洲	计算机科学	2017	451	451-500

@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2020	1	1
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2020	2	2
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2020	3	3
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2020	4	4
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2020	5	5
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2020	6	6
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2020	7	7
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2020	8	8
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2020	9	9
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2020	10	10
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	QS世界大学排名	2020	11	11
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	QS世界大学排名	2020	11	11
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2020	13	13
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2020	14	14
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2020	15	15
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2020	16	16
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2020	17	17
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2020	18	18
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2020	18	18
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2020	20	20
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2020	21	21
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2020	22	22
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2020	22	22
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2020	24	24
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2020	25	25
+香港大学	The University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2020	25	25
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2020	27	27
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2020	28	28
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	QS世界大学排名	2020	29	29
+多伦多大学	University of Toronto	加拿大, 北美洲	QS世界大学排名	2020	29	29
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2020	31	31
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	QS世界大学排名	2020	32	32
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2020	33	33
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2020	33	33
+麦吉尔大学	Mcgill University	加拿大, 北美洲	QS世界大学排名	2020	35	35
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2020	35	35
+首尔国立大学	Seoul National University	韩国, 亚洲	QS世界大学排名	2020	37	37
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	QS世界大学排名	2020	38	38
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2020	39	39
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2020	40	40
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	QS世界大学排名	2020	41	41
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	QS世界大学排名	2020	42	42
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	QS世界大学排名	2020	43	43
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2020	44	44
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2020	45	45
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2020	46	46
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	QS世界大学排名	2020	47	47
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2020	48	48
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2020	49	49
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2020	50	50
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	QS世界大学排名	2020	51	51
+香港城市大学	City University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2020	52	52
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2020	53	53
+浙江大学	Zhejiang University	中国, 亚洲, C9, 双一流, 985, 211, 浙江, 综合类, 公立	QS世界大学排名	2020	54	54
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2020	55	55
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2020	56	56
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2020	57	57
+莫纳什大学	Monash University	澳大利亚, 大洋洲	QS世界大学排名	2020	58	58
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2020	58	58
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2020	60	60
+上海交通大学	Shanghai Jiao Tong University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2020	60	60
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2020	62	62
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2020	63	63
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2020	64	64
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2020	65	65
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2020	66	66
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2020	67	67
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2020	68	68
+台湾大学	National Taiwan University	中国台湾, 亚洲	QS世界大学排名	2020	69	69
+马来亚大学	University of Malaya	马来西亚, 亚洲	QS世界大学排名	2020	70	70
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2020	71	71
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2020	72	72
+布宜诺斯艾利斯大学	University of Buenos Aires	阿根廷, 南美洲	QS世界大学排名	2020	74	74
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2020	75	75
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2020	76	76
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2020	77	77
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2020	78	78
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2020	78	78
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2020	80	80
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2020	81	=81
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2020	81	81
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2020	82	82
+高丽大学	Korea University	韩国, 亚洲	QS世界大学排名	2020	83	83
+奥克兰大学，新西兰	The University of Auckland	新西兰, 大洋洲	QS世界大学排名	2020	83	=83
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2020	84	84
+莱斯大学	Rice University	美国, 北美洲	QS世界大学排名	2020	85	85
+西澳大利亚大学	The University of Western Australia	澳大利亚, 大洋洲	QS世界大学排名	2020	86	86
+浦项理工大学	Pohang University of Science And Technology	韩国, 亚洲	QS世界大学排名	2020	87	87
+中国科学技术大学	University of Science And Technology of China	中国, 亚洲, C9, 双一流, 985, 211, 安徽, 理工类, 公立	QS世界大学排名	2020	89	89
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2020	90	90
+香港理工大学	The Hong Kong Polytechnic University	中国香港, 亚洲	QS世界大学排名	2020	91	91
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2020	92	92
+宾夕法尼亚州立大学-大学城	Pennsylvania State University, University Park	美国, 北美洲	QS世界大学排名	2020	93	93
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2020	93	93
+成均馆大学	Sungkyunkwan University	韩国, 亚洲	QS世界大学排名	2020	95	95
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2020	96	96
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2020	97	97
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2020	98	98
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2020	98	98
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2020	100	100

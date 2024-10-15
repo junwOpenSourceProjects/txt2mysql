@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	计算机科学	2016	3	3
+剑桥大学	University of Cambridge	英国, 欧洲	计算机科学	2016	6	6
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	计算机科学	2016	8	8
+帝国理工学院	Imperial College London	英国, 欧洲	计算机科学	2016	12	12
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	计算机科学	2016	18	18
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	计算机科学	2016	20	20
+伦敦大学学院	University College London	英国, 欧洲	计算机科学	2016	33	33
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	计算机科学	2016	36	=36
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	计算机科学	2016	43	43
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	计算机科学	2016	51	51-100
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	计算机科学	2016	51	51-100
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	计算机科学	2016	51	51-100
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	计算机科学	2016	51	51-100
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	计算机科学	2016	51	51-100
+伦敦国王学院	King's College London	英国, 欧洲	计算机科学	2016	51	51-100
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	计算机科学	2016	51	51-100
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	计算机科学	2016	51	51-100
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	计算机科学	2016	51	51-100
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	计算机科学	2016	51	51-100
+慕尼黑大学	University of Munich	德国, 欧洲	计算机科学	2016	51	51-100
+都灵理工大学	Polytechnic University of Turin	意大利, 欧洲	计算机科学	2016	51	51-100
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	计算机科学	2016	51	51-100
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	计算机科学	2016	51	51-100
+柏林工业大学	Technical University of Berlin	德国, 欧洲	计算机科学	2016	51	51-100
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	计算机科学	2016	51	51-100
+曼彻斯特大学	The University of Manchester	英国, 欧洲	计算机科学	2016	51	51-100
+博洛尼亚大学	University of Bologna	意大利, 欧洲	计算机科学	2016	51	51-100
+加泰罗尼亚理工大学	Polytechnic University of Catalonia	西班牙, 欧洲	计算机科学	2016	51	51-100
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	计算机科学	2016	51	51-100
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	计算机科学	2016	51	51-100
+南安普敦大学	University of Southampton	英国, 欧洲	计算机科学	2016	51	51-100
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2016	101	101-150
+奥胡斯大学	Aarhus University	丹麦, 欧洲	计算机科学	2016	101	101-150
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	计算机科学	2016	101	101-150
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	计算机科学	2016	101	101-150
+兰卡斯特大学	Lancaster University	英国, 欧洲	计算机科学	2016	101	101-150
+雅典国家技术大学	National Technical University of Athens	希腊, 欧洲	计算机科学	2016	101	101-150
+海德堡大学	Heidelberg University	德国, 欧洲	计算机科学	2016	101	101-150
+达姆施塔特工业大学	Technical University Darmstadt	德国, 欧洲	计算机科学	2016	101	101-150
+华威大学	The University of Warwick	英国, 欧洲	计算机科学	2016	101	101-150
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	计算机科学	2016	101	101-150
+比萨大学	University of Pisa	意大利, 欧洲	计算机科学	2016	101	101-150
+萨尔大学	Saarland University	德国, 欧洲	计算机科学	2016	101	101-150
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	计算机科学	2016	101	101-150
+伯明翰大学	University of Birmingham	英国, 欧洲	计算机科学	2016	101	101-150
+布里斯托尔大学	University of Bristol	英国, 欧洲	计算机科学	2016	101	101-150
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	计算机科学	2016	101	101-150
+奥斯陆大学	University of Oslo	挪威, 欧洲	计算机科学	2016	101	101-150
+约克大学，约克	University of York	英国, 欧洲	计算机科学	2016	101	101-150
+苏黎世大学	University of Zurich	瑞士, 欧洲	计算机科学	2016	101	101-150
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	计算机科学	2016	101	101-150
+奥尔堡大学	Aalborg University	丹麦, 欧洲	计算机科学	2016	151	151-200
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	计算机科学	2016	151	151-200
+布拉格捷克理工大学	Czech Technical University In Prague	捷克, 欧洲	计算机科学	2016	151	151-200
+隆德大学	Lund University	瑞典, 欧洲	计算机科学	2016	151	151-200
+挪威科学技术大学	Norwegian University of Science And Technology, NTNU	挪威, 欧洲	计算机科学	2016	151	151-200
+波恩大学	University of Bonn	德国, 欧洲	计算机科学	2016	151	151-200
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	计算机科学	2016	151	151-200
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	计算机科学	2016	151	151-200
+诺丁汉大学	University of Nottingham	英国, 欧洲	计算机科学	2016	151	151-200
+马德里卡洛斯三世大学	Universidad Carlos Iii De Madrid	西班牙, 欧洲	计算机科学	2016	151	151-200
+米兰大学	University of Milan	意大利, 欧洲	计算机科学	2016	151	151-200
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	计算机科学	2016	151	151-200
+斯图加特大学	University of Stuttgart	德国, 欧洲	计算机科学	2016	151	151-200
+维也纳大学	University of Vienna	奥地利, 欧洲	计算机科学	2016	151	151-200
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	计算机科学	2016	151	151-200
+巴黎第六大学	Universit Pierre Et Marie Curie Universit Paris Vi	法国, 欧洲	计算机科学	2016	151	151-200
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2016	151	151-200
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	计算机科学	2016	151	151-200
+乌得勒支大学	Utrecht University	荷兰, 欧洲	计算机科学	2016	151	151-200
+都柏林城市大学	Dublin City University	爱尔兰, 欧洲	计算机科学	2016	201	201-250
+柏林自由大学	Free University of Berlin	德国, 欧洲	计算机科学	2016	201	201-250
+林茨大学	Johannes Kepler University Linz	奥地利, 欧洲	计算机科学	2016	201	201-250
+雅典大学	National And Kapodistrian University of Athens	希腊, 欧洲	计算机科学	2016	201	201-250
+爱尔兰国立大学高威	National University of Ireland, Galway	爱尔兰, 欧洲	计算机科学	2016	201	201-250
+马德里理工大学	Polytechnic University of Madrid	西班牙, 欧洲	计算机科学	2016	201	201-250
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	计算机科学	2016	201	201-250
+圣彼得堡国立大学	Saint Petersburg State University	俄罗斯, 欧洲	计算机科学	2016	201	201-250
+多特蒙德工业大学	Technical University of Dortmund	德国, 欧洲	计算机科学	2016	201	201-250
+格拉茨技术大学	Graz University of Technology	奥地利, 欧洲	计算机科学	2016	201	201-250
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	计算机科学	2016	201	201-250
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	计算机科学	2016	201	201-250
+特兰托大学	University of Trento	意大利, 欧洲	计算机科学	2016	201	201-250
+弗莱堡大学	University of Freiburg	德国, 欧洲	计算机科学	2016	201	201-250
+布鲁塞尔自由大学，法语	Université Libre De Bruxelles, Ulb	比利时, 欧洲	计算机科学	2016	201	201-250
+科克大学学院	University College Cork	爱尔兰, 欧洲	计算机科学	2016	201	201-250
+日内瓦大学	University of Geneva	瑞士, 欧洲	计算机科学	2016	201	201-250
+根特大学	Ghent University	比利时, 欧洲	计算机科学	2016	201	201-250
+利物浦大学	University of Liverpool	英国, 欧洲	计算机科学	2016	201	201-250
+华沙大学	University of Warsaw	波兰, 欧洲	计算机科学	2016	201	201-250
+华沙工业大学	Warsaw University of Technology	波兰, 欧洲	计算机科学	2016	201	201-250
+萨洛尼卡大学	Aristotle University of Thessaloniki	希腊, 欧洲	计算机科学	2016	251	251-300
+布鲁内尔大学	Brunel University	英国, 欧洲	计算机科学	2016	251	251-300
+布达佩斯技术大学	Budapest University of Technology And Economics	匈牙利, 欧洲	计算机科学	2016	251	251-300
+卡迪夫大学	Cardiff University	英国, 欧洲	计算机科学	2016	251	251-300
+布拉格查尔斯大学	Charles University In Prague	捷克, 欧洲	计算机科学	2016	251	251-300
+伦敦城市大学	City, University of London	英国, 欧洲	计算机科学	2016	251	251-300
+莱顿大学	Leiden University	荷兰, 欧洲	计算机科学	2016	251	251-300
+林雪平大学	Linkoping University	瑞典, 欧洲	计算机科学	2016	251	251-300
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	计算机科学	2016	251	251-300

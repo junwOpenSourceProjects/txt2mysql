@@ -1,0 +1,6 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+阿尔托大学	Aalto University	芬兰, 欧洲	计算机科学	2024	99	=99
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	计算机科学	2024	139	=139
+坦佩雷大学	University of Tampere	芬兰, 欧洲	计算机科学	2024	251	251-300
+奥卢大学	University of Oulu	芬兰, 欧洲	计算机科学	2024	301	301-350
+于韦斯屈莱大学	University of Jyvaskyla	芬兰, 欧洲	计算机科学	2024	451	451-500

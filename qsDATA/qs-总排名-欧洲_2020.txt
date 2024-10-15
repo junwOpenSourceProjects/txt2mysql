@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2020	4	4
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2020	6	6
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2020	7	7
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2020	8	8
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2020	9	9
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2020	18	18
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2020	20	20
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2020	27	27
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2020	33	33
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2020	44	44
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2020	49	49
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2020	50	50
+巴黎文理研究大学	Université Psl	法国, 欧洲	QS世界大学排名	2020	53	53
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2020	55	55
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2020	60	60
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2020	62	62
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2020	63	63
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2020	64	64
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2020	66	66
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2020	67	67
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2020	76	76
+索邦大学	Sorbonne University	法国, 欧洲	QS世界大学排名	2020	77	77
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2020	78	78
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2020	78	78
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2020	80	80
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2020	81	=81
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2020	81	81
+莫斯科国立大学	Moscow State University	俄罗斯, 欧洲	QS世界大学排名	2020	84	84
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2020	92	92
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2020	93	93
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2020	96	96
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2020	97	97
+皇家理工学院	Kth Royal Institute of Technology	瑞典, 欧洲	QS世界大学排名	2020	98	98
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2020	100	100
+埃因霍温工业大学	Eindhoven University of Technology	荷兰, 欧洲	QS世界大学排名	2020	102	102
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2020	107	107
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2020	108	108
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2020	110	110
+丹麦技术大学	Technical University of Denmark	丹麦, 欧洲	QS世界大学排名	2020	112	112
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2020	114	114
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2020	116	116
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2020	118	118
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2020	119	119
+柏林洪堡大学	Humboldt University of Berlin	德国, 欧洲	QS世界大学排名	2020	120	120
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2020	120	120
+伯尔尼大学	University of Bern	瑞士, 欧洲	QS世界大学排名	2020	123	123
+卡尔斯鲁厄理工学院	Karlsruhe Institute of Technology, Kit	德国, 欧洲	QS世界大学排名	2020	124	124
+查尔姆斯理工大学	Chalmers University of Technology	瑞典, 欧洲	QS世界大学排名	2020	125	=125
+瓦格宁根大学	University of Wageningen	荷兰, 欧洲	QS世界大学排名	2020	125	125
+伦敦大学玛丽女王学院	Queen Mary University of London	英国, 欧洲	QS世界大学排名	2020	126	126
+兰卡斯特大学	Lancaster University	英国, 欧洲	QS世界大学排名	2020	128	128
+柏林自由大学	Free University of Berlin	德国, 欧洲	QS世界大学排名	2020	130	130
+根特大学	Ghent University	比利时, 欧洲	QS世界大学排名	2020	130	130
+阿尔托大学	Aalto University	芬兰, 欧洲	QS世界大学排名	2020	134	134
+亚琛工业大学	Rwth Aachen University	德国, 欧洲	QS世界大学排名	2020	138	138
+法国巴黎中央理工-高等电力学院	Centralesupelec	法国, 欧洲	QS世界大学排名	2020	139	139
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2020	145	145
+纽卡斯尔大学，英国纽卡斯尔	Newcastle University	英国, 欧洲	QS世界大学排名	2020	146	146
+柏林工业大学	Technical University of Berlin	德国, 欧洲	QS世界大学排名	2020	147	147
+约克大学，约克	University of York	英国, 欧洲	QS世界大学排名	2020	148	148
+米兰理工大学	Polytechnic Institute of Milan	意大利, 欧洲	QS世界大学排名	2020	149	149
+巴塞尔大学	University of Basel	瑞士, 欧洲	QS世界大学排名	2020	151	151
+洛桑大学	University of Lausanne	瑞士, 欧洲	QS世界大学排名	2020	153	153
+卡迪夫大学	Cardiff University	英国, 欧洲	QS世界大学排名	2020	154	154
+维也纳大学	University of Vienna	奥地利, 欧洲	QS世界大学排名	2020	154	154
+里昂高等师范学校	Ecole Normale Superieure - Lyon	法国, 欧洲	QS世界大学排名	2020	160	160
+卑尔根大学	University of Bergen	挪威, 欧洲	QS世界大学排名	2020	163	163
+埃克塞特大学	University of Exeter	英国, 欧洲	QS世界大学排名	2020	163	163
+巴塞罗那大学	University of Barcelona	西班牙, 欧洲	QS世界大学排名	2020	165	165
+鲁汶大学，法语	Catholic University of Louvain	比利时, 欧洲	QS世界大学排名	2020	167	167
+图宾根大学	University of Tuebingen	德国, 欧洲	QS世界大学排名	2020	169	169
+弗莱堡大学	University of Freiburg	德国, 欧洲	QS世界大学排名	2020	169	169
+巴思大学	University of Bath	英国, 欧洲	QS世界大学排名	2020	172	172
+贝尔法斯特女王大学	Queen's University Belfast	英国, 欧洲	QS世界大学排名	2020	173	173
+圣安那高等学校	Sant'anna - Scuola Universitaria Superiore Pisa	意大利, 欧洲	QS世界大学排名	2020	177	177
+博洛尼亚大学	University of Bologna	意大利, 欧洲	QS世界大学排名	2020	177	177
+德累斯顿工业大学	Dresden University of Technology	德国, 欧洲	QS世界大学排名	2020	179	179
+利物浦大学	University of Liverpool	英国, 欧洲	QS世界大学排名	2020	181	181
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2020	183	183
+都柏林大学学院	The University of Dublin	爱尔兰, 欧洲	QS世界大学排名	2020	185	185
+特文特大学	University of Twente	荷兰, 欧洲	QS世界大学排名	2020	186	186
+巴塞罗那自治大学	Autonomous University of Barcelona	西班牙, 欧洲	QS世界大学排名	2020	188	188
+斯德哥尔摩大学	Stockholm University	瑞典, 欧洲	QS世界大学排名	2020	191	191
+维也纳工业大学	Vienna University of Technology	奥地利, 欧洲	QS世界大学排名	2020	192	192
+马德里自治大学	Autonomous University of Madrid	西班牙, 欧洲	QS世界大学排名	2020	192	192
+阿伯丁大学	University of Aberdeen	英国, 欧洲	QS世界大学排名	2020	194	194
+布鲁塞尔自由大学，佛兰德语	Vrije Universiteit Brussel, Vub	比利时, 欧洲	QS世界大学排名	2020	195	195
+哥廷根大学	University of Goettingen	德国, 欧洲	QS世界大学排名	2020	197	197
+罗马第一大学	Sapienza University of Rome	意大利, 欧洲	QS世界大学排名	2020	203	203
+比萨高等师范学校	Scuola Normale Superiore, Pisa	意大利, 欧洲	QS世界大学排名	2020	204	204
+雷丁大学	The University of Reading	英国, 欧洲	QS世界大学排名	2020	205	205
+马德里康普顿斯大学	Complutense University of Madrid	西班牙, 欧洲	QS世界大学排名	2020	212	212
+奈梅亨大学	Radboud University Nijmegen	荷兰, 欧洲	QS世界大学排名	2020	217	217
+阿姆斯特丹自由大学	Vu University Amsterdam	荷兰, 欧洲	QS世界大学排名	2020	219	219
+拉夫堡大学	Loughborough University	英国, 欧洲	QS世界大学排名	2020	222	222
+安特卫普大学	University of Antwerp	比利时, 欧洲	QS世界大学排名	2020	223	223
+巴黎高等电信学院	Telecom Paris	法国, 欧洲	QS世界大学排名	2020	224	=224
+汉堡大学	University of Hamburg	德国, 欧洲	QS世界大学排名	2020	227	227
+新西伯利亚国立大学	Novosibirsk State University	俄罗斯, 欧洲	QS世界大学排名	2020	231	231
+圣彼得堡国立大学	Saint Petersburg State University	俄罗斯, 欧洲	QS世界大学排名	2020	234	234

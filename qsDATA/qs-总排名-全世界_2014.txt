@@ -1,0 +1,101 @@
+大学名称	大学英文名称	大学标签	排名名称	年份	当前排名（取整）	当前排名（原始数据）
+麻省理工学院	Massachusetts Institute of Technology, MIT	美国, 北美洲	QS世界大学排名	2014	1	1
+哈佛大学	Harvard University	美国, 北美洲	QS世界大学排名	2014	2	2
+剑桥大学	University of Cambridge	英国, 欧洲	QS世界大学排名	2014	3	3
+伦敦大学学院	University College London	英国, 欧洲	QS世界大学排名	2014	4	4
+帝国理工学院	Imperial College London	英国, 欧洲	QS世界大学排名	2014	5	5
+牛津大学	University of Oxford	英国, 欧洲	QS世界大学排名	2014	6	6
+斯坦福大学	Stanford University	美国, 北美洲	QS世界大学排名	2014	7	7
+耶鲁大学	Yale University	美国, 北美洲	QS世界大学排名	2014	8	8
+芝加哥大学	University of Chicago	美国, 北美洲	QS世界大学排名	2014	9	9
+加州理工学院	California Institute of Technology	美国, 北美洲	QS世界大学排名	2014	10	=10
+普林斯顿大学	Princeton University	美国, 北美洲	QS世界大学排名	2014	10	=10
+苏黎世联邦理工学院	Swiss Federal Institute of Technology Zurich	瑞士, 欧洲	QS世界大学排名	2014	12	12
+宾夕法尼亚大学	University of Pennsylvania	美国, 北美洲	QS世界大学排名	2014	13	13
+哥伦比亚大学	Columbia University	美国, 北美洲	QS世界大学排名	2014	14	14
+康奈尔大学	Cornell University	美国, 北美洲	QS世界大学排名	2014	15	15
+约翰霍普金斯大学	Johns Hopkins University	美国, 北美洲	QS世界大学排名	2014	16	16
+爱丁堡大学	The University of Edinburgh	英国, 欧洲	QS世界大学排名	2014	17	=17
+多伦多大学	University of Toronto	加拿大, 北美洲	QS世界大学排名	2014	17	=17
+洛桑联邦理工学院	Swiss Federal Institute of Technology Lausanne	瑞士, 欧洲	QS世界大学排名	2014	19	=19
+伦敦国王学院	King's College London	英国, 欧洲	QS世界大学排名	2014	19	=19
+麦吉尔大学	Mcgill University	加拿大, 北美洲	QS世界大学排名	2014	21	21
+密歇根大学-安娜堡	University of Michigan-ann Arbor	美国, 北美洲	QS世界大学排名	2014	22	22
+杜克大学	Duke University	美国, 北美洲	QS世界大学排名	2014	23	23
+新加坡国立大学	National University of Singapore	新加坡, 亚洲	QS世界大学排名	2014	24	24
+加州大学-伯克利	University of California, Berkeley	美国, 北美洲	QS世界大学排名	2014	25	25
+香港大学	The University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2014	26	26
+澳大利亚国立大学	The Australian National University	澳大利亚, 大洋洲	QS世界大学排名	2014	27	27
+巴黎高等师范学校	Ecole Normale Superieure, Paris	法国, 欧洲	QS世界大学排名	2014	28	28
+西北大学，埃文斯顿	Northwestern University	美国, 北美洲	QS世界大学排名	2014	29	29
+布里斯托尔大学	University of Bristol	英国, 欧洲	QS世界大学排名	2014	30	30
+墨尔本大学	The University of Melbourne	澳大利亚, 大洋洲	QS世界大学排名	2014	31	31
+东京大学	The University of Tokyo	日本, 亚洲	QS世界大学排名	2014	32	32
+曼彻斯特大学	The University of Manchester	英国, 欧洲	QS世界大学排名	2014	33	33
+香港科技大学	The Hong Kong University of Science And Technology	中国香港, 亚洲	QS世界大学排名	2014	34	34
+京都大学	Kyoto University	日本, 亚洲	QS世界大学排名	2014	35	=35
+首尔国立大学	Seoul National University	韩国, 亚洲	QS世界大学排名	2014	35	=35
+威斯康星大学-麦迪逊	University of Wisconsin, Madison	美国, 北美洲	QS世界大学排名	2014	37	37
+悉尼大学	The University of Sydney	澳大利亚, 大洋洲	QS世界大学排名	2014	38	38
+香港中文大学	The Chinese University of Hong Kong	中国香港, 亚洲	QS世界大学排名	2014	39	39
+加州大学-洛杉矶	University of California, Los Angeles	美国, 北美洲	QS世界大学排名	2014	40	40
+巴黎综合理工学院	Ecole Polytechnique	法国, 欧洲	QS世界大学排名	2014	41	=41
+南洋理工大学	Nanyang Technological University	新加坡, 亚洲	QS世界大学排名	2014	41	=41
+昆士兰大学	The University of Queensland	澳大利亚, 大洋洲	QS世界大学排名	2014	43	43
+纽约大学	New York University	美国, 北美洲	QS世界大学排名	2014	44	44
+哥本哈根大学	University of Copenhagen	丹麦, 欧洲	QS世界大学排名	2014	45	45
+北京大学	Peking University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2014	46	46
+布朗大学	Brown University	美国, 北美洲	QS世界大学排名	2014	47	47
+清华大学	Tsinghua University	中国, 亚洲, C9, 双一流, 985, 211, 北京, 综合类, 公立	QS世界大学排名	2014	48	48
+英属哥伦比亚大学	University of British Columbia	加拿大, 北美洲	QS世界大学排名	2014	49	49
+海德堡大学	Heidelberg University	德国, 欧洲	QS世界大学排名	2014	50	50
+格拉斯哥大学	The University of Glasgow	英国, 欧洲	QS世界大学排名	2014	51	51
+新南威尔士大学	The University of New South Wales	澳大利亚, 大洋洲	QS世界大学排名	2014	52	52
+慕尼黑工业大学	Technical University of Munich	德国, 欧洲	QS世界大学排名	2014	53	53
+北卡罗来纳大学-教堂山	University of North Carolina At Chapel Hill	美国, 北美洲	QS世界大学排名	2014	54	54
+大阪大学	Osaka University	日本, 亚洲	QS世界大学排名	2014	55	55
+伊利诺伊大学厄巴纳-香槟分校	University of Illinois At Urbana-champaign	美国, 北美洲	QS世界大学排名	2014	56	56
+卡内基梅隆大学	Carnegie Mellon University	美国, 北美洲	QS世界大学排名	2014	57	57
+阿姆斯特丹大学	University of Amsterdam	荷兰, 欧洲	QS世界大学排名	2014	58	58
+华盛顿大学-西雅图	University of Washington	美国, 北美洲	QS世界大学排名	2014	59	59
+韩国科学技术院	Korea Advanced Institute of Science And Technology	韩国, 亚洲	QS世界大学排名	2014	60	60
+都柏林三一学院	Trinity College Dublin	爱尔兰, 欧洲	QS世界大学排名	2014	61	61
+伯明翰大学	University of Birmingham	英国, 欧洲	QS世界大学排名	2014	62	62
+加州大学-圣地亚哥	University of California, San Diego	美国, 北美洲	QS世界大学排名	2014	63	63
+华威大学	The University of Warwick	英国, 欧洲	QS世界大学排名	2014	64	64
+慕尼黑大学	University of Munich	德国, 欧洲	QS世界大学排名	2014	65	65
+东京工业大学	Tokyo Institute of Technology	日本, 亚洲	QS世界大学排名	2014	66	66
+隆德大学	Lund University	瑞典, 欧洲	QS世界大学排名	2014	67	67
+伦敦政治经济学院	London School of Economics And Political Science	英国, 欧洲	QS世界大学排名	2014	68	68
+莫纳什大学	Monash University	澳大利亚, 大洋洲	QS世界大学排名	2014	69	=69
+赫尔辛基大学	University of Helsinki	芬兰, 欧洲	QS世界大学排名	2014	69	=69
+谢菲尔德大学	The University of Sheffield	英国, 欧洲	QS世界大学排名	2014	71	=71
+日内瓦大学	University of Geneva	瑞士, 欧洲	QS世界大学排名	2014	71	=71
+德克萨斯州大学-奥斯汀	The University of Texas At Austin	美国, 北美洲	QS世界大学排名	2014	71	=71
+莱顿大学	Leiden University	荷兰, 欧洲	QS世界大学排名	2014	74	74
+诺丁汉大学	University of Nottingham	英国, 欧洲	QS世界大学排名	2014	75	=75
+东北大学，仙台	Tohoku University	日本, 亚洲	QS世界大学排名	2014	75	=75
+鲁汶大学，佛兰德语	Ku Leuven	比利时, 欧洲	QS世界大学排名	2014	77	77
+苏黎世大学	University of Zurich	瑞士, 欧洲	QS世界大学排名	2014	78	78
+波士顿大学	Boston University	美国, 北美洲	QS世界大学排名	2014	79	=79
+乌普萨拉大学	Uppsala University	瑞典, 欧洲	QS世界大学排名	2014	79	=79
+乌得勒支大学	Utrecht University	荷兰, 欧洲	QS世界大学排名	2014	81	81
+台湾大学	National Taiwan University	中国台湾, 亚洲	QS世界大学排名	2014	82	82
+圣安德鲁斯大学	University of St Andrews	英国, 欧洲	QS世界大学排名	2014	83	83
+西澳大利亚大学	The University of Western Australia	澳大利亚, 大洋洲	QS世界大学排名	2014	84	84
+加州大学-戴维斯	University of California, Davis	美国, 北美洲	QS世界大学排名	2014	85	85
+南安普敦大学	University of Southampton	英国, 欧洲	QS世界大学排名	2014	86	=86
+华盛顿大学-圣路易斯	Washington University In St. Louis	美国, 北美洲	QS世界大学排名	2014	86	=86
+复旦大学	Fudan University	中国, 亚洲, C9, 双一流, 985, 211, 上海, 综合类, 公立	QS世界大学排名	2014	88	88
+奥斯陆大学	University of Oslo	挪威, 欧洲	QS世界大学排名	2014	89	89
+杜伦大学	Durham University	英国, 欧洲	QS世界大学排名	2014	90	90
+奥胡斯大学	Aarhus University	丹麦, 欧洲	QS世界大学排名	2014	91	91
+伊拉兹马斯大学	Erasmus University Rotterdam	荷兰, 欧洲	QS世界大学排名	2014	92	=92
+蒙特利尔大学	University of Montreal	加拿大, 北美洲	QS世界大学排名	2014	92	=92
+奥克兰大学，新西兰	The University of Auckland	新西兰, 大洋洲	QS世界大学排名	2014	94	94
+代尔夫特理工大学	Delft University of Technology	荷兰, 欧洲	QS世界大学排名	2014	95	95
+阿尔伯塔大学	University of Alberta	加拿大, 北美洲	QS世界大学排名	2014	96	96
+格罗宁根大学	University of Groningen	荷兰, 欧洲	QS世界大学排名	2014	97	=97
+利兹大学	University of Leeds	英国, 欧洲	QS世界大学排名	2014	97	=97
+佐治亚理工学院	Georgia Institute of Technology	美国, 北美洲	QS世界大学排名	2014	99	=99
+名古屋大学	Nagoya University	日本, 亚洲	QS世界大学排名	2014	99	=99
